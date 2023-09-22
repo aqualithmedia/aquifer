@@ -20,9 +20,9 @@ blocks:
     subhead: ''
     body: >
       Quickly build mobile-friendly websites with an intuitive, easy-to-use
-      visual editor and customizable components. Execute your exact design
-      vision with the flexible theme editor and background system. Add your own
-      components, extend the project however you like, and host it anywhere.
+      visual editor and customizable components. Execute your exact design with
+      the flexible theme editor and background system. Add your own components,
+      extend the project however you like, and host it anywhere.
     buttons:
       - label: Get Started
         link: 'https://github.com/MicrogenSite/microgen'
@@ -366,5 +366,6 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
