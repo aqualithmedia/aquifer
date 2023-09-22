@@ -1,6 +1,21 @@
 ---
 blocks:
   - style:
+      alignment: flex-row items-center gap-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: mx-auto
+      featureContent: w-1/2 min-h-0 text-left
+      labelStyles: text-black
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    background:
+      style: bg-cover
+      position: bg-center
+    headline: Headline
+    subhead: Subhead
+    _template: feature
+  - style:
       alignment: 'flex-col-reverse items-center '
       padding: 'pt-64 pb-64 pr-10 pl-10 sm:pt-28 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
@@ -88,6 +103,8 @@ blocks:
           The theme layer gives you complete control over color, typography and
           buttons. See your design system on a beautifully presented stylesheet
           and view global changes in real time as you edit your site.
+        link: 'https://bing.com'
+        buttonLabel: Bing
       - image:
           src: /uploads/image-polaroid.svg
         headline: Backgrounds Matter
@@ -366,6 +383,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
