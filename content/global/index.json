@@ -5,7 +5,7 @@
   "theme": "content/themes/microgen.md",
   "logo": {
     "logoType": "Microgen",
-    "logoTypeStyle": "undefined undefined ",
+    "logoTypeStyle": "text-accent1  ",
     "image": "/uploads/microgen-logo.svg",
     "imageWidth": "224"
   },
