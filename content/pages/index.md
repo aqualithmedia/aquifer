@@ -32,9 +32,12 @@ blocks:
     background:
       fillStyles: bg-accent1 opacity-100
       wrapFillStyles: ' opacity-100'
-      src: ''
-      style: bg-cover
-      position: bg-center
+      src: /uploads/stock/touching-the-wall.jpg
+      style: bg-repeat
+      position: bg-top
+      ornaments:
+        - src: ''
+          yOffset: '200'
     label: ''
     headline: Telling stories through compelling design — including yours.
     subhead: ''
@@ -361,6 +364,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
