@@ -67,7 +67,7 @@ buttons:
     primaryBorder: border-primary border-0
     primaryRounded: rounded-none
     iconSize: 20px
-linkColor: white
+linkColor: accent4
 fonts:
   typekitLink: ''
   typekitFonts:
@@ -75,6 +75,7 @@ fonts:
       fontWeight: '400'
       fontStyle: normal
 ---
+
 
 
 
