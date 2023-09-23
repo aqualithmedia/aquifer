@@ -4,9 +4,9 @@
   "fathomSiteId": "",
   "theme": "content/themes/microgen.md",
   "logo": {
-    "logoType": "Microgen",
-    "logoTypeStyle": "text-accent1  ",
-    "image": "/uploads/microgen-logo.svg",
+    "logoType": "Aqualith Media",
+    "logoTypeStyle": "text-accent1 undefined ",
+    "image": "",
     "imageWidth": "224"
   },
   "nav": {
@@ -23,6 +23,6 @@
       }
     ]
   },
-  "favicon": "/uploads/favicon.png",
+  "favicon": "",
   "footerNav": "true"
 }
