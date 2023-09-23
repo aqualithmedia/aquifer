@@ -11,10 +11,10 @@ blocks:
       subheadStyles: 'text-white mg-copy-large '
       textStyles: 'text-white mg-copy '
     background:
-      fillStyles: bg-accent1 opacity-100
+      fillStyles: bg-primary opacity-60
       wrapFillStyles: ' opacity-100'
       src: /uploads/stock/touching-the-wall.jpg
-      style: bg-repeat
+      style: bg-cover
       position: bg-top
       ornaments:
         - src: /uploads/brand/aqualith-logo-tran-500.png
@@ -386,6 +386,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
