@@ -1,25 +1,6 @@
 ---
 blocks:
   - style:
-      alignment: flex-row items-center gap-0
-      padding: pt-20 pb-20 pr-10 pl-10
-      featureImage: mx-auto
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
-    background:
-      fillStyles: from-accent3 to-accent1 bg-gradient-to-tr opacity-70
-      wrapFillStyles: ' opacity-100'
-      style: bg-cover
-      position: bg-center
-    label: ''
-    headline: ''
-    subhead: ''
-    body: ''
-    _template: feature
-  - style:
       alignment: 'flex-col-reverse items-center '
       padding: 'pt-48 pb-48 pr-10 pl-10 sm:pt-64 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
@@ -38,7 +19,7 @@ blocks:
       ornaments:
         - src: ''
           yOffset: '200'
-    label: ''
+    label: Hero
     headline: Telling stories through compelling design — including yours.
     subhead: ''
     body: |
@@ -364,6 +345,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
