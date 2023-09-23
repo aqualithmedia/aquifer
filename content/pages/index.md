@@ -19,7 +19,7 @@ blocks:
       ornaments:
         - src: ''
           yOffset: '200'
-    label: Hero
+    label: ''
     headline: Telling stories through compelling design — including yours.
     subhead: ''
     body: |
@@ -345,6 +345,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
