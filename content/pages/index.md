@@ -17,8 +17,12 @@ blocks:
       style: bg-repeat
       position: bg-top
       ornaments:
-        - src: ''
-          yOffset: '200'
+        - src: /uploads/brand/aqualith-logo-tran-500.png
+          alignment: left
+          width: '400'
+          height: '400'
+          xOffset: ''
+          yOffset: '175'
     label: STORY
     headline: Setting the water table
     subhead: ''
@@ -382,6 +386,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
