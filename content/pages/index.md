@@ -205,7 +205,7 @@ blocks:
           alignment: bottom
     label: ''
     headline: Components
-    subhead: ''
+    subhead: (keep until done with above)
     body: ''
     items:
       - image:
@@ -345,6 +345,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
