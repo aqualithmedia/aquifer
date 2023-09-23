@@ -18,7 +18,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: 'pt-64 pb-64 pr-10 pl-10 sm:pt-28 sm:pb-28 sm:pr-5 sm:pl-5'
+      padding: 'pt-48 pb-48 pr-10 pl-10 sm:pt-64 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: 'w-2/3 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
       buttonsLayout: 'flex-wrap  '
@@ -35,9 +35,7 @@ blocks:
     headline: Telling stories through compelling design — including yours.
     subhead: ''
     body: |
-      Now open for contract and freelance. 
-
-      Let's chat.
+      Now open for contract and freelance.
     buttons:
       - label: Let's chat
         link: 'https://calendly.com/consultwithryan/networking'
@@ -383,6 +381,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
