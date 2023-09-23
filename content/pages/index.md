@@ -19,9 +19,9 @@ blocks:
       ornaments:
         - src: ''
           yOffset: '200'
-    label: ''
-    headline: Telling stories through compelling design — including yours.
-    subhead: Now open for contract and freelance.
+    label: STORY
+    headline: Setting the water table
+    subhead: ''
     body: ''
     buttons:
       - label: Let's chat
@@ -31,21 +31,22 @@ blocks:
         fathomId: ''
     _template: feature
   - style:
-      alignment: 'flex-row items-center '
-      padding: pt-20 pb-20 pr-10 pl-10
+      alignment: 'flex-col-reverse items-center '
+      padding: pt-20 pb-20 pr-0 pl-0
       featureImage: '  mx-auto'
-      featureContent: w-1/2 min-h-0 text-left
+      featureContent: w-3/5 min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-black mg-hidden undefined
-      headlineStyles: text-primary mg-headline-medium undefined
+      headlineStyles: 'text-primary mg-headline-large '
       subheadStyles: text-primary undefined undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-accent2 undefined undefined
     background:
       style: bg-cover
       position: bg-center
-    headline: Telling stories through compelling design — including yours.
-    subhead: Subhead
-    body: ''
+    headline: Telling stories through compelling design.
+    subhead: Including yours.
+    body: |
+      Now open for contract and freelance.
     buttons:
       - label: Let's chat
         link: /contact
@@ -381,6 +382,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
