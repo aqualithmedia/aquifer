@@ -107,12 +107,13 @@ blocks:
         buttonLabel: Hydrate your game
       - image:
           src: /uploads/image-polaroid.svg
-        headline: Backgrounds Matter
-        subhead: ''
+        headline: Media
+        subhead: Sights and sounds.
         body: >
-          Background control takes a layered approach for flexible control. Add
-          a color or gradient background, place an image over it and layer an
-          unlimited number of other images with precision placement.
+          Documenting nerdery and creative forms of engagement through podcasts,
+          blogs, and the social web.
+        link: '#'
+        buttonLabel: Consume
       - image:
           src: /uploads/chart-network.svg
         headline: Endlessly Extendable
@@ -383,6 +384,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
