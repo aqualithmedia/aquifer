@@ -88,12 +88,12 @@ blocks:
         buttonStyle: primary
     items:
       - image:
-          src: /uploads/bolt.svg
+          src: /uploads/bring-forward.svg
         headline: Consultancy
-        subhead: Leave the eyerolls behind.
+        subhead: Leave that centralization behind.
         body: >
-          Digital and print design solutions backed by over 20 years of graphics
-          expertise to ensure your project truly stands out.
+          Future-proofed value in the form of design solutions that ensure your
+          project truly stands out.
         link: '#'
         buttonLabel: Deploy your stuff
       - image:
@@ -104,7 +104,7 @@ blocks:
           Publishing tabletop roleplaying game products designed to drop right
           into your favorite systems.
         link: '#'
-        buttonLabel: Hydrate your game
+        buttonLabel: Roll for initiative
       - image:
           src: /uploads/image-polaroid.svg
         headline: Media
@@ -113,7 +113,7 @@ blocks:
           Documenting nerdery and creative forms of engagement through podcasts,
           blogs, and the social web.
         link: '#'
-        buttonLabel: Consume
+        buttonLabel: Value for value
       - image:
           src: /uploads/chart-network.svg
         headline: Endlessly Extendable
@@ -384,6 +384,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
