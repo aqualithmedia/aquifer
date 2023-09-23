@@ -14,6 +14,7 @@ blocks:
       position: bg-center
     headline: Headline
     subhead: Subhead
+    body: ''
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
@@ -31,17 +32,16 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: A visual site builder you own
+    headline: Telling stories through compelling design — including yours.
     subhead: ''
-    body: >
-      Quickly build mobile-friendly websites with an intuitive, easy-to-use
-      visual editor and customizable components. Execute your exact design with
-      the flexible theme editor and background system. Add your own components,
-      extend the project however you like, and host it anywhere.
+    body: |
+      Now open for contract and freelance. 
+
+      Let's chat.
     buttons:
-      - label: Get Started
-        link: 'https://github.com/MicrogenSite/microgen'
-        icon: arrow-right-solid
+      - label: Let's chat
+        link: 'https://calendly.com/consultwithryan/networking'
+        icon: ''
         buttonStyle: primary
         fathomId: ''
     _template: feature
@@ -383,6 +383,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
