@@ -21,15 +21,35 @@ blocks:
           yOffset: '200'
     label: ''
     headline: Telling stories through compelling design — including yours.
-    subhead: ''
-    body: |
-      Now open for contract and freelance.
+    subhead: Now open for contract and freelance.
+    body: ''
     buttons:
       - label: Let's chat
         link: 'https://calendly.com/consultwithryan/networking'
         icon: ''
         buttonStyle: primary
         fathomId: ''
+    _template: feature
+  - style:
+      alignment: flex-row items-center gap-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: mx-auto
+      featureContent: w-1/2 min-h-0 text-left
+      labelStyles: text-black
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    background:
+      style: bg-cover
+      position: bg-center
+    headline: Telling stories through compelling design — including yours.
+    subhead: Subhead
+    body: ''
+    buttons:
+      - label: Let's chat
+        link: /contact
+        icon: arrow-right-solid
+        buttonStyle: primary
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
@@ -360,6 +380,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
