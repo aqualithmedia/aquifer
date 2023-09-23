@@ -10,8 +10,11 @@ blocks:
       subheadStyles: text-black
       textStyles: text-black
     background:
+      fillStyles: from-accent3 to-accent1 bg-gradient-to-tr opacity-70
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
+    label: test
     headline: Headline
     subhead: Subhead
     body: ''
@@ -27,8 +30,9 @@ blocks:
       subheadStyles: 'text-white mg-copy-large '
       textStyles: 'text-white mg-copy '
     background:
-      fillStyles: ' opacity-100'
-      src: /uploads/hero-background.mp4
+      fillStyles: bg-accent1 opacity-100
+      wrapFillStyles: ' opacity-100'
+      src: ''
       style: bg-cover
       position: bg-center
     label: ''
@@ -357,6 +361,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
