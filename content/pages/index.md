@@ -45,7 +45,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-0.5 pr-0 pl-0
+      padding: pt-0 pb-0 pr-0 pl-0
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-white undefined undefined
@@ -72,7 +72,7 @@ blocks:
       buttonWidth: undefined
     background:
       fillStyles: bg-black opacity-100
-      wrapFillStyles: bg-gray-dark opacity-100
+      wrapFillStyles: bg-black opacity-100
       style: bg-cover
       position: bg-center
       ornaments:
@@ -82,10 +82,6 @@ blocks:
     headline: Features
     subhead: ''
     body: ''
-    buttons:
-      - label: New Button
-        link: /
-        buttonStyle: primary
     items:
       - image:
           src: /uploads/bring-forward.svg
@@ -114,29 +110,6 @@ blocks:
           blogs, and the social web.
         link: '#'
         buttonLabel: Value for value
-      - image:
-          src: /uploads/chart-network.svg
-        headline: Endlessly Extendable
-        body: >
-          Take your site beyond stock components by adding your own. Customize
-          content fields to fit your needs, add interactivity, call APIs, and
-          make it your own. Familiar tools like React and Tailwind lower the
-          learning curve.
-      - image:
-          src: /uploads/mobile.svg
-        headline: Mobile Friendly
-        body: >
-          Sites are mobile ready with full featured mobile navigation, and
-          complete control over mobile typography, size and spacing on both the
-          theme and component level. Tweak the mobile view of your site to your
-          heart’s content.
-      - image:
-          src: /uploads/unlock.svg
-        headline: No Lock-In
-        body: >
-          Microgen was built for Protocol Labs and designed for the
-          decentralized internet. Customize it how you choose and host your site
-          on any static host including IPFS. It's yours, for free and forever.
     navigationLabel: features
     _template: cards
   - style:
@@ -384,6 +357,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
