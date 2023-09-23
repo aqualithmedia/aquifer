@@ -101,6 +101,21 @@ blocks:
     navigationLabel: features
     _template: cards
   - style:
+      fullWidth: false
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      labelStyles: 'text-white undefined '
+      headlineStyles: text-primary undefined undefined
+      subheadStyles: text-primary undefined mb-4
+      textStyles: text-accent2 mg-copy undefined
+    background:
+      fillStyles: from-accent4 to-black bg-gradient-to-r opacity-100
+      wrapFillStyles: ' opacity-100'
+      style: bg-cover
+      position: bg-center
+    navigationLabel: Timeline
+    _template: eventTimeline
+  - style:
       alignment: >-
         flex-col-reverse items-center gap-6 sm:flex-col-reverse sm:items-center
         sm:gap-12
@@ -345,6 +360,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
