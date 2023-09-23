@@ -14,9 +14,9 @@ blocks:
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
-    label: test
-    headline: Headline
-    subhead: Subhead
+    label: ''
+    headline: ''
+    subhead: ''
     body: ''
     _template: feature
   - style:
@@ -361,6 +361,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
