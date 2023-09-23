@@ -82,27 +82,29 @@ blocks:
     headline: Features
     subhead: ''
     body: ''
+    buttons:
+      - label: New Button
+        link: /
+        buttonStyle: primary
     items:
       - image:
           src: /uploads/bolt.svg
-        headline: Work Quickly
-        subhead: ''
+        headline: Consultancy
+        subhead: Leave the eyerolls behind.
         body: >
-          Create custom-designed websites quickly with simple, intuitively
-          editable stock components. Navigation, analytics, and SEO are
-          built-in, so you can get started right away.
-        link: ''
-        buttonLabel: ''
+          Digital and print design solutions backed by over 20 years of graphics
+          expertise to ensure your project truly stands out.
+        link: '#'
+        buttonLabel: Deploy your stuff
       - image:
           src: /uploads/brush.svg
-        headline: Complete Design Control
-        subhead: ''
+        headline: Products
+        subhead: Imprinting imagination.
         body: >
-          The theme layer gives you complete control over color, typography and
-          buttons. See your design system on a beautifully presented stylesheet
-          and view global changes in real time as you edit your site.
-        link: 'https://bing.com'
-        buttonLabel: Bing
+          Publishing tabletop roleplaying game products designed to drop right
+          into your favorite systems.
+        link: '#'
+        buttonLabel: Hydrate your game
       - image:
           src: /uploads/image-polaroid.svg
         headline: Backgrounds Matter
@@ -381,6 +383,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
