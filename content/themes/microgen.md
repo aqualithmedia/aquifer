@@ -2,11 +2,11 @@
 name: Microgen
 desktopWidth: '1440'
 colors:
-  primary: '#0090FF'
-  accent1: '#0E4465'
-  accent2: '#1BBF6E'
+  primary: '#6EC1E4'
+  accent1: '#AE640A'
+  accent2: '#FF9971'
   accent3: '#DBEDF9'
-  accent4: '#F5F9FE'
+  accent4: '#DDA861'
   white: '#FFFFFF'
   grayLight: '#E8E8EF'
   gray: '#B0B0BF'
@@ -71,4 +71,5 @@ linkColor: white
 fonts:
   typekitLink: ''
 ---
+
 
