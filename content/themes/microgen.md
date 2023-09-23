@@ -71,10 +71,11 @@ linkColor: white
 fonts:
   typekitLink: ''
   typekitFonts:
-    - fontLabel: Verb
+    - fontLabel: Verb (need to add)
       fontWeight: '400'
       fontStyle: normal
 ---
+
 
 
 
