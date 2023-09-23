@@ -31,14 +31,15 @@ blocks:
         fathomId: ''
     _template: feature
   - style:
-      alignment: flex-row items-center gap-0
+      alignment: 'flex-row items-center '
       padding: pt-20 pb-20 pr-10 pl-10
-      featureImage: mx-auto
+      featureImage: '  mx-auto'
       featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      buttonsLayout: 'flex-row  '
+      labelStyles: text-black mg-hidden undefined
+      headlineStyles: text-primary mg-headline-medium undefined
+      subheadStyles: text-primary undefined undefined
+      textStyles: text-black undefined undefined
     background:
       style: bg-cover
       position: bg-center
@@ -380,6 +381,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
