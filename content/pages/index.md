@@ -4,7 +4,7 @@ blocks:
       alignment: 'flex-col-reverse items-center '
       padding: 'pt-48 pb-48 pr-10 pl-10 sm:pt-64 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
-      featureContent: 'w-2/3 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
+      featureContent: 'w-2/3 min-h-0 text-right sm:w-full sm:min-h-0 sm:text-center'
       buttonsLayout: 'flex-wrap  '
       labelStyles: 'text-white mg-headline-small '
       headlineStyles: 'text-white mg-headline-large '
@@ -28,8 +28,8 @@ blocks:
     subhead: ''
     body: ''
     buttons:
-      - label: Let's chat
-        link: 'https://calendly.com/consultwithryan/networking'
+      - label: Explore
+        link: '#'
         icon: ''
         buttonStyle: primary
         fathomId: ''
@@ -386,6 +386,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
