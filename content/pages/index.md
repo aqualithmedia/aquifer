@@ -36,10 +36,10 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-32 pb-20 pr-0 pl-0
+      padding: 'pt-32 pb-20 pr-0 pl-0 sm:pt-32 sm:pb-20 sm:pr-0 sm:pl-0'
       featureImage: '  mx-auto'
-      featureContent: w-3/5 min-h-0 text-center
-      buttonsLayout: 'flex-row  '
+      featureContent: 'w-3/5 min-h-0 text-center sm:w-3/5 sm:min-h-0 sm:text-center'
+      buttonsLayout: 'flex-col  '
       labelStyles: text-black mg-hidden undefined
       headlineStyles: 'text-primary mg-headline-large '
       subheadStyles: 'text-primary mg-headline-large '
@@ -386,6 +386,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
