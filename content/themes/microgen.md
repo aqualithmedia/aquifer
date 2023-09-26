@@ -3,7 +3,7 @@ name: Microgen
 desktopWidth: '1440'
 colors:
   primary: '#6EC1E4'
-  accent1: '#AE640A'
+  accent1: '#1E3742'
   accent2: '#FF9971'
   accent3: '#DBEDF9'
   accent4: '#DDA861'
@@ -75,6 +75,7 @@ fonts:
       fontWeight: '400'
       fontStyle: normal
 ---
+
 
 
 
