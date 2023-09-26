@@ -41,16 +41,16 @@ blocks:
       featureContent: 'w-3/5 min-h-0 text-center sm:w-3/5 sm:min-h-0 sm:text-center'
       buttonsLayout: 'flex-col  '
       labelStyles: text-black mg-hidden undefined
-      headlineStyles: 'text-primary mg-headline-large '
-      subheadStyles: 'text-primary mg-headline-large '
-      textStyles: text-accent2 mg-copy undefined
+      headlineStyles: 'text-accent1 mg-headline-large '
+      subheadStyles: 'text-accent1 mg-headline-large '
+      textStyles: text-accent1 mg-copy undefined
     background:
       style: bg-cover
       position: bg-center
     headline: Telling stories through compelling design.
     subhead: Including yours.
     body: |
-      Now open for contract and freelance.
+      **Now open for contract and freelance.**
     buttons:
       - label: Let's chat
         link: /contact
@@ -387,6 +387,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
