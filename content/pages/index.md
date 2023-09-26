@@ -381,12 +381,13 @@ meta:
   title: Microgen
   description: ''
 background:
-  fillStyles: from-primary to-white bg-gradient-to-r opacity-90
+  fillStyles: from-primary to-white bg-gradient-to-br opacity-60
   wrapFillStyles: ' opacity-100'
   src: ''
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
