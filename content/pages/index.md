@@ -11,7 +11,7 @@ blocks:
       subheadStyles: 'text-white mg-copy-large '
       textStyles: 'text-white mg-copy '
     background:
-      fillStyles: bg-primary opacity-60
+      fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
       src: /uploads/stock/touching-the-wall.jpg
       style: bg-cover
@@ -29,7 +29,7 @@ blocks:
     body: ''
     buttons:
       - label: 'Have a seat, traveler...'
-        link: '#'
+        link: 'https://aqualith.media'
         icon: ''
         buttonStyle: primary
         fathomId: ''
@@ -387,6 +387,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
