@@ -13,33 +13,33 @@ colors:
   grayDark: '#171717'
   black: '#000000'
 typo:
-  - label: Nav
+  - label: Headline Large
     typography: >-
-      {"family":"Roboto
-      Mono:wght@400","size":"17","lineHeight":"16","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
-  - label: Hidden
-    typography: >-
-      {"family":"Arial","size":"0","lineHeight":"0","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
-  - label: Copy Small
-    typography: >-
-      {"family":"Roboto
-      Mono:wght@400","size":"16","lineHeight":"30","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
-  - label: Copy
-    typography: >-
-      {"family":"Roboto
-      Mono:wght@400","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
-  - label: Headline Small
-    typography: >-
-      {"family":"Roboto
-      Mono:wght@700","size":"24","lineHeight":"30","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+      {"family":"Public
+      Sans:wght@900","size":"40","lineHeight":"44","letterSpacing":"","margin":"20","smSize":"36","smLineHeight":"40","smLetterSpacing":"","smMargin":""}
   - label: Headline Medium
     typography: >-
       {"family":"Roboto
       Mono:wght@700","size":"30","lineHeight":"40","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
-  - label: Headline Large
+  - label: Headline Small
     typography: >-
       {"family":"Roboto
-      Mono:wght@700","size":"40","lineHeight":"44","letterSpacing":"","margin":"20","smSize":"36","smLineHeight":"40","smLetterSpacing":"","smMargin":""}
+      Mono:wght@700","size":"24","lineHeight":"30","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+  - label: Nav
+    typography: >-
+      {"family":"Roboto
+      Mono:wght@400","size":"17","lineHeight":"16","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+  - label: Copy
+    typography: >-
+      {"family":"Roboto
+      Mono:wght@400","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+  - label: Copy Small
+    typography: >-
+      {"family":"Roboto
+      Mono:wght@400","size":"16","lineHeight":"30","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+  - label: Hidden
+    typography: >-
+      {"family":"Arial","size":"0","lineHeight":"0","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
 buttons:
   - label: Icon
     fill: ' opacity-100'
@@ -75,6 +75,7 @@ fonts:
       fontWeight: '400'
       fontStyle: normal
 ---
+
 
 
 
