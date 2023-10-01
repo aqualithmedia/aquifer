@@ -28,7 +28,7 @@ blocks:
     subhead: ''
     body: ''
     buttons:
-      - label: Explore
+      - label: 'Have a seat, traveler...'
         link: '#'
         icon: ''
         buttonStyle: primary
@@ -387,6 +387,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
