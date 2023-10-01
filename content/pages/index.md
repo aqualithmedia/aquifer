@@ -29,7 +29,7 @@ blocks:
     body: ''
     buttons:
       - label: 'Have a seat, traveler...'
-        link: 'https://aqualith.media'
+        link: '#'
         icon: ''
         buttonStyle: primary
         fathomId: ''
@@ -387,6 +387,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
