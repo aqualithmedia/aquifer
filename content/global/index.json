@@ -4,10 +4,10 @@
   "fathomSiteId": "",
   "theme": "content/themes/microgen.md",
   "logo": {
-    "logoType": "AQUALITH MEDIA",
+    "logoType": "Aqualith Media",
     "logoTypeStyle": "text-accent1 mg-headline-medium ",
     "image": "",
-    "imageWidth": "224"
+    "imageWidth": "200"
   },
   "nav": {
     "padding": "pt-6 pb-5 pr-10 pl-10 sm:pt-6 sm:pb-5 sm:pr-5 sm:pl-5",
