@@ -19,8 +19,8 @@ typo:
       Sans:wght@900","size":"40","lineHeight":"44","letterSpacing":"","margin":"20","smSize":"36","smLineHeight":"40","smLetterSpacing":"","smMargin":""}
   - label: Headline Medium
     typography: >-
-      {"family":"Roboto
-      Mono:wght@700","size":"30","lineHeight":"40","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+      {"family":"Public
+      Sans:wght@300","size":"30","lineHeight":"40","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Headline Small
     typography: >-
       {"family":"Roboto
@@ -75,6 +75,7 @@ fonts:
       fontWeight: '400'
       fontStyle: normal
 ---
+
 
 
 
