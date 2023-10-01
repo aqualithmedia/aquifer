@@ -10,7 +10,7 @@
     "imageWidth": "200"
   },
   "nav": {
-    "padding": "pt-6 pb-5 pr-10 pl-10 sm:pt-6 sm:pb-5 sm:pr-5 sm:pl-5",
+    "padding": "pt-6 pb-5 pr-52 pl-10 sm:pt-6 sm:pb-5 sm:pr-5 sm:pl-5",
     "navBackgroundColor": "bg-black opacity-80",
     "navAlignment": "text-right",
     "navTypeStyle": "text-white mg-nav mb-7",
@@ -18,11 +18,37 @@
       {
         "label": "",
         "link": "https://github.com/MicrogenSite/microgen",
-        "icon": "github",
+        "icon": "",
         "style": "icon"
       }
     ]
   },
   "favicon": "",
-  "footerNav": "true"
+  "footerNav": "true",
+  "blocks": [
+    {
+      "tailwind": {
+        "section": "test",
+        "wrap": "test",
+        "imageWrap": "",
+        "image": "",
+        "contentWrap": "",
+        "content": "",
+        "label": "",
+        "headline": "",
+        "subhead": "",
+        "text": "testing",
+        "buttons": ""
+      },
+      "background": {
+        "style": "bg-cover",
+        "position": "bg-center"
+      },
+      "label": "",
+      "headline": "This is the main headline",
+      "subhead": "Here is a subhead",
+      "body": "This is a rich text component you can add hyperlinks, etc.\n",
+      "_template": "tailwindFeature"
+    }
+  ]
 }
