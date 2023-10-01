@@ -31,8 +31,8 @@ typo:
       Mono:wght@400","size":"17","lineHeight":"16","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Copy
     typography: >-
-      {"family":"Roboto
-      Mono:wght@400","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+      {"family":"Public
+      Sans:wght@300","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Copy Small
     typography: >-
       {"family":"Roboto
@@ -75,6 +75,7 @@ fonts:
       fontWeight: '400'
       fontStyle: normal
 ---
+
 
 
 
