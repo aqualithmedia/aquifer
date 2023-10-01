@@ -6,8 +6,8 @@ blocks:
       featureImage: '  mx-auto'
       featureContent: 'w-2/3 min-h-0 text-right sm:w-full sm:min-h-0 sm:text-center'
       buttonsLayout: 'flex-wrap  '
-      labelStyles: text-white mg-nav mb-0
-      headlineStyles: text-white mg-headline-large mb-2.5
+      labelStyles: text-white mg-copy-small mb-0
+      headlineStyles: text-white mg-headline-large mb-0
       subheadStyles: 'text-white mg-copy-large '
       textStyles: 'text-white mg-copy '
     background:
@@ -387,6 +387,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
