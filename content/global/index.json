@@ -5,7 +5,7 @@
   "theme": "content/themes/microgen.md",
   "logo": {
     "logoType": "AQUALITH MEDIA",
-    "logoTypeStyle": "text-accent3 mg-headline-small ",
+    "logoTypeStyle": "text-white mg-headline-medium  sm:text-white mg-headline-medium sm:",
     "image": "",
     "imageWidth": "200"
   },
