@@ -45,6 +45,8 @@ blocks:
       subheadStyles: 'text-accent1 mg-headline-large '
       textStyles: text-accent1 mg-copy undefined
     background:
+      fillStyles: from-primary to-accent3 bg-gradient-to-br opacity-60
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
     headline: Telling stories through compelling design.
@@ -381,12 +383,13 @@ meta:
   title: Microgen
   description: ''
 background:
-  fillStyles: from-primary to-white bg-gradient-to-br opacity-60
+  fillStyles: ' opacity-60'
   wrapFillStyles: ' opacity-100'
   src: ''
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
