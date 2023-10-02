@@ -61,7 +61,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-0 pr-0 pl-0
+      padding: pt-7 pb-0 pr-6 pl-6
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-white mg-hidden undefined
@@ -69,7 +69,7 @@ blocks:
       subheadStyles: text-white undefined mb-0
       textStyles: text-white undefined undefined
     cardStyle:
-      fillStyles: bg-black opacity-100
+      fillStyles: from-accent3 to-accent1 bg-gradient-to-b opacity-50
       grid: >-
         grid-cols-3 justify-start gap-0.5 sm:grid-cols-1 sm:justify-start
         sm:gap-0.5
@@ -389,6 +389,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
