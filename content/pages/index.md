@@ -64,9 +64,9 @@ blocks:
       padding: pt-0 pb-0 pr-0 pl-0
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
-      labelStyles: text-white undefined undefined
-      headlineStyles: text-white mg-hidden undefined
-      subheadStyles: text-white undefined undefined
+      labelStyles: text-white mg-hidden undefined
+      headlineStyles: text-white mg-headline-medium mb-0
+      subheadStyles: text-white undefined mb-0
       textStyles: text-white undefined undefined
     cardStyle:
       fillStyles: bg-black opacity-100
@@ -79,16 +79,16 @@ blocks:
       contentPadding: 'pt-5 pb-12 pr-11 pl-11 sm:pt-5 sm:pb-2.5 sm:pr-5 sm:pl-5'
       borderStyles: border-white border-0
       labelStyles: text-white undefined undefined
-      headlineStyles: text-white mg-headline-small undefined
-      subheadStyles: text-white undefined undefined
-      textStyles: text-white mg-copy-small undefined
+      headlineStyles: text-white mg-headline-medium undefined
+      subheadStyles: text-white mg-headline-small undefined
+      textStyles: text-white mg-copy undefined
       buttonType: primary
       buttonIcon: arrow-right-solid
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: bg-black opacity-100
-      wrapFillStyles: bg-black opacity-100
+      fillStyles: bg-accent1 opacity-100
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
       ornaments:
@@ -107,7 +107,7 @@ blocks:
           Future-proofed value in the form of design solutions that ensure your
           project truly stands out.
         link: '#'
-        buttonLabel: Deploy your stuff
+        buttonLabel: Be set free
       - image:
           src: /uploads/brush.svg
         headline: Products
@@ -389,6 +389,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
