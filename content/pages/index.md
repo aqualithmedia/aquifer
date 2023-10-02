@@ -13,9 +13,9 @@ blocks:
     background:
       fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
-      src: /uploads/stock/touching-the-wall.jpg
+      src: /uploads/story-setting-the-water-table.jpg
       style: bg-cover
-      position: bg-top
+      position: bg-right-top
       ornaments:
         - src: /uploads/brand/aqualith-logo-tran-500.png
           alignment: left
@@ -387,6 +387,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
