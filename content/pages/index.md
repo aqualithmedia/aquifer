@@ -56,7 +56,7 @@ blocks:
     buttons:
       - label: Let's chat
         link: /contact
-        icon: arrow-right-solid
+        icon: x-solid
         buttonStyle: primary
     _template: feature
   - style:
@@ -389,6 +389,7 @@ background:
   style: bg-cover
   position: bg-left
 ---
+
 
 
 
