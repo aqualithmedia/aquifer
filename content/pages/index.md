@@ -126,7 +126,7 @@ blocks:
           blogs, and the social web.
         link: '#'
         buttonLabel: Value for value
-    navigationLabel: features
+    navigationLabel: Features
     _template: cards
   - style:
       fullWidth: false
