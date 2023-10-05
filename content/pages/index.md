@@ -210,7 +210,7 @@ blocks:
         headline: Tina CMS
         body: |
           Tina is an open-source, headless CMS for Markdown, MDX, and JSON.
-    navigationLabel: tooling
+    navigationLabel: Tooling
     _template: cards
   - style:
       alignment: >-
