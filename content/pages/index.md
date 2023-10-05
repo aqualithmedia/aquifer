@@ -13,7 +13,7 @@ blocks:
     background:
       fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
-      src: ''
+      src: /uploads/story-setting-the-water-table-bkgd.jpg
       style: bg-cover
       position: bg-right-top
       ornaments:
