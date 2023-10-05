@@ -290,7 +290,7 @@ blocks:
         body: >
           This is a simplified way of sharing event posts. An easy to read
           overview of the day or month's schedule.
-    navigationLabel: components
+    navigationLabel: Components
     _template: cards
   - style:
       alignment: 'flex-row-reverse items-center gap-12 sm:flex-col sm:items-center sm:'
