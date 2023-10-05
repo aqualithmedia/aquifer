@@ -141,7 +141,7 @@ blocks:
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
-    navigationLabel: Timeline
+    navigationLabel: Projects
     _template: eventTimeline
   - style:
       alignment: >-
