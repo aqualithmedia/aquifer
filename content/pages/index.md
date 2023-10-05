@@ -13,7 +13,7 @@ blocks:
     background:
       fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
-      src: /uploads/story-setting-the-water-table.jpg
+      src: ''
       style: bg-cover
       position: bg-right-top
       ornaments:
@@ -378,54 +378,14 @@ blocks:
       run on **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent
       and open source **[Tina CMS](https://tina.io "Tina CMS")**.
     _template: feature
-backgroundColor: white
-meta:
-  title: Microgen
-  description: ''
 background:
   fillStyles: ' opacity-60'
   wrapFillStyles: ' opacity-100'
   src: ''
   style: bg-cover
   position: bg-left
+meta:
+  title: Microgen
+  description: ''
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
