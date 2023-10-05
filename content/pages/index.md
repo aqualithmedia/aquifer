@@ -319,7 +319,7 @@ blocks:
       other data collection you like to manage team members, products or
       anything else you can imagine. The data structure of these collections is
       completely up to you.
-    navigationLabel: collections
+    navigationLabel: Collections
     _template: feature
   - style:
       alignment: 'flex-row-reverse items-center  sm:flex-col sm:items-center sm:'
