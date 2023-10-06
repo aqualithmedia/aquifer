@@ -151,7 +151,10 @@ blocks:
     label: ''
     headline: Dossier
     subhead: ''
-    body: ''
+    body: |
+      * MeWe
+      * LinkedIn
+      * Fediverse
     items:
       - headline: Professional Summary
         subhead: ''
