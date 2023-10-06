@@ -159,8 +159,10 @@ blocks:
         subhead: ''
       - headline: Socials
         subhead: ''
-      - headline: Affiliate Links
-        subhead: change name
+      - headline: Recommended
+        subhead: ''
+        text: |
+          {affiliate links}
     navigationLabel: Dossier
     _template: accordion
   - style:
