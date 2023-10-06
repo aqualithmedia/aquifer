@@ -65,7 +65,7 @@ blocks:
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-white mg-hidden undefined
-      headlineStyles: text-white mg-headline-medium mb-0
+      headlineStyles: text-white mg-headline-large mb-6
       subheadStyles: text-white undefined mb-0
       textStyles: text-white undefined undefined
     cardStyle:
@@ -104,8 +104,8 @@ blocks:
         headline: Consultancy
         subhead: Leave that centralization behind.
         body: >
-          Future-proofed value in the form of design solutions that ensure your
-          project truly stands out.
+          Modernize and set apart your next great thing with a time-tested
+          graphic designer by your side.
         link: '#'
         buttonLabel: Be set free
       - image:
@@ -114,7 +114,7 @@ blocks:
         subhead: Imprinting imagination.
         body: >
           Publishing tabletop roleplaying game products designed to drop right
-          into your favorite systems.
+          into your imaginary settings and favorite systems.
         link: '#'
         buttonLabel: Roll for initiative
       - image:
@@ -143,6 +143,39 @@ blocks:
       position: bg-center
     navigationLabel: Projects
     _template: eventTimeline
+  - style:
+      alignment: flex-col-reverse items-center gap-6
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureContent: w-full min-h-0 text-left
+      buttonsLayout: flex-row gap-4
+      labelStyles: text-black
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    cardStyle:
+      fillStyles: bg-white opacity-100
+      fillStylesActive: bg-gray-light opacity-100
+      padding: pt-4 pr-4 pb-4 pl-4
+      borderStyles: border-gray border-1
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    background:
+      style: bg-cover
+      position: bg-center
+    label: ''
+    headline: Dossier
+    subhead: ''
+    body: ''
+    items:
+      - headline: Professional Summary
+        subhead: ''
+      - headline: Headline
+        subhead: ''
+      - headline: Headline
+        subhead: ''
+    navigationLabel: Dossier
+    _template: accordion
   - style:
       alignment: >-
         flex-col-reverse items-center gap-6 sm:flex-col-reverse sm:items-center
