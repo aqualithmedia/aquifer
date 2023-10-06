@@ -129,21 +129,6 @@ blocks:
     navigationLabel: Features
     _template: cards
   - style:
-      fullWidth: false
-      minHeight: min-h-0
-      padding: pt-20 pb-20 pr-10 pl-10
-      labelStyles: 'text-white undefined '
-      headlineStyles: text-primary undefined undefined
-      subheadStyles: text-primary undefined mb-4
-      textStyles: text-accent2 mg-copy undefined
-    background:
-      fillStyles: from-accent4 to-black bg-gradient-to-r opacity-100
-      wrapFillStyles: ' opacity-100'
-      style: bg-cover
-      position: bg-center
-    navigationLabel: Projects
-    _template: eventTimeline
-  - style:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-left
@@ -170,7 +155,7 @@ blocks:
     items:
       - headline: Professional Summary
         subhead: ''
-      - headline: Headline
+      - headline: Socials
         subhead: ''
       - headline: Headline
         subhead: ''
