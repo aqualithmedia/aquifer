@@ -155,9 +155,9 @@ blocks:
     items:
       - headline: Professional Summary
         subhead: ''
-      - headline: Socials
+      - headline: Podcast
         subhead: ''
-      - headline: Headline
+      - headline: Socials
         subhead: ''
     navigationLabel: Dossier
     _template: accordion
