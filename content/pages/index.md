@@ -153,13 +153,14 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Affiliate Links
       - headline: Professional Summary
         subhead: ''
       - headline: Podcast
         subhead: ''
       - headline: Socials
         subhead: ''
+      - headline: Affiliate Links
+        subhead: change name
     navigationLabel: Dossier
     _template: accordion
   - style:
