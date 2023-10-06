@@ -158,7 +158,7 @@ blocks:
       - headline: Podcast
         subhead: ''
       - headline: Socials
-        subhead: ''
+        subhead: Treading in other waters
       - headline: Recommended
         subhead: ''
         text: |
