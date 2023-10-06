@@ -153,6 +153,7 @@ blocks:
     subhead: ''
     body: ''
     items:
+      - headline: Affiliate Links
       - headline: Professional Summary
         subhead: ''
       - headline: Podcast
