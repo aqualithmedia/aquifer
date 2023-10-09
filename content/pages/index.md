@@ -153,9 +153,7 @@ blocks:
     headline: Dossier
     subhead: ''
     body: |
-      * MeWe
-      * LinkedIn
-      * Fediverse
+      *
     items:
       - headline: Professional Summary
         subhead: ''
@@ -165,7 +163,10 @@ blocks:
         text: ''
       - headline: Socials
         subhead: Treading in other waters
-        text: ''
+        text: |
+          * [`MeWe`](mewe.com/join/theconsortium "Aqualith Consortium on MeWe")
+          * `LinkedIn`
+          * `Fediverse`
       - headline: Recommended
         subhead: ''
         text: |
