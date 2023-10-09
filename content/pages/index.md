@@ -185,7 +185,7 @@ blocks:
       buttonsLayout: 'flex-row  '
       labelStyles: text-white undefined undefined
       headlineStyles: text-white mg-headline-large undefined
-      subheadStyles: text-white undefined undefined
+      subheadStyles: text-accent2 undefined undefined
       textStyles: text-accent1 undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
@@ -211,8 +211,8 @@ blocks:
         - src: /uploads/rule.svg
           alignment: bottom
     label: ''
-    headline: Components
-    subhead: (keep until done with above)
+    headline: (keep until done with above)
+    subhead: ''
     body: ''
     items:
       - image:
