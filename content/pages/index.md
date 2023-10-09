@@ -169,7 +169,8 @@ blocks:
           * [`LinkedIn`](https://www.linkedin.com/company/aqualith "Aqualith
           Media on LinkedIn")
 
-          * `Fediverse`
+          * [`Fediverse`](https://podcastindex.social/@aqualith "Aqualith Media
+          in Fediverse")
       - headline: Recommended
         subhead: ''
         text: |
