@@ -132,28 +132,27 @@ blocks:
   - style:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-20 pb-20 pr-10 pl-10
-      featureContent: w-full min-h-0 text-left
-      buttonsLayout: flex-row gap-4
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      featureContent: w-full min-h-0 text-center
+      buttonsLayout: 'flex-row  '
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-large mb-6
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: bg-white opacity-100
       fillStylesActive: bg-gray-light opacity-100
-      padding: pt-4 pr-4 pb-4 pl-4
+      padding: pt-4 pb-4 pr-4 pl-4
       borderStyles: border-gray border-1
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
     background:
       style: bg-cover
       position: bg-center
     label: ''
     headline: Dossier
     subhead: ''
-    body: |
-      *
+    body: ''
     items:
       - headline: Professional Summary
         subhead: ''
@@ -326,6 +325,43 @@ blocks:
           overview of the day or month's schedule.
     navigationLabel: Components
     _template: cards
+  - tailwind:
+      section: ''
+      wrap: ''
+      imageWrap: ''
+      image: ''
+      contentWrap: ''
+      content: ''
+      label: ''
+      headline: ''
+      subhead: ''
+      text: ''
+      buttons: ''
+      button: ''
+    background:
+      fillStyles: from-white to-black bg-gradient-to-r opacity-100
+      wrapFillStyles: ' opacity-100'
+      style: bg-cover
+      position: bg-center
+    label: ''
+    headline: This is the main headline
+    subhead: Here is a subhead
+    body: |
+      This is a rich text component you can add hyperlinks, etc.
+    items:
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+      - headline: Here's Another Card
+        subhead: Card Subhead
+        text: |
+          This is a rich text component you can add hyperlinks, etc.
+    _template: tailwindCards
   - style:
       alignment: 'flex-row-reverse items-center gap-12 sm:flex-col sm:items-center sm:'
       padding: 'pt-32 pb-32 pr-14 pl-14 sm:pt-0 sm:pb-10 sm:pr-5 sm:pl-5'
