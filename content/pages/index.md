@@ -163,9 +163,12 @@ blocks:
         text: ''
       - headline: Socials
         subhead: Treading in other waters
-        text: |
+        text: >
           * [`MeWe`](mewe.com/join/theconsortium "Aqualith Consortium on MeWe")
-          * `LinkedIn`
+
+          * [`LinkedIn`](https://www.linkedin.com/company/aqualith "Aqualith
+          Media on LinkedIn")
+
           * `Fediverse`
       - headline: Recommended
         subhead: ''
