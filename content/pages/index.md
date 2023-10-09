@@ -151,7 +151,7 @@ blocks:
       position: bg-center
     label: ''
     headline: Dossier
-    subhead: ''
+    subhead: Subhead
     body: ''
     items:
       - headline: Professional Summary
