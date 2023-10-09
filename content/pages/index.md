@@ -33,6 +33,7 @@ blocks:
         icon: ''
         buttonStyle: primary
         fathomId: ''
+    navigationLabel: Home
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
@@ -95,7 +96,7 @@ blocks:
         - src: /uploads/rule.svg
           alignment: bottom
     label: ''
-    headline: Features
+    headline: Core Features
     subhead: ''
     body: ''
     items:
@@ -126,7 +127,7 @@ blocks:
           blogs, and the social web.
         link: '#'
         buttonLabel: Value for value
-    navigationLabel: Features
+    navigationLabel: Core
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -158,10 +159,13 @@ blocks:
     items:
       - headline: Professional Summary
         subhead: ''
+        text: ''
       - headline: Podcast
         subhead: ''
+        text: ''
       - headline: Socials
         subhead: Treading in other waters
+        text: ''
       - headline: Recommended
         subhead: ''
         text: |
