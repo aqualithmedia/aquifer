@@ -182,6 +182,11 @@ blocks:
           Dip a toe and earn Bitcoin on
           [Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Fountain
           affiliate"), a modern podcast app
+
+
+          Take back your gut with
+          [Plexus](https://shop.plexusworldwide.com/kristinaheck/products "My
+          wife Kristina's Plexus storefront") supplements
     navigationLabel: Dossier
     _template: accordion
   - style:
