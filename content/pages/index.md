@@ -156,7 +156,7 @@ blocks:
     items:
       - headline: Socials
         subhead: Treading in other waters
-        text: "[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")\n\n[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")\n\n[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")\n\n[Session](<Session! (ID: Meridian) \U0001F5E8️> \"Message me directly and securely on Session! (ID: Meridian) \U0001F5E8️\")\n"
+        text: "**[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")**\n\n**[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")**\n\n**[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")**\n\n**[Session](<Session! (ID: Meridian) \U0001F5E8️> \"Message me directly and securely on Session! (ID: Meridian) \U0001F5E8️\")**\n\n[Aqualith on LinkedIn](https://linkedin.com/companies/aqualith \"Follow Aqualith Media on LinkedIn\")\n"
       - headline: Podcast
         subhead: ''
         text: ''
