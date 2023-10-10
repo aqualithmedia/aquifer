@@ -96,8 +96,8 @@ blocks:
         - src: /uploads/rule.svg
           alignment: bottom
     label: ''
-    headline: Core Features
-    subhead: ''
+    headline: Structure
+    subhead: Aqualith at its core
     body: ''
     items:
       - image:
@@ -127,7 +127,7 @@ blocks:
           blogs, and the social web.
         link: '#'
         buttonLabel: Value for value
-    navigationLabel: Core
+    navigationLabel: Structure
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -151,7 +151,7 @@ blocks:
       position: bg-center
     label: ''
     headline: Dossier
-    subhead: Subhead
+    subhead: 'About Ryan, an'
     body: ''
     items:
       - headline: Professional Summary
