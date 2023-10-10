@@ -156,10 +156,15 @@ blocks:
     items:
       - headline: Socials
         subhead: Treading in other waters
-        text: |
+        text: >
           [LinkedIn](https://www.linkedin.com/in/ryanheck/ "Ryan on LinkedIn")
 
+
           [MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")
+
+
+          B[ehance Portfolio](https://www.behance.net/ryanheck "External
+          Portfolio on Behance")
       - headline: Podcast
         subhead: ''
         text: ''
