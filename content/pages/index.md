@@ -151,12 +151,17 @@ blocks:
       position: bg-center
     label: ''
     headline: Dossier
-    subhead: 'About Ryan, an'
+    subhead: Professional details and external points of interest
     body: ''
     items:
       - headline: Professional Summary
         subhead: ''
-        text: ''
+        text: >
+          Fervent design strategist with a keen eye for presentation, refining
+          brand identity, ensuring solid user interface, and upholding best
+          practices. Thrives on collaboration with team members and stakeholders
+          to deliver memorable digital and print solutions. Seeking new B2B
+          clients and small businesses looking to refresh their design game.
       - headline: Podcast
         subhead: ''
         text: ''
