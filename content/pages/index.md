@@ -66,9 +66,9 @@ blocks:
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-white mg-hidden undefined
-      headlineStyles: text-white mg-headline-large mb-6
-      subheadStyles: text-white undefined mb-0
-      textStyles: text-white undefined undefined
+      headlineStyles: text-accent1 mg-headline-large mb-2
+      subheadStyles: text-white mg-headline-small mb-0
+      textStyles: text-white  undefined
     cardStyle:
       fillStyles: from-accent3 to-accent1 bg-gradient-to-b opacity-30
       grid: >-
@@ -135,16 +135,16 @@ blocks:
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black mg-headline-large mb-6
-      subheadStyles: text-black undefined undefined
+      headlineStyles: text-accent1 mg-headline-large mb-2
+      subheadStyles: 'text-accent1 mg-headline-small '
       textStyles: text-black undefined undefined
     cardStyle:
-      fillStyles: bg-white opacity-100
-      fillStylesActive: bg-gray-light opacity-100
-      padding: pt-4 pb-4 pr-4 pl-4
+      fillStyles: from-accent3 to-accent1 bg-gradient-to-r opacity-100
+      fillStylesActive: ' opacity-100'
+      padding: 'pt-4 pb-4 pr-4 pl-4 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-4'
       borderStyles: border-gray border-1
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
+      headlineStyles: text-accent1 mg-nav undefined
+      subheadStyles: 'text-black undefined '
       textStyles: text-black undefined undefined
     background:
       style: bg-cover
