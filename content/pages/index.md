@@ -159,6 +159,9 @@ blocks:
         text: >
           [LinkedIn](https://www.linkedin.com/in/ryanheck/ "Ryan Heck on
           LinkedIn")
+
+
+          [MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")
       - headline: Podcast
         subhead: ''
         text: ''
