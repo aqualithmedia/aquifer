@@ -163,7 +163,7 @@ blocks:
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
-          "Proton affiliate link")**
+          "Proton affiliate")**
 
 
           Be [Brave](https://brave.com/?ref=aqu972 "Brave browser affiliate")!
