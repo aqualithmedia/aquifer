@@ -172,6 +172,11 @@ blocks:
 
           Pay bills using [Spritz](https://app.spritz.finance/signup?grsf=w7kcz5
           "Spritz affiliate")
+
+
+          Get paid in crypto with
+          [Bitwage](https://app.bitwage.com/?referse=COaS6r "Bitwage
+          affiliate"). I do!
     navigationLabel: Dossier
     _template: accordion
   - style:
