@@ -163,7 +163,7 @@ blocks:
           [MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")
 
 
-          B[ehance Portfolio](https://www.behance.net/ryanheck "External
+          [Behance Portfolio](https://www.behance.net/ryanheck "External
           Portfolio on Behance")
       - headline: Podcast
         subhead: ''
