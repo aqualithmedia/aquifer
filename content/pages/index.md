@@ -179,6 +179,10 @@ blocks:
           "Spritz affiliate")
 
 
+          Save in stores with [Craypay](https://craypay.app.link/XHWKZBRlZF
+          "Craypay affiliate")
+
+
           Dip a toe and earn Bitcoin on
           [Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Fountain
           affiliate"), a modern podcast app
