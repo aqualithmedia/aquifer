@@ -160,10 +160,10 @@ blocks:
       - headline: Podcast
         subhead: ''
         text: ''
-      - headline: Recommended
-        subhead: ''
-        text: |
-          {affiliate links}
+      - headline: Recommended services
+        text: >
+          Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
+          "Proton")**
     navigationLabel: Dossier
     _template: accordion
   - style:
