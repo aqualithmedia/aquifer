@@ -163,7 +163,7 @@ blocks:
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
-          "Proton")**
+          "Proton affiliate link")**
     navigationLabel: Dossier
     _template: accordion
   - style:
