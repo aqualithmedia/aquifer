@@ -156,7 +156,7 @@ blocks:
     items:
       - headline: Socials
         subhead: Treading in other waters
-        text: "[Calendar](https://calendly.com/consultwithryan/networking \"Find time on my calendar!\")\n\n**[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")**\n\n**[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")**\n\n**[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")**\n\n**[Session](<Session! (ID: Meridian) \U0001F5E8️> \"Message me directly and securely on Session! (ID: Meridian) \U0001F5E8️\")**\n\n[Aqualith on LinkedIn](https://linkedin.com/companies/aqualith \"Follow Aqualith Media on LinkedIn\")\n\n[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media \"Alignable\")\n"
+        text: "[Calendar](https://calendly.com/consultwithryan/networking \"Find time on my calendar!\")\n\n**[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")**\n\n**[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")**\n\n**[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")**\n\n**[Session](<Session! (ID: Meridian) \U0001F5E8️> \"Message me directly and securely on Session! (ID: Meridian) \U0001F5E8️\")**\n\n[Aqualith on LinkedIn](https://linkedin.com/companies/aqualith \"Follow Aqualith Media on LinkedIn\")\n\n[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media \"Alignable\")\n\n[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e \"Publicsq.\")\n"
       - headline: Podcast
         subhead: ''
         text: ''
