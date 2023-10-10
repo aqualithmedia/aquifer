@@ -164,6 +164,10 @@ blocks:
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
           "Proton affiliate link")**
+
+
+          Be [Brave](https://brave.com/?ref=aqu972 "Brave browser affiliate")!
+          Use a better browser, and earn money doing it!
     navigationLabel: Dossier
     _template: accordion
   - style:
