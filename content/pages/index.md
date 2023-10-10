@@ -170,13 +170,18 @@ blocks:
           Use a better browser, and earn money doing it!
 
 
+          Get paid in crypto with
+          [Bitwage](https://app.bitwage.com/?referse=COaS6r "Bitwage
+          affiliate"). I do!
+
+
           Pay bills using [Spritz](https://app.spritz.finance/signup?grsf=w7kcz5
           "Spritz affiliate")
 
 
-          Get paid in crypto with
-          [Bitwage](https://app.bitwage.com/?referse=COaS6r "Bitwage
-          affiliate"). I do!
+          Dip a toe and earn Bitcoin on
+          [Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Fountain
+          affiliate"), a modern podcast app
     navigationLabel: Dossier
     _template: accordion
   - style:
