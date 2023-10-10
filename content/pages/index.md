@@ -156,15 +156,7 @@ blocks:
     items:
       - headline: Socials
         subhead: Treading in other waters
-        text: >
-          [LinkedIn](https://www.linkedin.com/in/ryanheck/ "Ryan on LinkedIn")
-
-
-          [MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")
-
-
-          [Behance Portfolio](https://www.behance.net/ryanheck "External
-          Portfolio on Behance")
+        text: "[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")\n\n[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")\n\n[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")\n\n[Session](<Session! (ID: Meridian)> \"Message me directly and securely on Session! (ID: Meridian) \U0001F5E8️\")\n"
       - headline: Podcast
         subhead: ''
         text: ''
