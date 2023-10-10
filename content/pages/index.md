@@ -168,6 +168,10 @@ blocks:
 
           Be [Brave](https://brave.com/?ref=aqu972 "Brave browser affiliate")!
           Use a better browser, and earn money doing it!
+
+
+          Pay bills using [Spritz](https://app.spritz.finance/signup?grsf=w7kcz5
+          "Spritz affiliate")
     navigationLabel: Dossier
     _template: accordion
   - style:
