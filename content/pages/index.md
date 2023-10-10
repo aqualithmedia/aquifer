@@ -154,27 +154,14 @@ blocks:
     subhead: Professional details and external points of interest
     body: ''
     items:
-      - headline: Professional Summary
-        subhead: ''
-        text: >
-          Fervent design strategist with a keen eye for presentation, refining
-          brand identity, ensuring solid user interface, and upholding best
-          practices. Thrives on collaboration with team members and stakeholders
-          to deliver memorable digital and print solutions. Seeking new B2B
-          clients and small businesses looking to refresh their design game.
-      - headline: Podcast
-        subhead: ''
-        text: ''
       - headline: Socials
         subhead: Treading in other waters
         text: >
-          * [Mewe](mewe.com/join/theconsortium "Aqualith Consortium on MeWe")
-
-          * [`LinkedIn`](https://www.linkedin.com/company/aqualith "Aqualith
-          Media on LinkedIn")
-
-          * [`Fediverse`](https://podcastindex.social/@aqualith "Aqualith Media 
-          in Fediverse")
+          [LinkedIn](https://www.linkedin.com/in/ryanheck/ "Ryan Heck on
+          LinkedIn")
+      - headline: Podcast
+        subhead: ''
+        text: ''
       - headline: Recommended
         subhead: ''
         text: |
