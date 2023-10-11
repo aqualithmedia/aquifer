@@ -225,6 +225,11 @@ blocks:
           Lo-fi theorycrafting on play, design, and business of the emerging,
           yet still peculiar hobby of tabletop roleplaying. Aqualith AM is
           hosted by Ryan Heck of Aqualith Media.
+
+
+          First and foremost, Aqualith AM is offered free of charge in it's
+          full, premium form as a [value4value](https://value4value.info/about/
+          "Find out more about the value4value model") podcast
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
