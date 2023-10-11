@@ -168,7 +168,7 @@ blocks:
       Seeking clients looking to refresh their design game.
     items:
       - headline: Socials
-        subhead: Treading in other waters
+        subhead: ''
         text: >
           Find time [on my
           calendar](https://calendly.com/consultwithryan/networking "Find time
