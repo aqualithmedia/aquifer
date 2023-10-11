@@ -200,11 +200,12 @@ blocks:
           Email me directly and securely mailto\:consultwithryan@protonmail.com
 
 
-          Message me directly and securely on Session! (ID: Meridian) 
+          Message me directly and securely on [Session](https://getsession.org
+          "Get Session and say hi. (ID: Meridian)")! (ID: Meridian)
 
 
           Connect on [LinkedIn](https://linkedin.com/in/ryanheck "Ryan Heck on
-          LinkedIn") 
+          LinkedIn")
 
 
           Follow Aqualith Media on
