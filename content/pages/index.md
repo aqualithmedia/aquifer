@@ -53,7 +53,7 @@ blocks:
     headline: Telling stories through compelling design.
     subhead: Including yours.
     body: |
-      **Now open for contract and freelance.**
+      Now open for contract and freelance.
     buttons:
       - label: Let's chat
         link: /contact
@@ -62,15 +62,15 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-7 pb-0 pr-6 pl-6
+      padding: pt-10 pb-20 pr-6 pl-6
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-white mg-hidden undefined
       headlineStyles: text-accent1 mg-headline-large mb-2
-      subheadStyles: text-white mg-headline-small mb-0
-      textStyles: text-white  undefined
+      subheadStyles: text-accent1 mg-headline-small mb-0
+      textStyles: 'text-white undefined '
     cardStyle:
-      fillStyles: from-accent3 to-accent1 bg-gradient-to-b opacity-30
+      fillStyles: from-accent1 to-accent1 bg-gradient-to-b opacity-30
       grid: >-
         grid-cols-3 justify-start gap-0.5 sm:grid-cols-1 sm:justify-start
         sm:gap-0.5
@@ -78,17 +78,17 @@ blocks:
       image: wpx-48 hpx-48 object-left object-fill
       imagePadding: 'pt-14 pb-0 pr-0 pl-11 sm:pt-10 sm:pb-0 sm:pr-0 sm:pl-5'
       contentPadding: 'pt-5 pb-12 pr-11 pl-11 sm:pt-5 sm:pb-2.5 sm:pr-5 sm:pl-5'
-      borderStyles: border-accent3 border-b-3
+      borderStyles: border-accent3 border-b-0
       labelStyles: text-white undefined undefined
-      headlineStyles: text-accent3 mg-headline-medium undefined
+      headlineStyles: text-white mg-headline-medium undefined
       subheadStyles: text-white mg-headline-small undefined
-      textStyles: text-accent4 mg-copy undefined
+      textStyles: text-accent1 mg-copy undefined
       buttonType: primary
       buttonIcon: arrow-right-solid
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: from-accent1 to-black bg-gradient-to-b opacity-100
+      fillStyles: from-accent3 to-white bg-gradient-to-b opacity-100
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
@@ -135,30 +135,39 @@ blocks:
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-row  '
       labelStyles: text-black undefined undefined
-      headlineStyles: text-accent1 mg-headline-large mb-2
-      subheadStyles: 'text-accent1 mg-headline-small '
+      headlineStyles: text-white mg-headline-large mb-2
+      subheadStyles: 'text-white mg-headline-small '
       textStyles: text-black undefined undefined
     cardStyle:
-      fillStyles: from-accent3 to-accent1 bg-gradient-to-r opacity-100
+      fillStyles: from-accent3 to-accent3 bg-gradient-to-r opacity-100
       fillStylesActive: ' opacity-100'
-      padding: 'pt-4 pb-4 pr-4 pl-4 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-4'
-      borderStyles: border-gray border-1
-      headlineStyles: text-accent1 mg-nav undefined
+      padding: 'pt-4 pb-4 pr-4 pl-6 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-6'
+      borderStyles: border-primary border-3
+      headlineStyles: 'text-accent1 mg-nav '
       subheadStyles: 'text-black undefined '
       textStyles: text-black undefined undefined
     background:
-      fillStyles: from-white to-gray-dark bg-gradient-to-b opacity-20
+      fillStyles: from-accent1 to-accent4 bg-gradient-to-bl opacity-60
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
     label: ''
     headline: Dossier
     subhead: Professional details and external points of interest
-    body: ''
+    body: >
+      Fervent design strategist with a keen eye for presentation, refining brand
+      identity, ensuring precision user interface, and upholding best practices.
+
+
+      Thrives on collaboration with team members and stakeholders to deliver
+      memorable digital and print solutions.
+
+
+      Seeking clients looking to refresh their design game.
     items:
       - headline: Socials
         subhead: Treading in other waters
-        text: "[Calendar](https://calendly.com/consultwithryan/networking \"Find time on my calendar!\")\n\n**[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")**\n\n**[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")**\n\n[Fediverse](https://podcastindex.social/@aqualith \"Fediverse\")\n\n**[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")**\n\n**[Session](<Session! (ID: Meridian) \U0001F5E8️> \"Message me directly and securely on Session! (ID: Meridian) \U0001F5E8️\")**\n\n[LinkedIn](https://linkedin.com/companies/aqualith \"Follow Aqualith Media on LinkedIn\")\n\n[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media \"Alignable\")\n\n[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e \"Publicsq.\")\n\n[Indie Game Alliance](https://www.indiegamealliance.com/join/?refer=3996 \"Indie Game Alliance\")\n\n[Minnesota Blockchain Initiative](https://mnblockchain.org \"MNBlockchain\")\n"
+        text: "**[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")**\n\n**[Calendar](https://calendly.com/consultwithryan/networking \"Find time on my calendar!\")**\n\n**[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")**\n\n**[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")**\n\n**[Fediverse](https://podcastindex.social/@aqualith \"Fediverse\")**\n\n[Session](getsession.org \"Session messenger\") (ID: Meridian) \U0001F5E8️\n\n**[LinkedIn](https://linkedin.com/companies/aqualith \"Follow Aqualith Media on LinkedIn\")**\n\n**[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media \"Alignable\")**\n\n**[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e \"Publicsq.\")**\n\n**[Indie Game Alliance](https://www.indiegamealliance.com/join/?refer=3996 \"Indie Game Alliance\")**\n\n**[Minnesota Blockchain Initiative](https://mnblockchain.org \"MNBlockchain\")**\n"
       - headline: Podcast
         subhead: ''
         text: ''
@@ -168,12 +177,11 @@ blocks:
           "Proton affiliate")**
 
 
-          Be [Brave](https://brave.com/?ref=aqu972 "Brave browser affiliate")!
-          Use a better browser, and earn money doing it!
+          Be [Brave](https://brave.com "Brave browser affiliate")! Use a better
+          browser, and earn money doing it!
 
 
-          Get paid in crypto with
-          [Bitwage](https://app.bitwage.com/?referse=COaS6r "Bitwage
+          Get paid in crypto with [Bitwage](https://app.bitwage.com "Bitwage
           affiliate"). I do!
 
 
