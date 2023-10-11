@@ -67,8 +67,8 @@ blocks:
       buttonsLayout: 'flex-row  '
       labelStyles: text-white mg-hidden undefined
       headlineStyles: text-accent1 mg-headline-large mb-2
-      subheadStyles: text-accent1 mg-headline-small mb-0
-      textStyles: 'text-white undefined '
+      subheadStyles: text-accent1 mg-headline-small mb-3.5
+      textStyles: 'text-accent1 mg-copy '
     cardStyle:
       fillStyles: from-accent1 to-accent1 bg-gradient-to-b opacity-30
       grid: >-
@@ -98,7 +98,9 @@ blocks:
     label: ''
     headline: Structure
     subhead: Aqualith at its core
-    body: ''
+    body: |
+      Aqualith is a design service consultancy and digital publisher of \
+      quality tabletop roleplaying game products.
     items:
       - image:
           src: /uploads/bring-forward.svg
