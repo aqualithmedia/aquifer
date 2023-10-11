@@ -220,7 +220,7 @@ blocks:
           Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
           Game Alliance")**
       - headline: Podcast
-        subhead: Aqualith AM
+        subhead: ''
         text: >
           Lo-fi theorycrafting on play, design, and business of the emerging,
           yet still peculiar hobby of tabletop roleplaying. Aqualith AM is
