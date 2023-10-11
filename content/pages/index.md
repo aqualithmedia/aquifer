@@ -167,7 +167,47 @@ blocks:
     items:
       - headline: Socials
         subhead: Treading in other waters
-        text: "**[Behance Portfolio](https://www.behance.net/ryanheck \"External Portfolio on Behance\")**\n\n**[Calendar](https://calendly.com/consultwithryan/networking \"Find time on my calendar!\")**\n\n**[LinkedIn](https://www.linkedin.com/in/ryanheck/ \"Ryan on LinkedIn\")**\n\n**[MeWe](https://mewe.com/aqualithmedia.39 \"Ryan on MeWe\")**\n\n**[Fediverse](https://podcastindex.social/@aqualith \"Fediverse\")**\n\n[Session](getsession.org \"Session messenger\") (ID: Meridian) \U0001F5E8️\n\n**[LinkedIn](https://linkedin.com/companies/aqualith \"Follow Aqualith Media on LinkedIn\")**\n\n**[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media \"Alignable\")**\n\n**[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e \"Publicsq.\")**\n\n**[Indie Game Alliance](https://www.indiegamealliance.com/join/?refer=3996 \"Indie Game Alliance\")**\n\n**[Minnesota Blockchain Initiative](https://mnblockchain.org \"MNBlockchain\")**\n"
+        text: >
+          **Behance **- Design & Client Portfolio 
+
+
+          **[Calendar](https://calendly.com/consultwithryan/networking "Find
+          time on my calendar!")**
+
+
+          **[LinkedIn](https://www.linkedin.com/in/ryanheck/ "Ryan on
+          LinkedIn")**
+
+
+          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")**
+
+
+          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")**
+
+
+          [Session](getsession.org "Session messenger") - Message me directly
+          and securely on Session! (ID: Meridian) 
+
+
+          **[LinkedIn](https://linkedin.com/companies/aqualith "Follow Aqualith
+          Media on LinkedIn")**
+
+
+          **[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media
+          "Alignable")**
+
+
+          **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
+          "Publicsq.")**
+
+
+          **[Indie Game
+          Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
+          Game Alliance")**
+
+
+          **[Minnesota Blockchain Initiative](https://mnblockchain.org
+          "MNBlockchain")**
       - headline: Podcast
         subhead: ''
         text: ''
