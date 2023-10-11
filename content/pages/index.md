@@ -237,6 +237,10 @@ blocks:
 
           Found on the [Podcast Index](https://podcastindex.org/podcast/956191
           "Podcast Index")
+
+
+          Listen on [a modern podcast app](https://podcastapps.com "Go
+          podcasting!"). Find one here.
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
