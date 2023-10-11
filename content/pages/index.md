@@ -168,7 +168,7 @@ blocks:
       - headline: Socials
         subhead: Treading in other waters
         text: >
-          **Behance **- Design & Client Portfolio 
+          ** **- Design & Client Portfolio 
 
 
           **[Calendar](https://calendly.com/consultwithryan/networking "Find
@@ -190,11 +190,12 @@ blocks:
           "MNBlockchain")**
 
 
-          Find time on my calendar!
-          https://calendly.com/consultwithryan/networking
+          Find time [on my
+          calendar](https://calendly.com/consultwithryan/networking "Find time
+          on my calendar")! 
 
 
-          Design & Client Portfolio https://www.behance.net/ryanheck
+          My external portfolio showcasing client work  is hosted on **Behance**
 
 
           [Email me](mailto\:consultwithryan@protonmail.com "Email!") directly
