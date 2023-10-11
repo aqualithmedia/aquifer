@@ -197,7 +197,8 @@ blocks:
           Design & Client Portfolio https://www.behance.net/ryanheck
 
 
-          Email me directly and securely mailto\:consultwithryan@protonmail.com
+          [Email me](mailto\:consultwithryan@protonmail.com "Email!") directly
+          and securely 
 
 
           Message me directly and securely on [Session](https://getsession.org
