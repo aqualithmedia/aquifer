@@ -228,8 +228,15 @@ blocks:
 
 
           First and foremost, Aqualith AM is offered free of charge in it's
-          full, premium form as a [value4value](https://value4value.info/about/
-          "Find out more about the value4value model") podcast
+          full, premium form free of ads as a
+          [value4value](https://value4value.info/about/ "Find out more about the
+          value4value model") podcast. If you find value in what you hear, and
+          have the means to do so, I implore you to give value back either in
+          time, talent, or treasure. 
+
+
+          Found on the [Podcast Index](https://podcastindex.org/podcast/956191
+          "Podcast Index")
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
