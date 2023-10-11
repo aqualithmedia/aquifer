@@ -168,28 +168,6 @@ blocks:
       - headline: Socials
         subhead: Treading in other waters
         text: >
-          ** **- Design & Client Portfolio 
-
-
-          **[Calendar](https://calendly.com/consultwithryan/networking "Find
-          time on my calendar!")**
-
-
-          **[LinkedIn](https://www.linkedin.com/in/ryanheck/ "Ryan on
-          LinkedIn")**
-
-
-          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")**
-
-
-          [Session](getsession.org "Session messenger") - Message me directly
-          and securely on Session! (ID: Meridian) 
-
-
-          **[Minnesota Blockchain Initiative](https://mnblockchain.org
-          "MNBlockchain")**
-
-
           Find time [on my
           calendar](https://calendly.com/consultwithryan/networking "Find time
           on my calendar")! 
@@ -232,7 +210,11 @@ blocks:
           "Publicsq.")**
 
 
-          Member of **[Indie Game
+          Volunteer of **[Minnesota Blockchain
+          Initiative](https://mnblockchain.org "MNBlockchain")**
+
+
+          Member of  **[Indie Game
           Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
           Game Alliance")**
       - headline: Podcast
