@@ -282,6 +282,18 @@ blocks:
     navigationLabel: Dossier
     _template: accordion
   - style:
+      fullWidth: false
+      minHeight: min-h-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-medium undefined
+      subheadStyles: text-black mg-headline-small mb-4
+      textStyles: text-black mg-copy undefined
+    background:
+      style: bg-cover
+      position: bg-center
+    _template: eventTimeline
+  - style:
       alignment: >-
         flex-col-reverse items-center gap-6 sm:flex-col-reverse sm:items-center
         sm:gap-12
