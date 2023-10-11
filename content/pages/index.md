@@ -290,6 +290,8 @@ blocks:
       subheadStyles: text-black mg-headline-small mb-4
       textStyles: text-black mg-copy undefined
     background:
+      fillStyles: bg-accent2 opacity-100
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
     _template: eventTimeline
