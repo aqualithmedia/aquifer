@@ -243,9 +243,9 @@ blocks:
           podcasting!")
 
 
-          Catch Aqualith AM and other content [on
+          Catch Aqualith AM and occasional video content [on
           Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
-          Odysee"), plus earn credits.
+          Odysee"), plus earn credits as you participate
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
