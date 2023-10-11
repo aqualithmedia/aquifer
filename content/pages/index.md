@@ -175,7 +175,9 @@ blocks:
           on my calendar")! 
 
 
-          My external portfolio showcasing client work  is hosted on **Behance**
+          My external portfolio showcasing client work  is hosted on
+          **[Behance](https://www.behance.net/ryanheck "Design & client
+          portfolio")**
 
 
           [Email me](mailto\:consultwithryan@protonmail.com "Email!") directly
