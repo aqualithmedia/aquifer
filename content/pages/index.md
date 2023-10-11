@@ -179,9 +179,6 @@ blocks:
           LinkedIn")**
 
 
-          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")**
-
-
           **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")**
 
 
@@ -189,25 +186,52 @@ blocks:
           and securely on Session! (ID: Meridian) 
 
 
+          **[Minnesota Blockchain Initiative](https://mnblockchain.org
+          "MNBlockchain")**
+
+
+          Find time on my calendar!
+          https://calendly.com/consultwithryan/networking
+
+
+          Design & Client Portfolio https://www.behance.net/ryanheck
+
+
+          Email me directly and securely mailto\:consultwithryan@protonmail.com
+
+
+          Message me directly and securely on Session! (ID: Meridian) 
+
+
+          Connect on [LinkedIn](https://linkedin.com/in/ryanheck "Ryan Heck on
+          LinkedIn") 
+
+
+          Follow Aqualith Media on
           **[LinkedIn](https://linkedin.com/companies/aqualith "Follow Aqualith
           Media on LinkedIn")**
 
 
+          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")** is a
+          great place to congregate online with just about any affinity group
+          you can imagine. 
+
+
+          Are you a part of the
+          **[fediverse](https://podcastindex.social/@aqualith "Fediverse")**?
+          Follow me there. 
+
+
+          Aqualith is on business-centered platforms such as
           **[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media
-          "Alignable")**
-
-
+          "Alignable")** and
           **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
           "Publicsq.")**
 
 
-          **[Indie Game
+          Member of **[Indie Game
           Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
           Game Alliance")**
-
-
-          **[Minnesota Blockchain Initiative](https://mnblockchain.org
-          "MNBlockchain")**
       - headline: Podcast
         subhead: ''
         text: ''
