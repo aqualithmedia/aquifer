@@ -172,7 +172,7 @@ blocks:
         text: >
           Find time [on my
           calendar](https://calendly.com/consultwithryan/networking "Find time
-          on my calendar")! 
+          on my calendar")!
 
 
           My external portfolio showcasing client work  is hosted on
@@ -181,7 +181,7 @@ blocks:
 
 
           [Email me](mailto\:consultwithryan@protonmail.com "Email!") directly
-          and securely 
+          and securely
 
 
           Message me directly and securely on [Session](https://getsession.org
@@ -199,12 +199,12 @@ blocks:
 
           **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")** is a
           great place to congregate online with just about any affinity group
-          you can imagine. 
+          you can imagine.
 
 
           Are you a part of the
           **[fediverse](https://podcastindex.social/@aqualith "Fediverse")**?
-          Follow me there. 
+          Follow me there.
 
 
           Aqualith is on business-centered platforms such as
@@ -234,7 +234,7 @@ blocks:
           [value4value](https://value4value.info/about/ "Find out more about the
           value4value model") podcast. If you find value in what you hear, and
           have the means to do so, I implore you to give value back either in
-          time, talent, or treasure. 
+          time, talent, or treasure.
 
 
           Found on the [Podcast Index](https://podcastindex.org/podcast/956191
