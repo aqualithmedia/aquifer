@@ -313,8 +313,11 @@ blocks:
         body: |
           ![LinkedIn](/uploads/logo-linkedin.svg)
         link: 'https://linkedin.com/companies/aqualith'
-      - headline: Headline
+      - headline: Alignable
         subhead: Subhead
+        body: |
+          ![](/uploads/gI_90401_MeWe_Logo-Full.png)
+        link: 'https://www.alignable.com/minnetonka-mn/aqualith-media'
       - headline: Headline
         subhead: Subhead
     _template: cards
