@@ -312,7 +312,7 @@ blocks:
         subhead: ''
         body: |
           ![LinkedIn](/uploads/logo-linkedin.svg)
-        link: 'https://linkedin.com/in/ryaheck'
+        link: 'https://linkedin.com/companies/aqualith'
       - headline: Headline
         subhead: Subhead
       - headline: Headline
