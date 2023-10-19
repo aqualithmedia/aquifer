@@ -23,8 +23,7 @@ typo:
       {"family":"verb_medium:wght@400","size":"30","lineHeight":"40","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Headline Small
     typography: >-
-      {"family":"Roboto
-      Mono:wght@700","size":"24","lineHeight":"30","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+      {"family":"verb_medium:wght@400","size":"24","lineHeight":"30","letterSpacing":"","margin":"15","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Nav
     typography: >-
       {"family":"Public
