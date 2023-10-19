@@ -12,11 +12,12 @@ colors:
   gray: '#B0B0BF'
   grayDark: '#171717'
   black: '#000000'
+fonts:
+  typekitLink: ''
 typo:
   - label: Headline Large
     typography: >-
-      {"family":"Public
-      Sans:wght@900","size":"40","lineHeight":"44","letterSpacing":"","margin":"20","smSize":"36","smLineHeight":"40","smLetterSpacing":"","smMargin":""}
+      {"family":"verb_blackregular:wght@400","size":"40","lineHeight":"44","letterSpacing":"","margin":"20","smSize":"36","smLineHeight":"40","smLetterSpacing":"","smMargin":""}
   - label: Headline Medium
     typography: >-
       {"family":"Public
@@ -68,18 +69,5 @@ buttons:
     primaryRounded: rounded-none
     iconSize: 20px
 linkColor: accent4
-fonts:
-  typekitLink: ''
 ---
-
-
-
-
-
-
-
-
-
-
-
 
