@@ -92,9 +92,6 @@ blocks:
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
-      ornaments:
-        - src: /uploads/rule.svg
-          alignment: bottom
     label: ''
     headline: Structure
     subhead: Aqualith at its core
@@ -348,11 +345,9 @@ blocks:
       textStyles: text-accent1 undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: >-
-        grid-cols-4 justify-start gap-12 sm:grid-cols-2 sm:justify-start
-        sm:gap-6
+      grid: grid-cols-3 justify-start gap-8
       alignment: flex-col items-start  text-left
-      image: wpx-36 hpx-36 object-center object-fill
+      image: '  object-center object-fill'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-5 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
