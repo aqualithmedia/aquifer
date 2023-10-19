@@ -57,8 +57,7 @@ buttons:
   - label: Primary
     fill: bg-white opacity-100
     typography: >-
-      {"color":"black","family":"Roboto
-      Mono:wght@700","size":"16","lineHeight":"20","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
+      {"color":"black","family":"verb_medium:wght@400","size":"18","lineHeight":"20","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
     padding: pt-2.5 pb-2.5 pr-3.5 pl-3.5
     primaryBorder: border-primary border-0
     primaryRounded: rounded-none
