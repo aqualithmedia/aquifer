@@ -30,8 +30,7 @@ typo:
       Sans:wght@900","size":"17","lineHeight":"16","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Copy
     typography: >-
-      {"family":"Public
-      Sans:wght@300","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+      {"family":"verb_medium:wght@400","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Copy Small
     typography: >-
       {"family":"Roboto
