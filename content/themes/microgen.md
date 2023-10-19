@@ -40,7 +40,7 @@ buttons:
   - label: Icon
     fill: ' opacity-100'
     typography: >-
-      {"color":"white","family":"Arial","size":"18","lineHeight":"18","letterSpacing":"0","smSize":"18","smLineHeight":"18","smLetterSpacing":"0"}
+      {"color":"white","family":"verb_medium:wght@400","size":"18","lineHeight":"18","letterSpacing":"0","smSize":"18","smLineHeight":"18","smLetterSpacing":"0"}
     padding: pt-2.5 pb-3.5 pr-0 pl-0
     primaryBorder: border-primary border-0
     primaryRounded: undefined
