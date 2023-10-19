@@ -48,8 +48,7 @@ buttons:
   - label: Outline
     fill: ' opacity-100'
     typography: >-
-      {"color":"white","family":"Roboto
-      Mono:wght@700","size":"16","lineHeight":"20","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
+      {"color":"white","family":"verb_medium:wght@400","size":"16","lineHeight":"20","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
     padding: pt-2.5 pb-2.5 pr-3.5 pl-3.5
     primaryBorder: border-white border-2
     primaryRounded: rounded-none
