@@ -32,8 +32,7 @@ typo:
       {"family":"verb_medium:wght@400","size":"18","lineHeight":"32","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Copy Small
     typography: >-
-      {"family":"Roboto
-      Mono:wght@400","size":"16","lineHeight":"30","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+      {"family":"verb_medium:wght@400","size":"16","lineHeight":"30","letterSpacing":"0","margin":"20","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Hidden
     typography: >-
       {"family":"Arial","size":"0","lineHeight":"0","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
