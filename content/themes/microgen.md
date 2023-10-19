@@ -70,11 +70,8 @@ buttons:
 linkColor: accent4
 fonts:
   typekitLink: ''
-  typekitFonts:
-    - fontLabel: Verb (need to add)
-      fontWeight: '400'
-      fontStyle: normal
 ---
+
 
 
 
