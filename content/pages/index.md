@@ -100,7 +100,7 @@ blocks:
       quality tabletop roleplaying game products.
     items:
       - image:
-          src: /uploads/bring-forward.svg
+          src: /uploads/brush.svg
         headline: Consultancy
         subhead: Leave that centralization behind.
         body: >
