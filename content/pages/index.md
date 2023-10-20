@@ -118,7 +118,7 @@ blocks:
         link: '#'
         buttonLabel: Roll for initiative
       - image:
-          src: /uploads/image-polaroid.svg
+          src: /uploads/bolt.svg
         headline: Media
         subhead: Sights and sounds.
         body: >
