@@ -109,7 +109,7 @@ blocks:
         link: '#'
         buttonLabel: Be set free
       - image:
-          src: /uploads/brush.svg
+          src: /uploads/chart-network.svg
         headline: Products
         subhead: Imprinting imagination.
         body: >
