@@ -88,7 +88,7 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: from-accent3 to-white bg-gradient-to-b opacity-100
+      fillStyles: from-white to-accent3 bg-gradient-to-b opacity-95
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
