@@ -46,7 +46,7 @@ blocks:
       subheadStyles: 'text-accent1 mg-headline-large '
       textStyles: text-accent1 mg-copy undefined
     background:
-      fillStyles: from-primary to-accent3 bg-gradient-to-br opacity-60
+      fillStyles: from-primary to-white bg-gradient-to-br opacity-50
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
@@ -304,6 +304,7 @@ blocks:
     label: ''
     headline: Socials
     subhead: (card version)
+    body: ''
     items:
       - headline: LinkedIn
         subhead: ''
@@ -317,6 +318,7 @@ blocks:
         link: 'https://www.alignable.com/minnetonka-mn/aqualith-media'
       - headline: Headline
         subhead: Subhead
+        body: ''
     _template: cards
   - style:
       fullWidth: false
