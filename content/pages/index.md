@@ -304,7 +304,8 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: ' opacity-100'
+      fillStyles: bg-black opacity-100
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
       ornaments:
@@ -367,7 +368,8 @@ blocks:
       subheadStyles: text-white undefined undefined
       textStyles: text-white mg-copy undefined
     background:
-      fillStyles: ' opacity-100'
+      fillStyles: bg-accent1 opacity-100
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
       ornaments:
@@ -379,10 +381,8 @@ blocks:
       ![](/uploads/bustout-protocol-partners.svg)
 
 
-      Microgen was built by **[Bust Out](https://bustout.com "Bust Out")** for
-      **[Protocol Labs](https://protocol.ai "Protocol Labs")** and designed to
-      run on **[IPFS](https://ipfs.tech/ "IPFS")**. It’s based on the excellent
-      and open source **[Tina CMS](https://tina.io "Tina CMS")**.
+      Built using **[Microgen](https://microgen.site "Microgen")**, running  on
+      **[IPFS](https://ipfs.tech/ "IPFS")**.
     _template: feature
 background:
   fillStyles: ' opacity-60'
