@@ -375,12 +375,9 @@ blocks:
       ornaments:
         - src: /uploads/rule.svg
           alignment: bottom
-    headline: Credits
+    headline: ''
     subhead: ''
     body: >
-      ![](/uploads/bustout-protocol-partners.svg)
-
-
       Built using **[Microgen](https://microgen.site "Microgen")**, running  on
       **[IPFS](https://ipfs.tech/ "IPFS")**.
     _template: feature
