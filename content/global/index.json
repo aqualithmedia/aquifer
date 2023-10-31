@@ -1,6 +1,6 @@
 {
   "siteUrl": "microgen.site",
-  "gtmId": "",
+  "favicon": "",
   "fathomSiteId": "",
   "theme": "content/themes/microgen.md",
   "logo": {
@@ -23,7 +23,6 @@
       }
     ]
   },
-  "favicon": "",
   "footerNav": "true",
   "blocks": [
     {
@@ -45,9 +44,9 @@
         "position": "bg-center"
       },
       "label": "",
-      "headline": "This is the main headline",
-      "subhead": "Here is a subhead",
-      "body": "This is a rich text component you can add hyperlinks, etc.\n",
+      "headline": "",
+      "subhead": "",
+      "body": "Built using **[Microgen](https://microgen.site \"Microgen\")**, running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
       "_template": "tailwindFeature"
     }
   ]
