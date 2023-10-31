@@ -357,30 +357,6 @@ blocks:
           overview of the day or month's schedule.
     navigationLabel: Components
     _template: cards
-  - style:
-      alignment: 'flex-col-reverse items-center '
-      padding: 'pt-20 pb-20 pr-5 pl-5 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
-      featureImage: '  mx-auto'
-      featureContent: 'w-3/4 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-center'
-      buttonsLayout: 'flex-row  '
-      labelStyles: text-white undefined undefined
-      headlineStyles: text-white mg-headline-large mb-10
-      subheadStyles: text-white undefined undefined
-      textStyles: text-white mg-copy undefined
-    background:
-      fillStyles: bg-accent1 opacity-100
-      wrapFillStyles: ' opacity-100'
-      style: bg-cover
-      position: bg-center
-      ornaments:
-        - src: /uploads/rule.svg
-          alignment: bottom
-    headline: ''
-    subhead: ''
-    body: >
-      Built using **[Microgen](https://microgen.site "Microgen")**, running  on
-      **[IPFS](https://ipfs.tech/ "IPFS")**.
-    _template: feature
 background:
   fillStyles: ' opacity-60'
   wrapFillStyles: ' opacity-100'
