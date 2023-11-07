@@ -293,6 +293,7 @@ blocks:
       position: bg-center
     headline: Projects
     subhead: One never knows what the currents may bring to bare.
+    body: ''
     navigationLabel: Projects
     _template: feature
   - style:
@@ -323,18 +324,25 @@ blocks:
       position: bg-center
     label: ''
     headline: Prolegomena
-    subhead: ''
-    body: "A micro-setting's introduction\n\nAs an upcoming digital book form, this original, fantasy/science-fantasy micro setting is intended for use in tabletop roleplaying games to be made available to a handful of online outlets. The product will include\_new options for players and gamemasters (a.k.a. referees, judges) alike to add rich flavor to any existing campaign setting.\n"
+    subhead: A micro-setting's introduction
+    body: "To be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. The product will include\_new options for players and gamemasters (a.k.a. referees, judges) alike to add rich flavor to any existing campaign setting.\n"
     items:
       - headline: '"Aquifer"'
         subhead: ''
+        body: ''
       - headline: '"Pillowcase"'
         subhead: ''
+        body: ''
       - headline: '"Markdown"'
+        body: ''
       - headline: '"Splashpad"'
+        body: ''
       - headline: '"Impetus"'
+        body: ''
       - headline: '"Garrison"'
+        body: ''
       - headline: '"Chronicle"'
+        body: ''
     navigationLabel: ''
     _template: cards
   - style:
