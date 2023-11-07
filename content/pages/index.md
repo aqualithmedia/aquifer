@@ -279,6 +279,23 @@ blocks:
     navigationLabel: Dossier
     _template: accordion
   - style:
+      alignment: 'flex-col-reverse items-center '
+      padding: pt-16 pb-0 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-1/2 min-h-0 text-left
+      buttonsLayout: 'flex-wrap gap-0 '
+      labelStyles: text-black mg-headline-medium undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    background:
+      style: bg-cover
+      position: bg-center
+    headline: Projects
+    subhead: One never knows what the currents may bring to bare.
+    navigationLabel: Projects
+    _template: feature
+  - style:
       alignment: flex-col-reverse items-start gap-6
       padding: pt-20 pb-20 pr-20 pl-20
       featureContent: w-1/2 min-h-0 text-left
@@ -305,13 +322,10 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: ''
+    headline: Prolegomena
     subhead: ''
     body: "A micro-setting's introduction\n\nAs an upcoming digital book form, this original, fantasy/science-fantasy micro setting is intended for use in tabletop roleplaying games to be made available to a handful of online outlets. The product will include\_new options for players and gamemasters (a.k.a. referees, judges) alike to add rich flavor to any existing campaign setting.\n"
     items:
-      - headline: Prolegomena
-        subhead: ''
-        body: ''
       - headline: '"Aquifer"'
         subhead: ''
       - headline: '"Pillowcase"'
@@ -321,7 +335,7 @@ blocks:
       - headline: '"Impetus"'
       - headline: '"Garrison"'
       - headline: '"Chronicle"'
-    navigationLabel: Projects
+    navigationLabel: ''
     _template: cards
   - style:
       alignment: >-
