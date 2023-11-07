@@ -313,13 +313,13 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureContent: w-1/2 min-h-0 text-left
-      buttonsLayout: flex-row gap-4
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      padding: pt-6 pb-20 pr-20 pl-20
+      featureContent: w-3/4 min-h-0 text-left
+      buttonsLayout: 'flex-wrap gap-4 '
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: bg-gray opacity-100
       grid: grid-cols-8 justify-start gap-6
@@ -340,24 +340,31 @@ blocks:
     label: ''
     headline: Prolegomena
     subhead: A micro-setting's introduction
-    body: "To be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. This immersive, introductory product will include\_new options for players and gamemasters (a.k.a. referees or judges) alike to add rich flavor to any existing campaign world.\n"
+    body: "**▓ ░ ░**\n\nTo be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. This immersive, introductory product will include\_new options for players and gamemasters (a.k.a. referees or judges) alike to add rich flavor to any existing campaign world.\n"
     items:
       - headline: '"Aquifer"'
         subhead: ''
-        body: ''
+        body: |
+          **▓ ▓ ░**
       - headline: '"Pillowcase"'
         subhead: ''
-        body: ''
+        body: |
+          **▓ ░ ░**
       - headline: '"Markdown"'
-        body: ''
+        body: |
+          **▓ ░ ░**
       - headline: '"Splashpad"'
-        body: ''
+        body: |
+          **▓ ░ ░**
       - headline: '"Impetus"'
-        body: ''
+        body: |
+          **▓ ░ ░**
       - headline: '"Garrison"'
-        body: ''
+        body: |
+          **▓ ░ ░**
       - headline: '"Chronicle"'
-        body: ''
+        body: |
+          **▓ ░ ░**
     navigationLabel: ''
     _template: cards
   - style:
