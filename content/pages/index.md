@@ -311,16 +311,15 @@ blocks:
     items:
       - headline: Prolegomena
         subhead: ''
-      - headline: Aquifer
+      - headline: '"Aquifer"'
         subhead: ''
-      - headline: Pillowcase
+      - headline: '"Pillowcase"'
         subhead: ''
-      - headline: Markdown
-      - headline: Chainlink
-      - headline: Splashpad
-      - headline: Chronicle
-      - headline: Impetus
-      - headline: Entrench
+      - headline: '"Markdown"'
+      - headline: '"Splashpad"'
+      - headline: '"Chronicle"'
+      - headline: '"Impetus"'
+      - headline: '"Entrench"'
     _template: cards
   - style:
       alignment: >-
