@@ -305,8 +305,8 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: Headline
-    subhead: Subhead
+    headline: Projects
+    subhead: One never knows what the currents may bring to bare.
     body: ''
     items:
       - headline: Prolegomena
@@ -317,9 +317,10 @@ blocks:
         subhead: ''
       - headline: '"Markdown"'
       - headline: '"Splashpad"'
-      - headline: '"Chronicle"'
       - headline: '"Impetus"'
-      - headline: '"Entrench"'
+      - headline: '"Garrison"'
+      - headline: '"Chronicle"'
+    navigationLabel: Projects
     _template: cards
   - style:
       alignment: >-
