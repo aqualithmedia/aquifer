@@ -279,6 +279,44 @@ blocks:
     navigationLabel: Dossier
     _template: accordion
   - style:
+      alignment: flex-col-reverse items-start gap-6
+      padding: pt-20 pb-20 pr-20 pl-20
+      featureContent: w-1/2 min-h-0 text-left
+      buttonsLayout: flex-row gap-4
+      labelStyles: text-black
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    cardStyle:
+      fillStyles: bg-gray opacity-100
+      grid: grid-cols-8 justify-start gap-6
+      alignment: flex-row items-start  text-left
+      image: '  object-center object-fill'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: pt-2 pb-2 pr-2 pl-2
+      borderStyles: border-white border-0
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+      buttonLayout: undefined
+      buttonWidth: undefined
+    background:
+      style: bg-cover
+      position: bg-center
+    label: ''
+    headline: Headline
+    subhead: Subhead
+    body: ''
+    items:
+      - headline: Prolegomena
+        subhead: ''
+      - headline: Aquifer
+        subhead: ''
+      - headline: Headline
+        subhead: Subhead
+    _template: cards
+  - style:
       alignment: >-
         flex-col-reverse items-center gap-6 sm:flex-col-reverse sm:items-center
         sm:gap-12
