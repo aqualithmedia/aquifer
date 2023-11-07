@@ -141,7 +141,7 @@ blocks:
           blogs, and the social web.
         link: '#'
         buttonLabel: Value for value
-    navigationLabel: Structure
+    navigationLabel: Services
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -437,7 +437,7 @@ blocks:
         body: >
           This is a simplified way of sharing event posts. An easy to read
           overview of the day or month's schedule.
-    navigationLabel: Components
+    navigationLabel: Contact
     _template: cards
 background:
   fillStyles: ' opacity-60'
