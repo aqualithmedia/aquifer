@@ -315,6 +315,12 @@ blocks:
         subhead: ''
       - headline: Pillowcase
         subhead: ''
+      - headline: Markdown
+      - headline: Chainlink
+      - headline: Splashpad
+      - headline: Chronicle
+      - headline: Impetus
+      - headline: Entrench
     _template: cards
   - style:
       alignment: >-
