@@ -64,32 +64,33 @@ blocks:
       alignment: 'flex-col-reverse items-center '
       padding: pt-10 pb-20 pr-6 pl-6
       featureContent: w-full min-h-0 text-center
-      buttonsLayout: 'flex-row  '
+      buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: text-white mg-hidden undefined
-      headlineStyles: text-accent1 mg-headline-large mb-2
-      subheadStyles: text-accent1 mg-headline-small mb-3.5
-      textStyles: 'text-accent1 mg-copy '
+      headlineStyles: text-accent3 mg-headline-large mb-2
+      subheadStyles: text-accent3 mg-headline-small mb-3.5
+      textStyles: 'text-accent3 mg-copy '
     cardStyle:
-      fillStyles: from-accent1 to-accent1 bg-gradient-to-b opacity-30
+      fillStyles: from-primary to-accent1 bg-gradient-to-b opacity-30
       grid: >-
-        grid-cols-3 justify-start gap-0.5 sm:grid-cols-1 sm:justify-start
-        sm:gap-0.5
+        grid-cols-3 justify-start gap-1.5 sm:grid-cols-1 sm:justify-start
+        sm:gap-1.5
       alignment: flex-col items-start  text-left
-      image: wpx-48 hpx-48 object-left object-fill
+      image: '  object-left object-fill'
       imagePadding: 'pt-14 pb-0 pr-0 pl-11 sm:pt-10 sm:pb-0 sm:pr-0 sm:pl-5'
       contentPadding: 'pt-5 pb-12 pr-11 pl-11 sm:pt-5 sm:pb-2.5 sm:pr-5 sm:pl-5'
       borderStyles: border-accent3 border-b-0
-      labelStyles: text-white undefined undefined
-      headlineStyles: text-white mg-headline-medium undefined
-      subheadStyles: text-white mg-headline-small undefined
-      textStyles: text-accent1 mg-copy undefined
+      labelStyles: text-accent3 undefined undefined
+      headlineStyles: text-accent3 mg-headline-medium undefined
+      subheadStyles: text-accent3 mg-headline-small undefined
+      textStyles: text-accent3 mg-copy undefined
       buttonType: primary
       buttonIcon: arrow-right-solid
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: from-white to-accent3 bg-gradient-to-b opacity-95
-      wrapFillStyles: ' opacity-100'
+      fillStyles: from-accent1 to-accent1 bg-gradient-to-b opacity-95
+      wrapFillStyles: ' opacity-80'
+      src: /uploads/background/ocean-current.jpg
       style: bg-cover
       position: bg-center
     label: ''
