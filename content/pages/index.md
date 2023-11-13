@@ -356,7 +356,7 @@ blocks:
     label: ''
     headline: Prolegomena
     subhead: A micro-setting's introduction
-    body: "**▓ ░ ░**\n\nTo be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. This immersive, introductory product will include\_new options for players and gamemasters (a.k.a. referees or judges) alike to add rich flavor to any existing campaign world.\n"
+    body: "**▓ ░ ░ ░**\n\nTo be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. This immersive, introductory product will include\_new options for players and gamemasters (a.k.a. referees or judges) alike to add rich flavor to any existing campaign world.\n"
     items:
       - headline: '"Aquifer"'
         subhead: ''
