@@ -335,17 +335,17 @@ blocks:
       subheadStyles: text-accent3 mg-copy undefined
       textStyles: 'text-accent3 undefined '
     cardStyle:
-      fillStyles: bg-gray opacity-100
-      grid: grid-cols-8 justify-start gap-6
-      alignment: flex-row items-start  text-left
+      fillStyles: from-accent1 to-black bg-gradient-to-br opacity-100
+      grid: grid-cols-8 justify-center gap-4
+      alignment: flex-row items-center  text-left
       image: '  object-center object-fill'
       imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
+      contentPadding: pt-4 pb-4 pr-2 pl-2
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-accent3 undefined undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-accent3 undefined undefined
       buttonLayout: undefined
       buttonWidth: undefined
     background:
