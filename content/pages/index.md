@@ -365,22 +365,22 @@ blocks:
       - headline: '"Pillowcase"'
         subhead: ''
         body: |
-          **▓ ░ ░**
+          **▓ ░ ░ ░**
       - headline: '"Markdown"'
         body: |
-          **▓ ░ ░**
+          **▓ ░ ░ ░**
       - headline: '"Splashpad"'
         body: |
-          **▓ ░ ░**
+          **▓ ░ ░ ░**
       - headline: '"Impetus"'
         body: |
-          **▓ ░ ░**
+          **▓ ░ ░ ░**
       - headline: '"Garrison"'
         body: |
-          **▓ ░ ░**
+          **▓ ░ ░ ░**
       - headline: '"Chronicle"'
         body: |
-          **▓ ░ ░**
+          **▓ ░ ░ ░**
     navigationLabel: ''
     _template: cards
   - style:
