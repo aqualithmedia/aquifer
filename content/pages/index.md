@@ -62,7 +62,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-10 pb-20 pr-6 pl-6
+      padding: pt-12 pb-20 pr-6 pl-6
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: text-white mg-hidden undefined
@@ -70,10 +70,10 @@ blocks:
       subheadStyles: text-accent3 mg-headline-small mb-3.5
       textStyles: 'text-accent3 mg-copy '
     cardStyle:
-      fillStyles: from-primary to-accent1 bg-gradient-to-b opacity-30
+      fillStyles: from-primary to-accent1 bg-gradient-to-b opacity-80
       grid: >-
-        grid-cols-3 justify-start gap-1.5 sm:grid-cols-1 sm:justify-start
-        sm:gap-1.5
+        grid-cols-3 justify-center gap-4 sm:grid-cols-1 sm:justify-start
+        sm:gap-4
       alignment: flex-col items-start  text-left
       image: '  object-left object-fill'
       imagePadding: 'pt-14 pb-0 pr-0 pl-11 sm:pt-10 sm:pb-0 sm:pr-0 sm:pl-5'
@@ -133,7 +133,7 @@ blocks:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
-      buttonsLayout: 'flex-row  '
+      buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: text-black undefined undefined
       headlineStyles: text-white mg-headline-large mb-2
       subheadStyles: 'text-white mg-headline-small '
@@ -147,7 +147,7 @@ blocks:
       subheadStyles: 'text-black undefined '
       textStyles: text-black undefined undefined
     background:
-      fillStyles: from-accent1 to-accent4 bg-gradient-to-bl opacity-60
+      fillStyles: from-accent1 to-gray-dark bg-gradient-to-bl opacity-100
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
@@ -280,32 +280,60 @@ blocks:
     navigationLabel: Dossier
     _template: accordion
   - style:
-      alignment: 'flex-col-reverse items-center '
-      padding: pt-16 pb-0 pr-10 pl-10
+      alignment: flex-col-reverse items-center gap-4
+      padding: pt-20 pb-0 pr-10 pl-10
       featureImage: '  mx-auto'
-      featureContent: w-1/2 min-h-0 text-left
+      featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-0 '
-      labelStyles: text-black mg-headline-medium undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      labelStyles: 'text-accent3 undefined '
+      headlineStyles: text-accent3 mg-headline-large undefined
+      subheadStyles: text-accent3 mg-headline-small undefined
+      textStyles: text-accent3 mg-copy undefined
     background:
+      fillStyles: from-black to-black bg-gradient-to-r opacity-100
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
     headline: Projects
-    subhead: One never knows what the currents may bring to bare.
+    subhead: 'From ideation to launch, one never knows what the currents may bring.'
     body: ''
     navigationLabel: Projects
     _template: feature
   - style:
-      alignment: flex-col-reverse items-start gap-6
+      alignment: 'flex-row items-center '
+      padding: pt-0 pb-0 pr-0 pl-0
+      featureImage: '  mx-auto'
+      featureContent: w-2/3 min-h-0 text-left
+      buttonsLayout: 'flex-wrap gap-0 '
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-accent3 mg-headline-small undefined
+      subheadStyles: text-accent3 undefined undefined
+      textStyles: text-accent3 undefined undefined
+    background:
+      fillStyles: bg-black opacity-100
+      wrapFillStyles: ' opacity-100'
+      style: bg-cover
+      position: bg-center
+    headline: Key
+    subhead: ''
+    body: |
+      **▓ ░ ░ ░ Ideation**
+
+      **▓ ▓ ░ ░ Implementation**
+
+      **▓ ▓ ▓ ░ Testing**
+
+      **▓ ▓ ▓ ▓ Launch**
+    _template: feature
+  - style:
+      alignment: flex-col-reverse items-center gap-6
       padding: pt-6 pb-20 pr-20 pl-20
       featureContent: w-3/4 min-h-0 text-left
       buttonsLayout: 'flex-wrap gap-4 '
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-small undefined
+      subheadStyles: text-black mg-copy undefined
+      textStyles: text-black  undefined
     cardStyle:
       fillStyles: bg-gray opacity-100
       grid: grid-cols-8 justify-start gap-6
