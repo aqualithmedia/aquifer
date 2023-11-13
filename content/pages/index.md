@@ -331,9 +331,9 @@ blocks:
       featureContent: w-3/4 min-h-0 text-left
       buttonsLayout: 'flex-wrap gap-4 '
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black mg-headline-small undefined
-      subheadStyles: text-black mg-copy undefined
-      textStyles: text-black  undefined
+      headlineStyles: text-accent3 mg-headline-small undefined
+      subheadStyles: text-accent3 mg-copy undefined
+      textStyles: 'text-accent3 undefined '
     cardStyle:
       fillStyles: bg-gray opacity-100
       grid: grid-cols-8 justify-start gap-6
@@ -349,6 +349,8 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     background:
+      fillStyles: bg-black opacity-100
+      wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
     label: ''
@@ -359,7 +361,7 @@ blocks:
       - headline: '"Aquifer"'
         subhead: ''
         body: |
-          **▓ ▓ ░**
+          **▓ ▓ ░ ░**
       - headline: '"Pillowcase"'
         subhead: ''
         body: |
