@@ -168,6 +168,13 @@ blocks:
       - headline: Socials
         subhead: ''
         text: >
+          **[Email](mailto\:consultwithryan@protonmail.com "Email!")** /
+          \*\*[Session](https://getsession.org "Get Session and say hi. (ID:
+          Meridian)") \*\*(ID: Meridian)\
+
+          Message me directly and securely
+
+
           [Calendly](https://calendly.com/consultwithryan/networking
           "Calendly")\
 
@@ -180,16 +187,14 @@ blocks:
           My external portfolio showcasing client work
 
 
-          **[Email](mailto\:consultwithryan@protonmail.com "Email!")** /
-          **[Session](https://getsession.org "Get Session and say hi. (ID:
-          Meridian)") **(ID: Meridian)\
-
-          Message me directly and securely
-
-
           LinkedIn [Personal](https://linkedin.com/in/ryanheck "Ryan Heck on
           LinkedIn") / [Company](https://linkedin.com/companies/aqualith
           "Aqualith Media on LinkedIn")\
+
+          **[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media
+          "Alignable")** /
+          **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
+          "Aqualith on Publicsq.")**\
 
           Connect and follow professionally
 
@@ -207,13 +212,6 @@ blocks:
           Are you a part of the
           **[fediverse](https://podcastindex.social/@aqualith "Fediverse")**?
           Follow me there.
-
-
-          Aqualith is on business-centered platforms such as
-          **[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media
-          "Alignable")** and
-          **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
-          "Publicsq.")**
 
 
           Volunteer of **[Minnesota Blockchain
