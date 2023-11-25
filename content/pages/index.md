@@ -1,14 +1,6 @@
 ---
 blocks:
   - style:
-      fullWidth: true
-      minHeight: min-h-0
-      padding: pt-20 pb-20 undefined undefined
-    background:
-      style: bg-cover
-      position: bg-center
-    _template: embed
-  - style:
       alignment: 'flex-col-reverse items-center '
       padding: 'pt-48 pb-36 pr-11 pl-10 sm:pt-64 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
@@ -422,6 +414,17 @@ blocks:
           **▓ ░ ░ ░**
     navigationLabel: ''
     _template: cards
+  - style:
+      fullWidth: true
+      minHeight: min-h-0
+      padding: pt-20 pb-20 undefined undefined
+    background:
+      fillStyles: from-accent2 to-accent3 bg-gradient-to-r opacity-100
+      wrapFillStyles: ' opacity-100'
+      style: bg-cover
+      position: bg-center
+    markup: Consortium
+    _template: embed
   - style:
       alignment: >-
         flex-col-reverse items-center gap-6 sm:flex-col-reverse sm:items-center
