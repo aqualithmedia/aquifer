@@ -168,12 +168,15 @@ blocks:
       - headline: Socials
         subhead: ''
         text: >
+          [Calendly](https://calendly.com/consultwithryan/networking
+          "Calendly")\
+
           Find time [on my
           calendar](https://calendly.com/consultwithryan/networking "Find time
           on my calendar")!
 
 
-          My external portfolio showcasing client work  is hosted on
+          My external portfolio showcasing client work is hosted on
           **[Behance](https://www.behance.net/ryanheck "Design & client
           portfolio")**
 
@@ -246,10 +249,6 @@ blocks:
           Catch Aqualith AM and occasional video content [on
           Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
           Odysee"), and earn credits as you participate.
-      - headline: Video Gaming Profiles
-        text: >
-          [Star Citizen](https://robertsspaceindustries.com/citizens/Meridian
-          "UEE Citizen ID#13337, callsign: Meridian")
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
@@ -357,7 +356,7 @@ blocks:
       - headline: Prolegomena
         subhead: A micro-setting's introduction
         body: >
-          **▓ ▓ ░ ░ **
+          \*\*▓ ▓ ░ ░ \*\*
 
 
           To be released in digital book form, ***Prolegomena*** is the
