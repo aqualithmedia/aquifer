@@ -169,14 +169,14 @@ blocks:
         subhead: ''
         text: >
           **[Email](mailto\:consultwithryan@protonmail.com "Email!")** /
-          \*\*[Session](https://getsession.org "Get Session and say hi. (ID:
-          Meridian)") \*\*(ID: Meridian)\
+          **[Session](https://getsession.org "Get Session and say hi.")** (ID:
+          Meridian)\
 
           Message me directly and securely
 
 
-          [Calendly](https://calendly.com/consultwithryan/networking
-          "Calendly")\
+          **[Calendly](https://calendly.com/consultwithryan/networking
+          "Calendly")**\
 
           Find time on my calendar
 
@@ -187,10 +187,9 @@ blocks:
           My external portfolio showcasing client work
 
 
-          LinkedIn [Personal](https://linkedin.com/in/ryanheck "Ryan Heck on
-          LinkedIn") / [Company](https://linkedin.com/companies/aqualith
-          "Aqualith Media on LinkedIn")\
-
+          **LinkedIn [Personal](https://linkedin.com/in/ryanheck "Ryan Heck on
+          LinkedIn")** / **[Company](https://linkedin.com/companies/aqualith
+          "Aqualith Media on LinkedIn")** /
           **[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media
           "Alignable")** /
           **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
@@ -199,14 +198,17 @@ blocks:
           Connect and follow professionally
 
 
-          Follow Aqualith Media on
-          **[LinkedIn](https://linkedin.com/companies/aqualith "Follow Aqualith
-          Media on LinkedIn")**
+          MeWe **[Personal](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")**\
+
+          **MeWe [Personal](https://mewe.com/aqualithmedia.39 "Ryan Heck on
+          MeWe")** / **[Company](https://linkedin.com/companies/aqualith
+          "Aqualith Media on LinkedIn")**
 
 
-          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")** is a
-          great place to congregate online with just about any affinity group
-          you can imagine.
+          \
+
+          is a great place to congregate online with just about any affinity
+          group you can imagine.
 
 
           Are you a part of the
