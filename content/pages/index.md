@@ -199,25 +199,29 @@ blocks:
 
 
           **MeWe [Personal](https://mewe.com/aqualithmedia.39 "Ryan Heck on
-          MeWe")** / **[Company](https://mewe.com/join/theconsortium "Aqualith
-          Consortium")**\
+          MeWe")** / **[Consortium](https://mewe.com/join/theconsortium
+          "Aqualith Consortium")**\
 
-          is a great place to congregate online with just about any affinity
-          group you can imagine.
-
-
-          Are you a part of the
-          **[fediverse](https://podcastindex.social/@aqualith "Fediverse")**?
-          Follow me there.
+          A great place to congregate online with just about any affinity group
+          you can imagine, especially the Aqualith Consortium
 
 
-          Volunteer of **[Minnesota Blockchain
-          Initiative](https://mnblockchain.org "MNBlockchain")**
+          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")**\
+
+          Follow from any Mastodon-based instance
 
 
-          Member of  **[Indie Game
+          **[Minnesota Blockchain Initiative](https://mnblockchain.org
+          "MNBlockchain")**\
+
+          Volunteer and attendee
+
+
+          **[Indie Game
           Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
-          Game Alliance")**
+          Game Alliance")**\
+
+          Member
       - headline: Podcast
         subhead: ''
         text: >
