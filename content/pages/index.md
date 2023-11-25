@@ -172,16 +172,14 @@ blocks:
           **[Session](https://getsession.org "Get Session and say hi.")** (ID:
           Meridian)\
 
-          Message me directly and securely\
+          Message me directly and securely
 
-          \
 
           **[Calendly](https://calendly.com/consultwithryan/networking
           "Calendly")**\
 
-          Find time on my calendar\
+          Find time on my calendar
 
-          \
 
           **[Behance](https://www.behance.net/ryanheck "Design & client
           portfolio")**\
