@@ -247,7 +247,9 @@ blocks:
           Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
           Odysee"), and earn credits as you participate.
       - headline: Video Gaming Profiles
-        text: ''
+        text: >
+          [Star Citizen](https://robertsspaceindustries.com/citizens/Meridian
+          "UEE Citizen ID#13337, callsign: Meridian")
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
