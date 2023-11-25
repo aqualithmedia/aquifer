@@ -188,7 +188,7 @@ blocks:
 
 
           LinkedIn [Personal](https://linkedin.com/in/ryanheck "Ryan Heck on
-          LinkedIn") / [Business](https://linkedin.com/companies/aqualith
+          LinkedIn") / [Company](https://linkedin.com/companies/aqualith
           "Aqualith Media on LinkedIn")\
 
           Connect and follow professionally
