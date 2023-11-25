@@ -245,7 +245,9 @@ blocks:
 
           Catch Aqualith AM and occasional video content [on
           Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
-          Odysee"), plus earn credits as you participate
+          Odysee"), and earn credits as you participate.
+      - headline: Video Gaming Profiles
+        text: ''
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
@@ -296,7 +298,9 @@ blocks:
       position: bg-center
     headline: Projects
     subhead: 'From ideation to launch, one never knows what the tides may bring'
-    body: ''
+    body: >
+      Below are self-propelled projects in various dev states of as resourcing
+      permits.
     navigationLabel: Projects
     _template: feature
   - style:
