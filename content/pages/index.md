@@ -302,12 +302,12 @@ blocks:
   - style:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-0 pb-0 pr-20 pl-20
-      featureContent: w-2/3 min-h-0 text-left
+      featureContent: w-1/5 min-h-0 text-left
       buttonsLayout: 'flex-wrap gap-4 '
       labelStyles: text-accent3 undefined undefined
-      headlineStyles: text-accent3 mg-headline-medium undefined
+      headlineStyles: text-accent3 mg-headline-small undefined
       subheadStyles: text-accent3 mg-headline-medium undefined
-      textStyles: 'text-accent3  '
+      textStyles: 'text-accent3 undefined '
     cardStyle:
       fillStyles: from-accent1 to-gray-dark bg-gradient-to-br opacity-100
       grid: grid-cols-3 justify-start gap-6
@@ -339,24 +339,33 @@ blocks:
 
       ▓ ▓ ▓ ▓ Launch
     items:
-      - headline: Aquifer
+      - headline: '"Aquifer"'
         subhead: Aqualith Media website
         body: >
           **▓ ▓ ░ ░**
 
 
-          While now *launched in form*, a number of specific functions have yet
-          to be implemented.
+          While now launched in *form*, a number of specific functions are still
+          to be implemented. Updates will be shared through the podcast, blog,
+          and MeWe community.
       - headline: Prolegomena
         subhead: A micro-setting's introduction
-        body: "**▓ ▓ ░ ░ **\n\nTo be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. This immersive, introductory product will include\_new options for players and gamemasters (a.k.a. referees or judges) alike to add rich flavor to any existing campaign world.\n"
+        body: >
+          **▓ ▓ ░ ░ **
+
+
+          To be released in digital book form, ***Prolegomena*** is the
+          introductory product for an original micro-setting intended for use in
+          [tabletop roleplaying games](# "What is a tabletop roleplaying
+          game?"), including new options for players and gamemasters alike to
+          add rich flavor to any existing campaign world.
     _template: cards
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: pt-6 pb-20 pr-20 pl-20
-      featureContent: w-3/4 min-h-0 text-left
+      alignment: flex-col-reverse items-start gap-6
+      padding: pt-0 pb-20 pr-20 pl-20
+      featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-4 '
-      labelStyles: text-black undefined undefined
+      labelStyles: text-accent3 undefined undefined
       headlineStyles: text-accent3 mg-headline-small undefined
       subheadStyles: text-accent3 mg-copy undefined
       textStyles: 'text-accent3 undefined '
@@ -384,10 +393,6 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: '"Aquifer"'
-        subhead: ''
-        body: |
-          **▓ ▓ ░ ░**
       - headline: '"Pillowcase"'
         subhead: ''
         body: |
