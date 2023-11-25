@@ -295,7 +295,7 @@ blocks:
       style: bg-cover
       position: bg-center
     headline: Projects
-    subhead: 'From ideation to launch, one never knows what the currents may bring.'
+    subhead: 'From ideation to launch, one never knows what the tides may bring'
     body: ''
     navigationLabel: Projects
     _template: feature
