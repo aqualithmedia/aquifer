@@ -166,8 +166,6 @@ blocks:
       Seeking clients looking to refresh their design game.
     items:
       - headline: Professional connections
-      - headline: Socials
-        subhead: ''
         text: >
           **[Email](mailto\:consultwithryan@protonmail.com "Email!")** /
           **[Session](https://getsession.org "Get Session and say hi.")** (ID:
@@ -197,8 +195,9 @@ blocks:
           "Aqualith on Publicsq.")**\
 
           Connect and follow professionally
-
-
+      - headline: Socials
+        subhead: ''
+        text: >
           **MeWe [Personal](https://mewe.com/aqualithmedia.39 "Ryan Heck on
           MeWe")** / **[Consortium](https://mewe.com/join/theconsortium
           "Aqualith Consortium")**\
