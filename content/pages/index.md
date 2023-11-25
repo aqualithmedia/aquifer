@@ -300,21 +300,35 @@ blocks:
     navigationLabel: Projects
     _template: feature
   - style:
-      alignment: 'flex-row items-center '
-      padding: pt-0 pb-0 pr-0 pl-0
-      featureImage: '  mx-auto'
+      alignment: flex-col-reverse items-center gap-6
+      padding: pt-0 pb-0 pr-20 pl-20
       featureContent: w-2/3 min-h-0 text-left
-      buttonsLayout: 'flex-wrap gap-0 '
+      buttonsLayout: 'flex-wrap gap-4 '
+      labelStyles: text-accent3 undefined undefined
+      headlineStyles: text-accent3 mg-headline-medium undefined
+      subheadStyles: text-accent3 mg-headline-medium undefined
+      textStyles: 'text-accent3  '
+    cardStyle:
+      fillStyles: from-accent1 to-gray-dark bg-gradient-to-br opacity-100
+      grid: grid-cols-3 justify-start gap-6
+      alignment: flex-row items-start  text-left
+      image: '  object-center object-fill'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: pt-2 pb-2 pr-2 pl-2
+      borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
-      headlineStyles: text-accent3 mg-headline-small undefined
+      headlineStyles: text-accent3 undefined undefined
       subheadStyles: text-accent3 undefined undefined
       textStyles: text-accent3 undefined undefined
+      buttonLayout: undefined
+      buttonWidth: undefined
     background:
       fillStyles: bg-black opacity-100
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
-    headline: ''
+    label: ''
+    headline: Key
     subhead: ''
     body: |
       ▓ ░ ░ ░ Ideation
@@ -324,7 +338,19 @@ blocks:
       ▓ ▓ ▓ ░ Testing
 
       ▓ ▓ ▓ ▓ Launch
-    _template: feature
+    items:
+      - headline: Aquifer
+        subhead: Aqualith Media website
+        body: >
+          **▓ ▓ ░ ░**
+
+
+          While now *launched in form*, a number of specific functions have yet
+          to be implemented.
+      - headline: Prolegomena
+        subhead: A micro-setting's introduction
+        body: "**▓ ▓ ░ ░ **\n\nTo be released in digital book form, this original micro-setting is intended for use in tabletop roleplaying games. This immersive, introductory product will include\_new options for players and gamemasters (a.k.a. referees or judges) alike to add rich flavor to any existing campaign world.\n"
+    _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-6 pb-20 pr-20 pl-20
