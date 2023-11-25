@@ -171,26 +171,26 @@ blocks:
           [Calendly](https://calendly.com/consultwithryan/networking
           "Calendly")\
 
-          Find time [on my
-          calendar](https://calendly.com/consultwithryan/networking "Find time
-          on my calendar")!
+          Find time on my calendar
 
 
-          My external portfolio showcasing client work is hosted on
           **[Behance](https://www.behance.net/ryanheck "Design & client
-          portfolio")**
+          portfolio")**\
+
+          My external portfolio showcasing client work
 
 
-          [Email me](mailto\:consultwithryan@protonmail.com "Email!") directly
-          and securely
+          **[Email](mailto\:consultwithryan@protonmail.com "Email!")** /
+          **[Session](https://getsession.org "Get Session and say hi. (ID:
+          Meridian)") **(ID: Meridian)\
+
+          Message me directly and securely
 
 
-          Message me directly and securely on [Session](https://getsession.org
-          "Get Session and say hi. (ID: Meridian)")! (ID: Meridian)
+          LinkedIn [Personal](https://linkedin.com/in/ryanheck "Ryan Heck on
+          LinkedIn") / Business\
 
-
-          Connect on [LinkedIn](https://linkedin.com/in/ryanheck "Ryan Heck on
-          LinkedIn")
+          Connect and follow professionally
 
 
           Follow Aqualith Media on
