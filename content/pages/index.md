@@ -198,14 +198,9 @@ blocks:
           Connect and follow professionally
 
 
-          MeWe **[Personal](https://mewe.com/aqualithmedia.39 "Ryan on MeWe")**\
-
           **MeWe [Personal](https://mewe.com/aqualithmedia.39 "Ryan Heck on
-          MeWe")** / **[Company](https://linkedin.com/companies/aqualith
-          "Aqualith Media on LinkedIn")**
-
-
-          \
+          MeWe")** / **[Company](https://mewe.com/join/theconsortium "Aqualith
+          Consortium")**\
 
           is a great place to congregate online with just about any affinity
           group you can imagine.
