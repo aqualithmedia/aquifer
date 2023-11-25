@@ -165,6 +165,7 @@ blocks:
 
       Seeking clients looking to refresh their design game.
     items:
+      - headline: Professional connections
       - headline: Socials
         subhead: ''
         text: >
