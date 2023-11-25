@@ -426,6 +426,18 @@ blocks:
     markup: Consortium
     _template: embed
   - style:
+      fullWidth: true
+      minHeight: min-h-120
+      padding: pt-20 pb-20 undefined undefined
+    background:
+      fillStyles: ' opacity-100'
+      wrapFillStyles: ' opacity-100'
+      src: /uploads/background/under-current.jpg
+      style: bg-cover
+      position: bg-center
+    markup: Email form
+    _template: embed
+  - style:
       alignment: >-
         flex-col-reverse items-center gap-6 sm:flex-col-reverse sm:items-center
         sm:gap-12
