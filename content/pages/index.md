@@ -310,15 +310,15 @@ blocks:
       textStyles: 'text-accent3 undefined '
     cardStyle:
       fillStyles: from-accent1 to-gray-dark bg-gradient-to-br opacity-100
-      grid: grid-cols-3 justify-start gap-6
+      grid: grid-cols-2 justify-start gap-8
       alignment: flex-row items-start  text-left
       image: '  object-center object-fill'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-2 pb-2 pr-2 pl-2
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
-      headlineStyles: text-accent3 undefined undefined
-      subheadStyles: text-accent3 undefined undefined
+      headlineStyles: text-accent3 mg-headline-small undefined
+      subheadStyles: text-accent3 mg-copy undefined
       textStyles: text-accent3 undefined undefined
       buttonLayout: undefined
       buttonWidth: undefined
