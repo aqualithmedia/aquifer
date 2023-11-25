@@ -314,16 +314,16 @@ blocks:
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
-    headline: Key
+    headline: ''
     subhead: ''
     body: |
-      **▓ ░ ░ ░ Ideation**
+      ▓ ░ ░ ░ Ideation
 
-      **▓ ▓ ░ ░ Implementation**
+      ▓ ▓ ░ ░ Implementation
 
-      **▓ ▓ ▓ ░ Testing**
+      ▓ ▓ ▓ ░ Testing
 
-      **▓ ▓ ▓ ▓ Launch**
+      ▓ ▓ ▓ ▓ Launch
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
