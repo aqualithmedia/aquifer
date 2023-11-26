@@ -198,11 +198,8 @@ blocks:
       - headline: Communities
         subhead: ''
         text: >
-          **MeWe [Personal](https://mewe.com/aqualithmedia.39 "Ryan Heck on
-          MeWe")** / **[Consortium](https://mewe.com/join/theconsortium
-          "Aqualith Consortium")**\
-
-          A great place to congregate online with just about any affinity group
+          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - A
+          great place to congregate online with just about any affinity group
           you can imagine, especially the *[Aqualith
           Consortium](https://mewe.com/join/theconsortium "Join the
           Consortium!")*
@@ -212,7 +209,7 @@ blocks:
           Follow from any Mastodon-based instance
 
 
-          Discord - 
+          **Discord** - username: aqualith.media
 
 
           **[Minnesota Blockchain Initiative](https://mnblockchain.org
