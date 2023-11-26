@@ -167,7 +167,7 @@ blocks:
     items:
       - headline: Professional connections
         text: >
-          **[Email](mailto\:consultwithryan@protonmail.com "Email!")** /
+          [**Email** ](mailto\:consultwithryan@protonmail.com "Email!")/
           **[Session](https://getsession.org "Get Session and say hi.")** (ID:
           Meridian)\
 
@@ -183,7 +183,7 @@ blocks:
           **[Behance](https://www.behance.net/ryanheck "Design & client
           portfolio")**\
 
-          My external portfolio showcasing client work
+          External portfolio showcasing client work
 
 
           **LinkedIn [Personal](https://linkedin.com/in/ryanheck "Ryan Heck on
