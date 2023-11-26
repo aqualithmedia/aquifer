@@ -209,9 +209,6 @@ blocks:
           Follow from any Mastodon-based instance
 
 
-          **Discord** - username: aqualith.media
-
-
           **[Minnesota Blockchain Initiative](https://mnblockchain.org
           "MNBlockchain")** - Volunteer and attendee
 
