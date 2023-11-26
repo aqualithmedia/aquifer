@@ -195,7 +195,7 @@ blocks:
           "Aqualith on Publicsq.")**\
 
           Connect and follow professionally
-      - headline: Socials
+      - headline: Communities
         subhead: ''
         text: >
           **MeWe [Personal](https://mewe.com/aqualithmedia.39 "Ryan Heck on
@@ -203,25 +203,25 @@ blocks:
           "Aqualith Consortium")**\
 
           A great place to congregate online with just about any affinity group
-          you can imagine, especially the Aqualith Consortium
+          you can imagine, especially the *[Aqualith
+          Consortium](https://mewe.com/join/theconsortium "Join the
+          Consortium!")*
 
 
-          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")**\
-
+          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")** -
           Follow from any Mastodon-based instance
 
 
-          **[Minnesota Blockchain Initiative](https://mnblockchain.org
-          "MNBlockchain")**\
+          Discord - 
 
-          Volunteer and attendee
+
+          **[Minnesota Blockchain Initiative](https://mnblockchain.org
+          "MNBlockchain")** - Volunteer and attendee
 
 
           **[Indie Game
           Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
-          Game Alliance")**\
-
-          Member
+          Game Alliance")** - Member
       - headline: Podcast
         subhead: ''
         text: >
