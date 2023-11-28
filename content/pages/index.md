@@ -139,8 +139,8 @@ blocks:
       subheadStyles: 'text-white mg-headline-small '
       textStyles: text-black undefined undefined
     cardStyle:
-      fillStyles: from-accent3 to-accent3 bg-gradient-to-r opacity-100
-      fillStylesActive: ' opacity-100'
+      fillStyles: from-accent3 to-gray-light bg-gradient-to-r opacity-100
+      fillStylesActive: from-accent3 to-white bg-gradient-to-r opacity-100
       padding: 'pt-4 pb-4 pr-4 pl-6 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-6'
       borderStyles: border-primary border-3
       headlineStyles: 'text-accent1 mg-nav '
