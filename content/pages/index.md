@@ -5,7 +5,7 @@ blocks:
       padding: 'pt-48 pb-36 pr-11 pl-10 sm:pt-64 sm:pb-28 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: 'w-2/3 min-h-0 text-right sm:w-full sm:min-h-0 sm:text-center'
-      buttonsLayout: 'flex-wrap  '
+      buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: text-white mg-copy-small mb-0
       headlineStyles: 'text-white mg-headline-large '
       subheadStyles: 'text-white mg-copy-large '
@@ -57,7 +57,7 @@ blocks:
     buttons:
       - label: Let's chat
         link: /contact
-        icon: x-solid
+        icon: chat
         buttonStyle: primary
     _template: feature
   - style:
