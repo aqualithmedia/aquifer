@@ -111,10 +111,10 @@ blocks:
         buttonLabel: Be set free
       - image:
           src: /uploads/chart-network.svg
-        headline: Products
+        headline: Publishing
         subhead: Imprinting imagination.
         body: >
-          Publishing tabletop roleplaying game products designed to drop right
+          Producing tabletop roleplaying game products designed to drop right
           into your imaginary settings and favorite systems.
         link: '#'
         buttonLabel: Roll for initiative
