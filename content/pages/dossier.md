@@ -12,28 +12,22 @@ blocks:
       textStyles: 'text-white mg-copy '
     background:
       fillStyles: ' opacity-5'
-      wrapFillStyles: ' opacity-100'
-      src: /uploads/story-setting-the-water-table-bkgd.jpg
+      wrapFillStyles: from-black to-black bg-gradient-to-r opacity-100
+      src: ''
       style: bg-cover
-      position: bg-right-top
+      position: ''
       ornaments:
         - src: /uploads/brand/aqualith-logo-tran-500.png
           alignment: left
-          width: '400'
-          height: '400'
-          xOffset: ''
-          yOffset: '175'
-    label: STORY
-    headline: Setting the water table
+          width: '175'
+          height: '175'
+          xOffset: '0'
+          yOffset: '-100'
+    label: ''
+    headline: ''
     subhead: ''
     body: ''
-    buttons:
-      - label: 'Have a seat, traveler...'
-        link: '#'
-        icon: ''
-        buttonStyle: primary
-        fathomId: ''
-    navigationLabel: Home
+    navigationLabel: ''
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
