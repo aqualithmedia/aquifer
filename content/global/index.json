@@ -5,7 +5,7 @@
   "theme": "content/themes/microgen.md",
   "logo": {
     "logoType": "AQUALITH MEDIA",
-    "logoTypeStyle": "text-white mg-headline-medium  sm:text-white mg-headline-medium sm:",
+    "logoTypeStyle": "text-white mg-headline-medium  sm:text-white undefined sm:",
     "image": "",
     "imageWidth": "200"
   },
@@ -46,7 +46,7 @@
       "label": "",
       "headline": "",
       "subhead": "",
-      "body": "Built using **[Microgen](https://microgen.site \"Microgen\")**, running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
+      "body": "![Aqualith Media logo](/uploads/brand/aqualith-logo-tran-500.png \"Aqualith Media logo\")\n\nHOME | SERVICES | DOSSIER | PORTFOLIO | CONTACT\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")**, running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
       "_template": "tailwindFeature"
     }
   ]
