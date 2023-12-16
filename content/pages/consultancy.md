@@ -65,54 +65,6 @@ blocks:
 
       Seeking clients looking to refresh their design game.
     items:
-      - headline: Communities
-        subhead: ''
-        text: >
-          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - A
-          great place to congregate online with just about any affinity group
-          you can imagine, especially the *[Aqualith
-          Consortium](https://mewe.com/join/theconsortium "Join the
-          Consortium!")*
-
-
-          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")** -
-          Follow from any Mastodon-based instance
-
-
-          **[Minnesota Blockchain Initiative](https://mnblockchain.org
-          "MNBlockchain")** - Volunteer and attendee
-
-
-          **[Indie Game
-          Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
-          Game Alliance")** - Member
-      - headline: Podcast
-        subhead: ''
-        text: >
-          Lo-fi theorycrafting on play, design, and business of the emerging,
-          yet still peculiar hobby of tabletop roleplaying. Aqualith AM is
-          hosted by Ryan Heck of Aqualith Media.
-
-
-          First and foremost, Aqualith AM is offered free of charge in it's
-          full, premium form free of ads as a
-          [value4value](https://value4value.info/about/ "Find out more about the
-          value4value model") podcast. If you find value in what you hear, and
-          have the means to do so, I implore you to give value back either in
-          time, talent, or treasure.
-
-
-          Found on the [Podcast Index](https://podcastindex.org/podcast/956191
-          "Podcast Index")
-
-
-          Listen on [a modern podcast app](https://podcastapps.com "Go
-          podcasting!")
-
-
-          Catch Aqualith AM and occasional video content [on
-          Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
-          Odysee"), and earn credits as you participate.
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
