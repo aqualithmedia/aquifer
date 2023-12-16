@@ -52,7 +52,7 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: Dossier
+    headline: Consultancy
     subhead: Professional details and external points of interest
     body: >
       Fervent design strategist with a keen eye for presentation, refining brand
