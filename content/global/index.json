@@ -46,7 +46,7 @@
       "label": "",
       "headline": "",
       "subhead": "",
-      "body": "![Aqualith Media logo](/uploads/brand/aqualith-logo-tran-500.png \"Aqualith Media logo\")\n\nHOME | SERVICES | DOSSIER | PORTFOLIO | CONTACT\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")**, running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
+      "body": "Aqualith Media\n\nHOME | SERVICES | DOSSIER | PORTFOLIO | CONTACT\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")**, running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
       "_template": "tailwindFeature"
     }
   ]
