@@ -139,13 +139,13 @@ blocks:
       subheadStyles: 'text-white mg-headline-small '
       textStyles: text-black undefined undefined
     cardStyle:
-      fillStyles: from-accent3 to-gray-light bg-gradient-to-r opacity-100
-      fillStylesActive: from-accent3 to-white bg-gradient-to-r opacity-100
+      fillStyles: from-accent1 to-accent1 bg-gradient-to-r opacity-100
+      fillStylesActive: from-accent1 to-primary bg-gradient-to-r opacity-100
       padding: 'pt-4 pb-4 pr-4 pl-6 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-6'
       borderStyles: border-primary border-3
-      headlineStyles: 'text-accent1 mg-nav '
+      headlineStyles: 'text-accent3 mg-nav '
       subheadStyles: 'text-black undefined '
-      textStyles: text-black undefined undefined
+      textStyles: text-white undefined undefined
     background:
       fillStyles: from-accent1 to-gray-dark bg-gradient-to-bl opacity-100
       wrapFillStyles: ' opacity-100'
@@ -165,6 +165,10 @@ blocks:
 
       Seeking clients looking to refresh their design game.
     items:
+      - headline: Résumé
+        subhead: ''
+        text: |
+          Link to Download
       - headline: Professional connections
         text: >
           [**Email** ](mailto\:consultwithryan@protonmail.com "Email!")/
@@ -200,9 +204,9 @@ blocks:
         text: >
           **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - A
           great place to congregate online with just about any affinity group
-          you can imagine, especially the *[Aqualith
+          you can imagine, especially the ***[Aqualith
           Consortium](https://mewe.com/join/theconsortium "Join the
-          Consortium!")*
+          Consortium!")***
 
 
           **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")** -
