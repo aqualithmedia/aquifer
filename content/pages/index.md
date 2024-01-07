@@ -325,7 +325,7 @@ blocks:
     headline: Projects
     subhead: 'From ideation to launch, one never knows what the tides may bring'
     body: >
-      Below are self-propelled projects in various dev states of as resourcing
+      Below are self-propelled projects in various dev states as resourcing
       permits.
     navigationLabel: Projects
     _template: feature
@@ -386,8 +386,8 @@ blocks:
 
           To be released in digital book form, ***Prolegomena*** is the
           introductory product for an original micro-setting intended for use in
-          [tabletop roleplaying games](# "What is a tabletop roleplaying
-          game?"), including new options for players and gamemasters alike to
+          **[tabletop roleplaying games](# "What is a tabletop roleplaying
+          game?")**, including new options for players and gamemasters alike to
           add rich flavor to any existing campaign world.
     _template: cards
   - style:
