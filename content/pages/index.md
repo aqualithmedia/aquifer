@@ -238,30 +238,29 @@ blocks:
       - headline: Podcast
         subhead: ''
         text: >
-          Lo-fi theorycrafting on play, design, and business of the emerging,
-          yet still peculiar hobby of tabletop roleplaying. Aqualith AM is
-          hosted by Ryan Heck of Aqualith Media.
+          **[Aqualith AM](https://podcastindex.org/podcast/956191 "Aqualith AM
+          on the Podcast Index")** podcast is lo-fi theorycrafting on play,
+          design, and business of the emerging, yet still peculiar hobby of
+          tabletop roleplaying.
 
 
-          First and foremost, Aqualith AM is offered free of charge in it's
-          full, premium form free of ads as a
+          \
+
+          First and foremost, **Aqualith AM** is offered free of charge in it's
+          full, premium form, free of ads as a
           [value4value](https://value4value.info/about/ "Find out more about the
-          value4value model") podcast. If you find value in what you hear, and
-          have the means to do so, I implore you to give value back either in
-          time, talent, or treasure.
+          value4value model"), Podcasting 2.0-compliant show. If you find value
+          in what you hear, and have the means to do so, I implore you to give
+          value back either in time, talent, or treasure. Otherwise, have a
+          listen on [a modern podcast app](https://podcastapps.com "Go
+          podcasting!").
 
 
-          Found on the [Podcast Index](https://podcastindex.org/podcast/956191
-          "Podcast Index")
+          \
 
-
-          Listen on [a modern podcast app](https://podcastapps.com "Go
-          podcasting!")
-
-
-          Catch Aqualith AM and occasional video content [on
+          Catch **Aqualith AM** and occasional video content **[on
           Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
-          Odysee"), and earn credits as you participate.
+          Odysee")**, and earn credits as you participate.
       - headline: Recommended services
         text: >
           Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
