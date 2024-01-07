@@ -263,35 +263,48 @@ blocks:
           Odysee")**, and earn credits as you participate.
       - headline: Recommended services
         text: >
-          Protect yourself with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
+          Protect yourself online with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
           "Proton affiliate")**
 
+
+          \
 
           Be **[Brave](https://brave.com "Brave browser affiliate")**! Use a
           better browser, and earn money doing it!
 
 
+          \
+
           Get paid in crypto with **[Bitwage](https://app.bitwage.com "Bitwage
           affiliate")**. I do!
 
+
+          \
 
           Pay bills using
           **[Spritz](https://app.spritz.finance/signup?grsf=w7kcz5 "Spritz
           affiliate")**
 
 
+          \
+
           Save in stores with **[Craypay](https://craypay.app.link/XHWKZBRlZF
           "Craypay affiliate")**
 
 
-          Dip a toe and earn Bitcoin on
-          **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Fountain
-          affiliate")**, a modern podcast app
+          \
 
+          Dip a toe in **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2
+          "Fountain affiliate")**, a modern podcast app and earn some sats while
+          doing it.
+
+
+          \
 
           Take back your gut with
           **[Plexus](https://shop.plexusworldwide.com/kristinaheck/products "My
-          wife Kristina's Plexus storefront")** supplements
+          wife Kristina's Plexus storefront")** supplements through my wife
+          Kristina's storefront. We've both been blessed by them for years.
     navigationLabel: Dossier
     _template: accordion
   - style:
