@@ -377,7 +377,7 @@ blocks:
 
           While now launched in *form*, a number of specific functions are still
           to be implemented. Updates will be shared through the podcast, blog,
-          and MeWe community.
+          and MeWe group.
       - headline: Prolegomena
         subhead: A micro-setting's introduction
         body: >
