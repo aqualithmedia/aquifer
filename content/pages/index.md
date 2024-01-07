@@ -170,7 +170,7 @@ blocks:
           **Message me directly and securely**
 
 
-          [**Email** ](mailto\:consultwithryan@protonmail.com "Email!")
+          **[Email](mailto\:consultwithryan@protonmail.com "Email!")**
 
 
           **[Session](https://getsession.org "Get Session and say hi.")** (ID:
@@ -199,12 +199,13 @@ blocks:
 
           **Connect and follow professionally**\
 
-          [**LinkedIn** (personal)](https://linkedin.com/in/ryanheck "Ryan Heck
-          on LinkedIn")
+          [**LinkedIn** (personal profile)](https://linkedin.com/in/ryanheck
+          "Ryan Heck on LinkedIn")
 
 
-          [**LinkedIn** (company)](https://linkedin.com/companies/aqualith
-          "Aqualith Media on LinkedIn")
+          [**LinkedIn** (company
+          profile)](https://linkedin.com/companies/aqualith "Aqualith Media on
+          LinkedIn")
 
 
           **[Alignable](https://www.alignable.com/minnetonka-mn/aqualith-media
