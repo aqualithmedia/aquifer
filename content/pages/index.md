@@ -442,7 +442,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-row items-center gap-40
-      padding: pt-32 pb-28 pr-0 pl-80
+      padding: pt-40 pb-40 pr-0 pl-80
       featureImage: '  mx-auto'
       featureContent: w-3/5 min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-0 '
