@@ -441,16 +441,30 @@ blocks:
     navigationLabel: ''
     _template: cards
   - style:
-      fullWidth: true
-      minHeight: min-h-0
-      padding: pt-20 pb-20 undefined undefined
+      alignment: 'flex-row-reverse items-center '
+      padding: pt-20 pb-20 pr-16 pl-0
+      featureImage: '  mx-auto'
+      featureContent: w-full min-h-0 text-left
+      buttonsLayout: 'flex-wrap gap-0 '
+      labelStyles: text-black  undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-copy undefined
     background:
-      fillStyles: from-accent2 to-accent3 bg-gradient-to-r opacity-100
+      fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
+      src: /uploads/consortium-social-header.gif
       style: bg-cover
       position: bg-center
-    markup: Consortium
-    _template: embed
+    headline: ''
+    subhead: ''
+    body: ''
+    buttons:
+      - label: Join on MeWe
+        link: 'https://mewe.com/join/theconsortium'
+        icon: chat
+        buttonStyle: primary
+    _template: feature
   - style:
       fullWidth: true
       minHeight: min-h-120
