@@ -217,20 +217,29 @@ blocks:
       - headline: Communities
         subhead: ''
         text: >
-          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - A
-          great place to congregate online with just about any affinity group
-          you can imagine, especially the ***[Aqualith
-          Consortium](https://mewe.com/join/theconsortium "Join the
-          Consortium!")***
+          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - My
+          personal favorite social network that champions privacy and data
+          ownership, as well as offering just about any affinity group you can
+          imagine. It should could come as no surprise that it is home to the
+          ***[Aqualith Consortium](https://mewe.com/join/theconsortium "Join the
+          Consortium!")***.
 
 
-          **[Fediverse](https://podcastindex.social/@aqualith "Fediverse")** -
-          Follow from any Mastodon-based instance
+          \
 
+          **[Fediverse](@aqualith@podcastindex.social "Fediverse")** - Follow
+          @aqualith\@podcastindex.social from your chosen Mastodon-based
+          instance.
+
+
+          \
 
           **[Minnesota Blockchain Initiative](https://mnblockchain.org
-          "MNBlockchain")** - Volunteer and attendee
+          "MNBlockchain")** - I volunteer and regularly attend meetups for this
+          Twin Cities ecosystem built around blockchain tech.
 
+
+          \
 
           **[Indie Game
           Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
