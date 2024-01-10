@@ -475,7 +475,8 @@ blocks:
       src: /uploads/background/under-current.jpg
       style: bg-cover
       position: bg-center
-    markup: Email form
+    markup: Email form. Tailwind embed?
+    navigationLabel: Contact
     _template: embed
 background:
   fillStyles: ' opacity-60'
