@@ -448,7 +448,7 @@ blocks:
       style: bg-cover
       position: bg-center
     markup: Portfolio - Link to Portfolio page or Behance
-    navigationLabel: Portfolio
+    navigationLabel: ''
     _template: embed
   - style:
       alignment: flex-row items-center gap-40
