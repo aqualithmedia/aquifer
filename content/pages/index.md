@@ -228,8 +228,8 @@ blocks:
           \
 
           **[Fediverse](@aqualith@podcastindex.social "Fediverse")** - Follow
-          **@aqualith\@podcastindex.social** from your chosen Mastodon-based
-          instance.
+          **@[aqualith@podcastindex.social](mailto\:aqualith@podcastindex.social)**
+          from your chosen Mastodon-based instance.
 
 
           \
@@ -441,15 +441,15 @@ blocks:
     navigationLabel: ''
     _template: cards
   - style:
-      alignment: 'flex-row-reverse items-center '
-      padding: pt-20 pb-20 pr-16 pl-0
+      alignment: flex-row items-center gap-40
+      padding: pt-32 pb-28 pr-0 pl-80
       featureImage: '  mx-auto'
-      featureContent: w-full min-h-0 text-left
+      featureContent: w-3/5 min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-0 '
-      labelStyles: text-black  undefined
+      labelStyles: 'text-black undefined '
       headlineStyles: text-black undefined undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black mg-copy undefined
+      textStyles: text-accent1 mg-copy undefined
     background:
       fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
