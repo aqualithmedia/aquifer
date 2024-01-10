@@ -228,7 +228,7 @@ blocks:
           \
 
           **[Fediverse](@aqualith@podcastindex.social "Fediverse")** - Follow
-          @aqualith\@podcastindex.social from your chosen Mastodon-based
+          **@aqualith\@podcastindex.social** from your chosen Mastodon-based
           instance.
 
 
@@ -237,13 +237,6 @@ blocks:
           **[Minnesota Blockchain Initiative](https://mnblockchain.org
           "MNBlockchain")** - I volunteer and regularly attend meetups for this
           Twin Cities ecosystem built around blockchain tech.
-
-
-          \
-
-          **[Indie Game
-          Alliance](https://www.indiegamealliance.com/join/?refer=3996 "Indie
-          Game Alliance")** - Member
       - headline: Podcast
         subhead: ''
         text: >
