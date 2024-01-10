@@ -254,7 +254,8 @@ blocks:
           value4value model"), Podcasting 2.0-compliant show. If you find value
           in what you hear, and have the means to do so, I implore you to give
           value back either in time, talent, or treasure. Otherwise, have a
-          listen on [a modern podcast app](https://podcastapps.com "Go
+          listen on a modern podcast app like
+          [Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
           podcasting!").
 
 
