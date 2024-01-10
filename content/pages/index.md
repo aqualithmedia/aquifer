@@ -478,14 +478,14 @@ blocks:
   - style:
       fullWidth: true
       minHeight: min-h-120
-      padding: pt-20 pb-20 undefined undefined
+      padding: pt-36 pb-20 undefined pl-32
     background:
       fillStyles: ' opacity-100'
       wrapFillStyles: ' opacity-100'
       src: /uploads/background/under-current.jpg
       style: bg-cover
       position: bg-center
-    markup: Email form. Tailwind embed?
+    markup: '<b>[ Email form. Tailwind embed? ]'
     navigationLabel: Contact
     _template: embed
 background:
