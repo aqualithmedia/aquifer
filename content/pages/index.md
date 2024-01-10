@@ -441,6 +441,16 @@ blocks:
     navigationLabel: ''
     _template: cards
   - style:
+      fullWidth: true
+      minHeight: min-h-0
+      padding: pt-32 pb-32 undefined pl-32
+    background:
+      style: bg-cover
+      position: bg-center
+    markup: Portfolio - Link to Portfolio page or Behance
+    navigationLabel: Portfolio
+    _template: embed
+  - style:
       alignment: flex-row items-center gap-40
       padding: pt-40 pb-40 pr-0 pl-80
       featureImage: '  mx-auto'
