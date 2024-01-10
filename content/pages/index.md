@@ -256,7 +256,7 @@ blocks:
           value back either in time, talent, or treasure. Otherwise, have a
           listen on a modern podcast app like
           [Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
-          podcasting!").
+          podcasting!"), and earn sats while doing it!
 
 
           \
@@ -293,13 +293,6 @@ blocks:
 
           Save in stores with **[Craypay](https://craypay.app.link/XHWKZBRlZF
           "Craypay affiliate")**
-
-
-          \
-
-          Dip a toe in **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2
-          "Fountain affiliate")**, a modern podcast app and earn some sats while
-          doing it.
 
 
           \
