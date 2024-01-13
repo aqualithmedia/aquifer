@@ -435,9 +435,6 @@ blocks:
       - headline: '"Garrison"'
         body: |
           **▓ ░ ░ ░**
-      - headline: '"Chronicle"'
-        body: |
-          **▓ ░ ░ ░**
     navigationLabel: ''
     _template: cards
   - style:
