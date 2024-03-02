@@ -135,8 +135,8 @@ blocks:
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: text-black undefined undefined
-      headlineStyles: text-white mg-headline-large mb-2
-      subheadStyles: 'text-white mg-headline-small '
+      headlineStyles: text-gray-dark mg-headline-large mb-2
+      subheadStyles: 'text-gray-dark mg-headline-small '
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: from-accent1 to-accent1 bg-gradient-to-r opacity-100
