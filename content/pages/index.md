@@ -147,7 +147,7 @@ blocks:
       subheadStyles: 'text-black undefined '
       textStyles: text-white undefined undefined
     background:
-      fillStyles: from-accent1 to-gray-dark bg-gradient-to-bl opacity-100
+      fillStyles: from-accent1 to-accent3 bg-gradient-to-t opacity-60
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
