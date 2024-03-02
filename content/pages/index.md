@@ -257,13 +257,6 @@ blocks:
           listen on a modern podcast app like
           [Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
           podcasting!"), and earn sats while doing it!
-
-
-          \
-
-          Catch **Aqualith AM** and occasional video content **[on
-          Odysee](https://odysee.com/$/invite/@aqualith\:b "Subscribe on
-          Odysee")**, and earn credits as you participate.
       - headline: Recommended services
         text: >
           Protect yourself online with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
