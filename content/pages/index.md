@@ -291,12 +291,6 @@ blocks:
 
           \
 
-          Save in stores with **[Craypay](https://craypay.app.link/XHWKZBRlZF
-          "Craypay affiliate")**
-
-
-          \
-
           Take back your gut with
           **[Plexus](https://shop.plexusworldwide.com/kristinaheck/products "My
           wife Kristina's Plexus storefront")** supplements through my wife
