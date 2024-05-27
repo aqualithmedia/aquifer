@@ -214,7 +214,7 @@ blocks:
 
           **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
           "Aqualith on Publicsq.")**
-      - headline: Communities
+      - headline: Memberships
         subhead: ''
         text: >
           **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - My
@@ -259,23 +259,43 @@ blocks:
           podcasting!"), and earn sats while doing it!
       - headline: Recommended services
         text: >
-          Protect yourself online with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0
-          "Proton affiliate")**
+          **Proton**
+
+
+          Data security is of prime importance as I protect myself, my family,
+          and my clients with **[Proton](https://pr.tn/ref/ZDMYE5FB9AP0 "Proton
+          affiliate")**'s suite of services including Email, Calendar, Cloud
+          storage, VPN, and Password manager. Truly essential.
 
 
           \
 
-          Be **[Brave](https://brave.com "Brave browser affiliate")**! Use a
-          better browser, and earn money doing it!
+          **Brave**
+
+
+          My most-trusted browser in both reliability and ethics,
+          **[Brave](https://brave.com/?ref=aqu972 "Brave browser affiliate")**
+          is simply a better browser. And I even earn money using it. **[Brave
+          Search](https://search.brave.com/?ref=aqu972)** aids me in search
+          results that are actually relevant and not insulting me with ads. And
+          rather than use VOiP services with questionable ties and motives,
+          **[Brave Talk](https:.//talk.brave.com/?ref=aqu972)** assures you any
+          voice and video consersation between us is secure.
 
 
           \
+
+          **Bitwage**
+
 
           Get paid in crypto with **[Bitwage](https://app.bitwage.com "Bitwage
           affiliate")**. I do!
 
 
           \
+
+          **Spritz**
+
 
           Pay bills using
           **[Spritz](https://app.spritz.finance/signup?grsf=w7kcz5 "Spritz
@@ -284,10 +304,13 @@ blocks:
 
           \
 
-          Take back your gut with
-          **[Plexus](https://shop.plexusworldwide.com/kristinaheck/products "My
-          wife Kristina's Plexus storefront")** supplements through my wife
-          Kristina's storefront. We've both been blessed by them for years.
+          **Plexus**
+
+
+          Take back your gut with supplements from my wife Kristina's
+          **[storefront](https://shop.plexusworldwide.com/kristinaheck/products
+          "My wife Kristina's Plexus storefront")**. Our family's health and
+          well being has been truly blessed by them for years.
     navigationLabel: Dossier
     _template: accordion
   - style:
