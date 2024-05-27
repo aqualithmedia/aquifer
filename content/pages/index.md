@@ -352,7 +352,7 @@ blocks:
 
       ▓ ▓ ▓ ▓ Launch
     items:
-      - headline: '"Aquifer"'
+      - headline: Aquifer
         subhead: Aqualith Media website
         body: >
           **▓ ▓ ░ ░**
