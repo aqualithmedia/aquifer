@@ -308,8 +308,8 @@ blocks:
     headline: Projects
     subhead: 'From ideation to launch, one never knows what the tides may bring'
     body: >
-      Below are self-propelled projects in various dev states as resourcing
-      permits.
+      Projects below, some with codenames denoted by "quotes", are in various
+      dev states as resourcing permits.
     navigationLabel: Projects
     _template: feature
   - style:
