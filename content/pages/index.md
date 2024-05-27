@@ -364,7 +364,7 @@ blocks:
       - headline: Prolegomena
         subhead: A micro-setting's introduction
         body: >
-          ▓ ▓ ░ ░ 
+          ▓ ▓ ░ ░
 
 
           To be released in digital book form, ***Prolegomena*** is the
@@ -406,6 +406,10 @@ blocks:
     subhead: ''
     body: ''
     items:
+      - label: ''
+        headline: Consortium
+        body: |
+          **▓ ▓ ░ ░**
       - headline: '"Pillowcase"'
         subhead: ''
         body: |
