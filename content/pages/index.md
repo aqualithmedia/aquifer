@@ -209,33 +209,37 @@ blocks:
       - headline: Memberships
         subhead: ''
         text: >
-          **[MeWe](https://mewe.com/aqualithmedia.39 "Ryan Heck on MeWe")** - My
-          personal favorite social network that champions privacy and data
+          **MeWe**
+
+
+          My personal favorite social network that champions privacy and data
           ownership, as well as offering just about any affinity group you can
-          imagine. It should could come as no surprise that it is home to the
-          ***[Aqualith Consortium](https://mewe.com/join/theconsortium "Join the
-          Consortium!")***.
+          imagine. It should could come as no surprise that it is home base to
+          the ***[Aqualith Consortium](https://mewe.com/join/theconsortium "Join
+          the Consortium!")***.
 
 
           \
 
-          **[Fediverse](@aqualith@podcastindex.social "Fediverse")** - Follow 
+          **Fediverse**
 
 
-          ```javascript
+          Follow
 
-          ```
-
-
-          **[@aqualith@podcastindex.social](mailto\:aqualith@podcastindex.social)**
-          from your chosen Mastodon-based instance.
+          **[@aqualith@podcastindex.social](https://podcastindex.social/@aqualith)**
+          from your chosen Mastodon-based instance. I chose Podcastindex.social
+          due to my love and appreciation for the **[Podcasting 2.0
+          movement](https://podcasting2.org)**.
 
 
           \
 
-          **[Minnesota Blockchain Initiative](https://mnblockchain.org
-          "MNBlockchain")** - I volunteer and regularly attend meetups for this
-          Twin Cities ecosystem built around blockchain tech.
+          **Minnesota Blockchain Initiative**
+
+
+          As a member and volunteer of **[this groundbreaking
+          ecosystem](https://mnblockchain.org "MNBlockchain")**, we're striving
+          to bring advocacy and build support for blockchain tech.
       - headline: Podcast
         subhead: ''
         text: >
