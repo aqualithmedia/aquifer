@@ -188,15 +188,6 @@ blocks:
 
           \
 
-          **Previous work on external portfolio**
-
-
-          **[Behance](https://www.behance.net/ryanheck "Design & client
-          portfolio")**
-
-
-          \
-
           **Connect and follow professionally**\
 
           [**LinkedIn** (personal profile)](https://linkedin.com/in/ryanheck
@@ -212,7 +203,8 @@ blocks:
           "Alignable")**
 
 
-          **[Publicsq.](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
+          **[Public
+          Square](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
           "Aqualith on Publicsq.")**
       - headline: Memberships
         subhead: ''
