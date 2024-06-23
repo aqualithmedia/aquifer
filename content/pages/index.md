@@ -26,7 +26,8 @@ blocks:
     label: STORY
     headline: Setting the water table
     subhead: ''
-    body: ''
+    body: |
+      [consultancy](/consultancy "test link")
     buttons:
       - label: 'Have a seat, traveler...'
         link: '#'
