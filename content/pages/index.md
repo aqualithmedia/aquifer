@@ -103,12 +103,12 @@ blocks:
       - image:
           src: /uploads/brush.svg
         headline: Consultancy
-        subhead: Leave that centralization behind.
+        subhead: Greatness unleashed.
         body: >
-          Modernize and set apart your next great thing with a time-tested
-          graphic designer by your side.
+          Leave ho-hum centralization behind with a time-tested, user experience
+          design consultant at your side.
         link: '#'
-        buttonLabel: Be set free
+        buttonLabel: Be set apart
       - image:
           src: /uploads/chart-network.svg
         headline: Publishing
@@ -124,7 +124,7 @@ blocks:
         subhead: Sights and sounds.
         body: >
           Documenting nerdery and creative forms of engagement through podcasts,
-          blogs, and the social web.
+          networking, and the social web.
         link: '#'
         buttonLabel: Value for value
     navigationLabel: Services
@@ -274,13 +274,13 @@ blocks:
 
 
           My most-trusted browser in both reliability and ethics,
-          **[Brave](https://brave.com/?ref=aqu972 "Brave browser affiliate")**
-          is simply a better browser. And I even earn money using it. **[Brave
-          Search](https://search.brave.com/?ref=aqu972)** aids me in search
-          results that are actually relevant and not insulting me with ads. And
-          rather than use VOiP services with questionable ties and motives,
-          **[Brave Talk](https:.//talk.brave.com/?ref=aqu972)** assures you any
-          voice and video consersation between us is secure.
+          **[Brave](https://brave.com "Brave browser affiliate")** is simply a
+          better browser. And I even earn money using it. **[Brave
+          Search](https://search.brave.com)** aids me in search results that are
+          actually relevant and not insulting me with ads. And rather than use
+          VOiP services with questionable ties and motives, **[Brave
+          Talk](https://.//talk.brave.com/?ref=aqu972)** assures you any voice
+          and video consersation between us is secure.
 
 
           \
