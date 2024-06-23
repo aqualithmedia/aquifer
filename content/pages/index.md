@@ -219,8 +219,15 @@ blocks:
 
           \
 
-          **[Fediverse](@aqualith@podcastindex.social "Fediverse")** - Follow
-          **@[aqualith@podcastindex.social](mailto\:aqualith@podcastindex.social)**
+          **[Fediverse](@aqualith@podcastindex.social "Fediverse")** - Follow 
+
+
+          ```javascript
+
+          ```
+
+
+          **[@aqualith@podcastindex.social](mailto\:aqualith@podcastindex.social)**
           from your chosen Mastodon-based instance.
 
 
