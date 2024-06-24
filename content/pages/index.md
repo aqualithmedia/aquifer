@@ -170,7 +170,7 @@ blocks:
         text: |
           **Head Hydromancer (or Founder and Solopreneur)**
 
-          Insert backstory here.
+          Insert backstory here. Lorem ipsum
 
           **[Email](mailto\:consultwithryan@protonmail.com "Email!")**
       - headline: Professional connections
@@ -214,6 +214,26 @@ blocks:
           **[Public
           Square](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
           "Aqualith on Publicsq.")**
+      - headline: Podcast
+        subhead: ''
+        text: >
+          **[Aqualith AM](https://podcastindex.org/podcast/956191 "Aqualith AM
+          on the Podcast Index")** podcast is lo-fi theorycrafting on play,
+          design, and business of the emerging, yet still peculiar hobby of
+          tabletop roleplaying.
+
+
+          \
+
+          First and foremost, **Aqualith AM** is offered free of charge in it's
+          full, premium form, free of ads as a
+          **[value4value](https://value4value.info/about/ "Find out more about
+          the value4value model")**, Podcasting 2.0-compliant show. If you find
+          value in what you hear, and have the means to do so, I implore you to
+          give value back either in time, talent, or treasure. Otherwise, have a
+          listen on a modern podcast app like
+          **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
+          podcasting!")**, and earn sats while doing it!
       - headline: Memberships
         subhead: ''
         text: >
@@ -248,26 +268,22 @@ blocks:
           As a member and volunteer of **[this groundbreaking
           ecosystem](https://mnblockchain.org "MNBlockchain")**, we're striving
           to bring advocacy and build support for blockchain tech.
-      - headline: Podcast
-        subhead: ''
-        text: >
-          **[Aqualith AM](https://podcastindex.org/podcast/956191 "Aqualith AM
-          on the Podcast Index")** podcast is lo-fi theorycrafting on play,
-          design, and business of the emerging, yet still peculiar hobby of
-          tabletop roleplaying.
 
 
           \
 
-          First and foremost, **Aqualith AM** is offered free of charge in it's
-          full, premium form, free of ads as a
-          **[value4value](https://value4value.info/about/ "Find out more about
-          the value4value model")**, Podcasting 2.0-compliant show. If you find
-          value in what you hear, and have the means to do so, I implore you to
-          give value back either in time, talent, or treasure. Otherwise, have a
-          listen on a modern podcast app like
-          **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
-          podcasting!")**, and earn sats while doing it!
+          **The Guardians**
+
+
+          lorem ipsum
+
+
+          \
+
+          **Good Shepherd Presbyterian Church**
+
+
+          Member since 2019. lorem ipsum
       - headline: Recommended services
         text: >
           **Proton**
