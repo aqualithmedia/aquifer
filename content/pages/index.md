@@ -165,6 +165,14 @@ blocks:
 
       Seeking clients looking to refresh their design game.
     items:
+      - headline: Bio
+        subhead: ''
+        text: |
+          **Head Hydromancer (or Founder and Solopreneur)**
+
+          Insert backstory here.
+
+          **[Email](mailto\:consultwithryan@protonmail.com "Email!")**
       - headline: Professional connections
         text: >
           **Message me directly and securely**
