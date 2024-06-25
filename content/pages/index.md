@@ -28,7 +28,7 @@ blocks:
     subhead: ''
     body: ''
     buttons:
-      - label: 'Have a seat, traveler...'
+      - label: 'Have a seat there, pilgrim...'
         link: '#'
         icon: ''
         buttonStyle: primary
@@ -153,10 +153,15 @@ blocks:
       position: bg-center
     label: ''
     headline: Dossier
-    subhead: Professional details and external points of interest
+    subhead: The shakedown on the guy running this place
     body: >
-      Fervent design strategist with a keen eye for presentation, refining brand
-      identity, ensuring precision user interface, and upholding best practices.
+      Like any nerd out there, I have eclectic taste. Dabbling in some interests
+      while displaying a pedigree in others, pinpointing a proper title truly
+      grows harder by the day. In fact my next business card order, I'll
+      probably make a point  to remove the titles I have. A keen eye for
+      presentation and brand identity might suggest I'm a designer. A empathic
+      ear and desire for networking may suggest I'm a consultant. The yearning
+      to use platforms at my disposal may imply I'm a publisher.
 
 
       Thrives on collaboration with team members and stakeholders to deliver
