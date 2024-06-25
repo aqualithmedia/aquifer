@@ -164,11 +164,9 @@ blocks:
       to use platforms at my disposal may imply I'm a publisher.
 
 
-      Thrives on collaboration with team members and stakeholders to deliver
-      memorable digital and print solutions.
+      \
 
-
-      Seeking clients looking to refresh their design game.
+      lorem ipsum
     items:
       - headline: Bio
         subhead: ''
