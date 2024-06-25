@@ -461,6 +461,9 @@ blocks:
     subhead: ''
     body: ''
     items:
+      - headline: '"Curriculum"'
+        body: |
+          **▓ ░ ░ ░**
       - label: ''
         headline: Consortium
         body: |
