@@ -231,7 +231,7 @@ blocks:
           **Aqualith AM** will always be offered in it's full, premium form,
           free of ads as a **[value for value](https://value4value.info/about/
           "Find out more about the value4value model")**, **[Podcasting
-          2.0](https://podcasting2.org "Podcasting 2.0")**-certified show. If
+          2.0-certified](https://podcasting2.org "Podcasting 2.0")** show. If
           you find value in what you hear, and have the means to do so, I
           implore you to give value back either in time, talent, or treasure.
           Otherwise, have a listen on a modern podcast app like
