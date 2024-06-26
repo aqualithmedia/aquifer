@@ -283,10 +283,10 @@ blocks:
 
           \
 
-          **Good Shepherd Presbyterian Church**
+          **GSPC**
 
 
-          Member since 2019. lorem ipsum
+          lorem ipsum
       - headline: Recommended services
         text: >
           **Proton**
