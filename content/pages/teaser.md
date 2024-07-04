@@ -2,61 +2,26 @@
 blocks:
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: 'pt-48 pb-36 pr-11 pl-10 sm:pt-64 sm:pb-28 sm:pr-5 sm:pl-5'
-      featureImage: '  mx-auto'
-      featureContent: 'w-2/3 min-h-0 text-right sm:w-full sm:min-h-0 sm:text-center'
-      buttonsLayout: 'flex-wrap gap-0 '
-      labelStyles: text-white mg-copy-small mb-0
-      headlineStyles: 'text-white mg-headline-large '
-      subheadStyles: 'text-white mg-copy-large '
-      textStyles: 'text-white mg-copy '
-    background:
-      fillStyles: ' opacity-5'
-      wrapFillStyles: ' opacity-100'
-      src: /uploads/story-setting-the-water-table-bkgd.jpg
-      style: bg-cover
-      position: bg-right-top
-      ornaments:
-        - src: /uploads/brand/aqualith-logo-tran-500.png
-          alignment: left
-          width: '400'
-          height: '400'
-          xOffset: ''
-          yOffset: '175'
-    label: STORY
-    headline: Setting the water table
-    subhead: ''
-    body: ''
-    buttons:
-      - label: 'Have a seat, traveler...'
-        link: '#'
-        icon: ''
-        buttonStyle: primary
-        fathomId: ''
-    navigationLabel: Home
-    _template: feature
-  - style:
-      alignment: 'flex-col-reverse items-center '
       padding: 'pt-32 pb-20 pr-0 pl-0 sm:pt-32 sm:pb-20 sm:pr-0 sm:pl-0'
       featureImage: '  mx-auto'
       featureContent: 'w-3/5 min-h-0 text-center sm:w-3/5 sm:min-h-0 sm:text-center'
-      buttonsLayout: 'flex-col  '
+      buttonsLayout: 'flex-col gap-0 '
       labelStyles: text-black mg-hidden undefined
-      headlineStyles: 'text-accent1 mg-headline-large '
-      subheadStyles: 'text-accent1 mg-headline-large '
-      textStyles: text-accent1 mg-copy undefined
+      headlineStyles: 'text-accent3 mg-headline-large '
+      subheadStyles: 'text-accent3 mg-headline-large '
+      textStyles: text-accent3 mg-copy undefined
     background:
-      fillStyles: from-primary to-white bg-gradient-to-br opacity-50
+      fillStyles: from-primary to-accent1 bg-gradient-to-br opacity-100
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
-    headline: Telling stories through compelling design.
-    subhead: Including yours.
+    headline: Soak up the possibilities.
+    subhead: ''
     body: |
-      Now open for contract and freelance.
+      This summer.
     buttons:
       - label: Let's chat
-        link: /contact
+        link: '#contact'
         icon: chat
         buttonStyle: primary
     _template: feature
