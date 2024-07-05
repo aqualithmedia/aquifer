@@ -15,6 +15,13 @@ blocks:
       wrapFillStyles: ' opacity-100'
       style: bg-cover
       position: bg-center
+      ornaments:
+        - src: /uploads/brand/aqualith-logo-tran-500.png
+          alignment: center
+          width: '350'
+          height: '350'
+          xOffset: ''
+          yOffset: '-300'
     headline: Soak up the possibilities.
     subhead: ''
     body: |
