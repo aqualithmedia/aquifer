@@ -27,7 +27,7 @@ blocks:
     body: ''
     buttons:
       - label: Until then...
-        link: campsite.bio/aqualith
+        link: 'https://campsite.bio/aqualith'
         icon: ''
         buttonStyle: primary
     _template: feature
