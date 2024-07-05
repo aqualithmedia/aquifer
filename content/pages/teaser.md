@@ -2,14 +2,14 @@
 blocks:
   - style:
       alignment: flex-col items-center gap-40
-      padding: 'pt-32 pb-20 pr-0 pl-0 sm:pt-32 sm:pb-20 sm:pr-0 sm:pl-0'
+      padding: 'pt-80 pb-20 pr-0 pl-0 sm:pt-48 sm:pb-20 sm:pr-0 sm:pl-0'
       featureImage: '  mx-auto'
-      featureContent: 'w-3/5 min-h-180 text-center sm:w-3/5 sm:min-h-0 sm:text-center'
+      featureContent: 'w-3/5 min-h-180 text-center sm:w-3/5 sm:min-h-120 sm:text-center'
       buttonsLayout: 'flex-col gap-0 '
-      labelStyles: text-black mg-hidden undefined
-      headlineStyles: 'text-accent3 mg-headline-large '
+      labelStyles: 'text-black mg-hidden '
+      headlineStyles: text-accent3 mg-headline-large mb-4
       subheadStyles: 'text-accent3 mg-headline-large '
-      textStyles: text-accent3 mg-copy undefined
+      textStyles: 'text-accent3 mg-copy '
     background:
       fillStyles: from-primary to-accent1 bg-gradient-to-br opacity-100
       wrapFillStyles: ' opacity-100'
@@ -22,14 +22,13 @@ blocks:
           height: '350'
           xOffset: ''
           yOffset: '-300'
-    headline: Soak up the possibilities.
+    headline: Soak up the possibilities later this summer.
     subhead: ''
-    body: |
-      This summer.
+    body: ''
     buttons:
-      - label: Let's chat
-        link: '#contact'
-        icon: chat
+      - label: Until then...
+        link: campsite.bio/aqualith
+        icon: ''
         buttonStyle: primary
     _template: feature
   - style:
