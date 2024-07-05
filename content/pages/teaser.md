@@ -1,10 +1,10 @@
 ---
 blocks:
   - style:
-      alignment: 'flex-col-reverse items-center '
+      alignment: flex-col items-center gap-40
       padding: 'pt-32 pb-20 pr-0 pl-0 sm:pt-32 sm:pb-20 sm:pr-0 sm:pl-0'
       featureImage: '  mx-auto'
-      featureContent: 'w-3/5 min-h-0 text-center sm:w-3/5 sm:min-h-0 sm:text-center'
+      featureContent: 'w-3/5 min-h-180 text-center sm:w-3/5 sm:min-h-0 sm:text-center'
       buttonsLayout: 'flex-col gap-0 '
       labelStyles: text-black mg-hidden undefined
       headlineStyles: 'text-accent3 mg-headline-large '
