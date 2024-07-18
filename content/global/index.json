@@ -16,7 +16,7 @@
     "navTypeStyle": "text-white mg-nav mb-7",
     "navButtons": [
       {
-        "label": "",
+        "label": "test",
         "link": "https://github.com/MicrogenSite/microgen",
         "icon": "",
         "style": "icon"
