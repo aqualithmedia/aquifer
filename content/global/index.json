@@ -20,6 +20,10 @@
         "link": "",
         "subNavItems": [
           {
+            "label": "Podcast",
+            "link": "/podcast"
+          },
+          {
             "label": "Blog",
             "link": "/blog"
           }
