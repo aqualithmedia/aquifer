@@ -22,8 +22,8 @@
     ],
     "navButtons": [
       {
-        "label": "",
-        "link": "https://github.com/MicrogenSite/microgen",
+        "label": "Blog",
+        "link": "/posts",
         "icon": "",
         "style": "icon"
       }
