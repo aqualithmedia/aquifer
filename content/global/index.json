@@ -16,16 +16,16 @@
     "navTypeStyle": "text-white mg-nav mb-7",
     "navItems": [
       {
-        "label": "Blog",
+        "label": "Media",
         "link": "",
         "subNavItems": [
           {
-            "label": "Podcast",
-            "link": "/podcast"
-          },
-          {
             "label": "Blog",
             "link": "/blog"
+          },
+          {
+            "label": "Podcast",
+            "link": "/podcast"
           }
         ]
       }
