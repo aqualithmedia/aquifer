@@ -14,9 +14,15 @@
     "navBackgroundColor": "bg-black opacity-80",
     "navAlignment": "text-right",
     "navTypeStyle": "text-white mg-nav mb-7",
+    "navItems": [
+      {
+        "label": "Blog",
+        "link": "/posts"
+      }
+    ],
     "navButtons": [
       {
-        "label": "test",
+        "label": "",
         "link": "https://github.com/MicrogenSite/microgen",
         "icon": "",
         "style": "icon"
