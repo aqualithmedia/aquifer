@@ -541,7 +541,7 @@ background:
   ornaments:
     - {}
 meta:
-  title: Microgen
+  title: Aqualith Media
   description: ''
 ---
 
