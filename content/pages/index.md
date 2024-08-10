@@ -533,7 +533,7 @@ blocks:
     navigationLabel: Contact
     _template: embed
 background:
-  fillStyles: from-accent2 to-accent3 bg-gradient-to-r opacity-60
+  fillStyles: ' opacity-60'
   wrapFillStyles: ' opacity-100'
   src: ''
   style: bg-cover
