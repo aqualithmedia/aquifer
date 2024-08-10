@@ -29,6 +29,13 @@
           }
         ]
       }
+    ],
+    "navButtons": [
+      {
+        "label": "Nav Button",
+        "link": "/blog",
+        "icon": "arrow-left-solid"
+      }
     ]
   },
   "footerNav": "true",
