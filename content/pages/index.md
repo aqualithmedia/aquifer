@@ -62,7 +62,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-12 pb-20 pr-6 pl-6
+      padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
       buttonsLayout: 'flex-wrap gap-0 '
       labelStyles: text-white mg-hidden undefined
