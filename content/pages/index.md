@@ -88,7 +88,7 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: from-accent1 to-accent1 bg-gradient-to-b opacity-95
+      fillStyles: ' opacity-95'
       wrapFillStyles: ' opacity-80'
       src: /uploads/background/ocean-current.jpg
       style: bg-cover
