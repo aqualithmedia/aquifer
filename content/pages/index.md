@@ -98,16 +98,16 @@ blocks:
     subhead: ''
     body: >
       Building upon three core practices, Aqualith enables orgs with curated
-      design services,  enriches gamers' imagination, and engages the social web
-      with intentionality.
+      design services,  enriches tabletop gamers' imagination, and engages the
+      social web with intentionality.
     items:
       - image:
           src: /uploads/brush.svg
         headline: Consultancy
         subhead: Greatness unleashed.
         body: >
-          Leave ho-hum centralization behind with a time-tested, user experience
-          design consultant at your side.
+          Leave ho-hum centralization behind with a time-tested, graphic design
+          consultant at your side.
         link: '#'
         buttonLabel: Be set apart
       - image:
