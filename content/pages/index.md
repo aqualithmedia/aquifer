@@ -115,16 +115,16 @@ blocks:
         headline: Publishing
         subhead: Imprinting imagination.
         body: >
-          Producing tabletop roleplaying game products designed to drop right
-          into your imaginary settings and favorite systems.
+          Shake the gates of your tabletop adventures with modular products
+          ready to drop into your favorite systems.
         link: '#'
         buttonLabel: Roll for initiative
       - image:
           src: /uploads/bolt.svg
         headline: Media
-        subhead: Sights and sounds.
+        subhead: Sensory refreshment.
         body: >
-          Documenting nerdery and creative forms of engagement through podcasts,
+          Documenting nerdery and sensible forms of engagement through podcasts,
           networking, and the social web.
         link: '#'
         buttonLabel: Value for value
