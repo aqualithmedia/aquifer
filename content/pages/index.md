@@ -172,11 +172,11 @@ blocks:
       - headline: Bio
         subhead: ''
         text: >
-          **Head Hydromancer (aka Founder,  Solopreneur)**
+          A proper writeup will likely come at a later date, but the gist is in
+          the following.
 
 
-          A proper writeup is in the works, but the gist is the following. 
-
+          \
 
           I began mimicking commercial logos at a very young age (I have the
           sketchbook to prove it!) and eventually gave up my childhood dream of
@@ -184,7 +184,10 @@ blocks:
           evolved over time both because of the industry and my own career path
           that started in Indiana, developed in Washington, and culminated where
           I am today in Minnesota. It was here I gave life to *Aqualith Media*
-          as it's current sole-proprietor.\
+          as it's sole-proprietor, founder, and Head Hydromancer.
+
+
+          \
 
           Husband to my better half, Kristina, and father of two incredible
           daughters.
