@@ -53,6 +53,8 @@ blocks:
     headline: Telling stories through compelling design.
     subhead: Including yours.
     body: |
+      Aqualith is a design service consultancy and digital publisher of \
+      quality tabletop roleplaying game products. \
       Now open for contract and freelance.
     buttons:
       - label: Let's chat
@@ -94,11 +96,12 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: Services
-    subhead: Aqualith's core structure
+    headline: Telling stories through compelling design.
+    subhead: Including yours.
     body: |
       Aqualith is a design service consultancy and digital publisher of \
-      quality tabletop roleplaying game products.
+      quality tabletop roleplaying game products. \
+      Now open for contract and freelance.
     items:
       - image:
           src: /uploads/brush.svg
