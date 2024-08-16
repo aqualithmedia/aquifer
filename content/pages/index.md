@@ -272,22 +272,6 @@ blocks:
           As a member and volunteer of **[this groundbreaking
           ecosystem](https://mnblockchain.org "MNBlockchain")**, we're striving
           to bring advocacy and build support for blockchain tech.
-
-
-          \
-
-          **The Guardians**
-
-
-          lorem ipsum
-
-
-          \
-
-          **GSPC**
-
-
-          lorem ipsum
       - headline: Recommended services
         text: >
           **Proton**
