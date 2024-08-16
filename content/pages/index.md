@@ -171,12 +171,23 @@ blocks:
     items:
       - headline: Bio
         subhead: ''
-        text: |
-          **Head Hydromancer (or Founder and Solopreneur)**
+        text: >
+          **Head Hydromancer (aka Founder,  Solopreneur)**
 
-          Insert backstory here. Lorem ipsum
 
-          **[Email](mailto\:consultwithryan@protonmail.com "Email!")**
+          A proper writeup is in the works, but the gist is the following. 
+
+
+          I began mimicking commercial logos at a very young age (I have the
+          sketchbook to prove it!) and eventually gave up my childhood dream of
+          becoming a cartoonist to become a graphic artist. That title has
+          evolved over time both because of the industry and my own career path
+          that started in Indiana, developed in Washington, and culminated where
+          I am today in Minnesota. It was here I gave life to *Aqualith Media*
+          as it's current sole-proprietor.\
+
+          Husband to my better half, Kristina, and father of two incredible
+          daughters.
       - headline: Professional connections
         text: >
           **Message me directly and securely**
