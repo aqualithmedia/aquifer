@@ -222,7 +222,7 @@ blocks:
         subhead: ''
         text: >
           **[Aqualith AM](https://podcastindex.org/podcast/956191 "Aqualith AM
-          on the Podcast Index")** podcast is lo-fi theorycrafting on play,
+          on the Podcast Index")** is a podcast of lo-fi theorycrafting on play,
           design, and business of the emerging, yet still peculiar hobby of
           tabletop roleplaying.
 
@@ -235,7 +235,9 @@ blocks:
           2.0-certified](https://podcasting2.org "Podcasting 2.0")** show. If
           you find value in what you hear, and have the means to do so, I
           implore you to give value back either in time, talent, or treasure.
-          Otherwise, have a listen on a modern podcast app like
+          Said treasure can be in the form of a wide range of currencies, in
+          case sats just aren't your thing. Otherwise, have a listen on a modern
+          podcast app like
           **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
           podcasting!")**, and earn sats while doing it!
       - headline: Memberships
