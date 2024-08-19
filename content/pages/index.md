@@ -52,11 +52,10 @@ blocks:
       position: bg-center
     headline: Telling stories through compelling design.
     subhead: Including yours.
-    body: |
-      Now open for contract and freelance.
+    body: ''
     buttons:
-      - label: Let's chat
-        link: /contact
+      - label: Let's chat.
+        link: '#contact'
         icon: chat
         buttonStyle: primary
     _template: feature
