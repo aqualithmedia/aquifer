@@ -103,7 +103,7 @@ blocks:
       - image:
           src: /uploads/brush.svg
         headline: Consultancy
-        subhead: Greatness unleashed.
+        subhead: Self-sovereignty restored.
         body: >
           Leave ho-hum centralization behind with a time-tested, graphic design
           consultant at your side.
@@ -157,11 +157,10 @@ blocks:
     body: >
       Like any nerd out there, I have eclectic taste. Dabbling in some interests
       while displaying a pedigree in others, pinpointing a proper title truly
-      grows harder by the day. In fact my next business card order, I'll
-      probably make a point  to remove the titles I have. A keen eye for
-      presentation and brand identity might suggest I'm a designer. A empathic
-      ear and desire for networking may suggest I'm a consultant. The yearning
-      to use platforms at my disposal may imply I'm a publisher.
+      grows harder by the day. A keen eye for presentation and brand identity
+      might suggest I'm a designer. A empathic ear and desire for networking may
+      suggest I'm a consultant. The yearning to use platforms at my disposal may
+      imply I'm a publisher.
 
 
       \
@@ -190,7 +189,7 @@ blocks:
 
           Husband to my better half, Kristina, and father of two incredible
           daughters.
-      - headline: Professional connections
+      - headline: Professionally connect
         text: >
           **Message me directly and securely**
 
@@ -213,7 +212,7 @@ blocks:
 
           \
 
-          **Connect and follow professionally**\
+          **Connect and follow**\
 
           [**LinkedIn** (personal profile)](https://linkedin.com/in/ryanheck
           "Ryan Heck on LinkedIn")
@@ -231,7 +230,7 @@ blocks:
           **[Public
           Square](https://app.publicsq.com/marketplace/2c5f4b10-939b-11ed-bd35-cdf64f9d2c4e
           "Aqualith on Publicsq.")**
-      - headline: Podcast
+      - headline: Podcasting
         subhead: ''
         text: >
           **[Aqualith AM](https://podcastindex.org/podcast/956191 "Aqualith AM
@@ -252,7 +251,7 @@ blocks:
           case sats just aren't your thing. Otherwise, have a listen on a modern
           podcast app like
           **[Fountain](https://fountain.fm/aqualith?code=9ffe9f66a2 "Go
-          podcasting!")**, and earn sats while doing it!
+          podcasting!")**, and earn money doing it!
       - headline: Memberships
         subhead: ''
         text: >
@@ -340,7 +339,8 @@ blocks:
           Take back your gut with supplements from my wife Kristina's
           **[storefront](https://shop.plexusworldwide.com/kristinaheck/products
           "My wife Kristina's Plexus storefront")**. Our family's health and
-          well being has been truly blessed by them for years.
+          well being has been *truly* blessed by them for almost a decade. If
+          you're interested, do not hesitate to reach out.
     navigationLabel: Dossier
     _template: accordion
   - style:
