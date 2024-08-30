@@ -470,9 +470,6 @@ blocks:
         subhead: ''
         body: |
           **▓ ░ ░ ░**
-      - headline: '"Markdown"'
-        body: |
-          **▓ ░ ░ ░**
       - headline: '"Splashpad"'
         body: |
           **▓ ░ ░ ░**
