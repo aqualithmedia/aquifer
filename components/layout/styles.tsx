@@ -229,19 +229,19 @@ export const styles = (theme) => {
     
     @font-face {
       font-family: 'verb_blackregular';
-      src: url('fonts/VerbBlack-webfont.woff') format('woff');
+      src: url('/fonts/VerbBlack-webfont.woff') format('woff');
     }
     @font-face {
       font-family: 'verb_extralightregular';
-      src: url('fonts/VerbExtralight-webfont.woff') format('woff');
+      src: url('/fonts/VerbExtralight-webfont.woff') format('woff');
     }
     @font-face {
       font-family: 'verb_medium';
-      src: url('fonts/VerbMedium-webfont.woff') format('woff');
+      src: url('/fonts/VerbMedium-webfont.woff') format('woff');
     }
     @font-face {
       font-family: 'verb_mediumitalic';
-      src: url('fonts/VerbMedium-italic-webfont.woff') format('woff');
+      src: url('/fonts/VerbMedium-italic-webfont.woff') format('woff');
     }
     @media only screen and (max-width: 700px) {
       html {
