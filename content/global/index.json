@@ -20,26 +20,8 @@
         "link": "/index"
       },
       {
-        "label": "Consultancy",
-        "link": "/consultancy"
-      },
-      {
-        "label": "Publishing",
-        "link": "/publishing"
-      },
-      {
-        "label": "Media",
-        "link": "/media",
-        "subNavItems": [
-          {
-            "label": "Podcast",
-            "link": "/podcast"
-          },
-          {
-            "label": "Blog",
-            "link": "#"
-          }
-        ]
+        "label": "Services",
+        "link": ""
       },
       {
         "label": "Join",
