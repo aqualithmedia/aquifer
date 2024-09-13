@@ -21,7 +21,7 @@
         "subNavItems": [
           {
             "label": "Blog",
-            "link": "/blog"
+            "link": "#"
           },
           {
             "label": "Podcast",
