@@ -33,7 +33,7 @@ blocks:
         icon: ''
         buttonStyle: primary
         fathomId: ''
-    navigationLabel: Home
+    navigationLabel: ''
     _template: feature
   - style:
       alignment: 'flex-col-reverse items-center '
