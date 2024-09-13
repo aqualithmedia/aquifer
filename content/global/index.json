@@ -16,6 +16,24 @@
     "navTypeStyle": "text-white mg-nav mb-7",
     "navItems": [
       {
+        "label": "Home",
+        "link": "/index"
+      },
+      {
+        "label": "Services",
+        "link": "",
+        "subNavItems": [
+          {
+            "label": "Consultancy",
+            "link": "/consultancy"
+          },
+          {
+            "label": "Publishing",
+            "link": "/publishing"
+          }
+        ]
+      },
+      {
         "label": "Media",
         "link": "/",
         "subNavItems": [
@@ -24,14 +42,6 @@
             "link": "/podcast"
           }
         ]
-      },
-      {
-        "label": "Home",
-        "link": "/index"
-      },
-      {
-        "label": "Services",
-        "link": ""
       },
       {
         "label": "Join",
