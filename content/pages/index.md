@@ -127,7 +127,7 @@ blocks:
           networking, and the social web.
         link: '#'
         buttonLabel: Value for value
-    navigationLabel: Services
+    navigationLabel: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
