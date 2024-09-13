@@ -527,7 +527,7 @@ blocks:
       style: bg-cover
       position: bg-center
     markup: '<b>[ Email form. Tailwind embed? ]'
-    navigationLabel: Contact
+    navigationLabel: ''
     _template: embed
 background:
   fillStyles: ' opacity-60'
