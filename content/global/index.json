@@ -16,18 +16,38 @@
     "navTypeStyle": "text-white mg-nav mb-7",
     "navItems": [
       {
+        "label": "Home",
+        "link": "/index"
+      },
+      {
+        "label": "Consultancy",
+        "link": "/consultancy"
+      },
+      {
+        "label": "Publishing",
+        "link": "/publishing"
+      },
+      {
         "label": "Media",
-        "link": "",
+        "link": "/media",
         "subNavItems": [
-          {
-            "label": "Blog",
-            "link": "#"
-          },
           {
             "label": "Podcast",
             "link": "/podcast"
+          },
+          {
+            "label": "Blog",
+            "link": "#"
           }
         ]
+      },
+      {
+        "label": "Consortium",
+        "link": "/consortium"
+      },
+      {
+        "label": "Contact",
+        "link": "/contact"
       }
     ]
   },
