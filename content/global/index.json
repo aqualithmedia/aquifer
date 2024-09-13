@@ -48,6 +48,8 @@
         "buttons": ""
       },
       "background": {
+        "fillStyles": "from-primary to-accent3 bg-gradient-to-r opacity-100",
+        "wrapFillStyles": " opacity-100",
         "style": "bg-cover",
         "position": "bg-center"
       },
