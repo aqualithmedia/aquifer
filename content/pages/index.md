@@ -341,7 +341,7 @@ blocks:
           "My wife Kristina's Plexus storefront")**. Our family's health and
           well being has been *truly* blessed by them for almost a decade. If
           you're interested, do not hesitate to reach out.
-    navigationLabel: Dossier
+    navigationLabel: ''
     _template: accordion
   - style:
       alignment: flex-col-reverse items-center gap-4
@@ -363,7 +363,7 @@ blocks:
     body: >
       Projects below, some with codenames denoted by "quotes", are in various
       dev states as resourcing permits.
-    navigationLabel: Projects
+    navigationLabel: ''
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
