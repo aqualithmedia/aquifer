@@ -16,6 +16,16 @@
     "navTypeStyle": "text-white mg-nav mb-7",
     "navItems": [
       {
+        "label": "Media",
+        "link": "/",
+        "subNavItems": [
+          {
+            "label": "Podcast",
+            "link": "/podcast"
+          }
+        ]
+      },
+      {
         "label": "Home",
         "link": "/index"
       },
