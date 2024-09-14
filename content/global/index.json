@@ -20,18 +20,12 @@
         "link": "/index"
       },
       {
-        "label": "Services",
-        "link": "",
-        "subNavItems": [
-          {
-            "label": "Consultancy",
-            "link": "/consultancy"
-          },
-          {
-            "label": "Publishing",
-            "link": "/publishing"
-          }
-        ]
+        "label": "Consultancy",
+        "link": "/consultancy"
+      },
+      {
+        "label": "Imprint",
+        "link": "/publishing"
       },
       {
         "label": "Podcast",
