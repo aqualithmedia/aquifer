@@ -34,14 +34,8 @@
         ]
       },
       {
-        "label": "Media",
-        "link": "/",
-        "subNavItems": [
-          {
-            "label": "Podcast",
-            "link": "/podcast"
-          }
-        ]
+        "label": "Podcast",
+        "link": "/podcast"
       },
       {
         "label": "Join",
