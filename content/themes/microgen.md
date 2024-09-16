@@ -15,9 +15,6 @@ colors:
 fonts:
   typekitLink: ''
 typo:
-  - label: Verb Black
-    typography: >-
-      {"family":"verb_blackregular:wght@400","size":"8","lineHeight":"16","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
   - label: Headline Large
     typography: >-
       {"family":"verb_blackregular:wght@400","size":"40","lineHeight":"44","letterSpacing":"","margin":"20","smSize":"36","smLineHeight":"40","smLetterSpacing":"","smMargin":""}
@@ -39,6 +36,9 @@ typo:
   - label: Hidden
     typography: >-
       {"family":"Arial","size":"0","lineHeight":"0","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
+  - label: Verb Black
+    typography: >-
+      {"family":"verb_blackregular:wght@400","size":"8","lineHeight":"16","letterSpacing":"","margin":"","smSize":"","smLineHeight":"","smLetterSpacing":"","smMargin":""}
 buttons:
   - label: Icon
     fill: ' opacity-100'
