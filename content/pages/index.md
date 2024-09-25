@@ -550,6 +550,18 @@ blocks:
             </form>
     navigationLabel: ''
     _template: embed
+  - background:
+      style: bg-cover
+      position: bg-center
+    markup: |-
+      <form action="https://fabform.io/f/2e-nxB-" method="post">
+        <label for="fullName">Name</label>
+        <input name="fullName" type="text" required>
+        <label for="email">Email</label>
+        <input name="email" type="email" required>
+        <button type="submit">Send</button>
+      </form>
+    _template: embed
 background:
   fillStyles: ' opacity-60'
   wrapFillStyles: ' opacity-100'
