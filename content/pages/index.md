@@ -559,6 +559,8 @@ blocks:
         <input name="fullName" type="text" required>
         <label for="email">Email</label>
         <input name="email" type="email" required>
+        <label for="message">Message</label>
+        <input name="message" type="message" required>
         <button type="submit">Send</button>
       </form>
     _template: embed
