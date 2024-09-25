@@ -563,6 +563,7 @@ blocks:
         <input name="message" type="message" required>
         <button type="submit">Send</button>
       </form>
+      https://veilmail.io/aqualith
     _template: embed
 background:
   fillStyles: ' opacity-60'
