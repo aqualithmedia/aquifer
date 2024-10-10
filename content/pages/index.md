@@ -553,7 +553,7 @@ blocks:
   - background:
       style: bg-cover
       position: bg-center
-    markup: |-
+    markup: >
       <form action="https://fabform.io/f/2e-nxB-" method="post">
         <label for="fullName">Name</label>
         <input name="fullName" type="text" required>
@@ -563,7 +563,10 @@ blocks:
         <input name="message" type="message" required>
         <button type="submit">Send</button>
       </form>
-      https://veilmail.io/aqualith
+
+      <p>If you want to get in touch, please drop me an email at<!--
+      gQ5r(^^X5pUD!PTf6E --> consultw<!-- msh3SEE*FgSa&yZXk*x -->ithrya@pro<!--
+      asjoxp -->tonmail.com</p>
     _template: embed
 background:
   fillStyles: ' opacity-60'
