@@ -196,7 +196,7 @@ blocks:
           **Message me directly and securely**
 
 
-          **[Email](mailto\:consultwithryan@protonmail.com "Email!")**
+          **[Email](# "Email!")**
 
 
           **[Session](https://getsession.org "Get Session and say hi.")** (ID:
