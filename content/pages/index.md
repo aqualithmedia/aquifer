@@ -565,8 +565,8 @@ blocks:
       </form>
 
       <p>If you want to get in touch, please drop me an email at<!--
-      gQ5r(^^X5pUD!PTf6E --> consultw<!-- msh3SEE*FgSa&yZXk*x -->ithrya@pro<!--
-      asjoxp -->tonmail.com</p>
+      gQ5r(^^X5pUD!PTf6E --> consultw<!-- msh3SEE*FgSa&yZXk*x -->ithryan@pro<!--
+      asjoxp -->tonmail.<!-- b!u91=w&w@!gp$<D.J<cD?zG]2T?M)G+mRxc. -->com</p>
     _template: embed
 background:
   fillStyles: ' opacity-60'
