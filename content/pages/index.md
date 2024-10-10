@@ -93,20 +93,19 @@ blocks:
       style: bg-cover
       position: bg-center
     label: ''
-    headline: Services
+    headline: Three core attributes
     subhead: ''
     body: >
-      Building upon three core practices, Aqualith enables orgs with curated
-      design services,  enriches tabletop gamers' imagination, and engages the
-      social web with intentionality.
+      Aqualith enables you with curated design services,  enriching tabletop
+      gaming products, and engaging media with intentionality.
     items:
       - image:
           src: /uploads/brush.svg
         headline: Consultancy
         subhead: Self-sovereignty restored.
         body: >
-          Leave ho-hum centralization behind with a time-tested, graphic design
-          consultant at your side.
+          Leave ho-hum centralization behind with a time-tested,
+          privacy-conscious, graphic design professional at your side.
         link: '#'
         buttonLabel: Be set apart
       - image:
@@ -121,7 +120,7 @@ blocks:
       - image:
           src: /uploads/bolt.svg
         headline: Media
-        subhead: Sensory refreshment.
+        subhead: Senses refreshed.
         body: >
           Documenting nerdery and sensible forms of engagement through podcasts,
           networking, and the social web.
@@ -154,41 +153,44 @@ blocks:
     label: ''
     headline: Dossier
     subhead: The shakedown on the guy running this place
-    body: >
-      Like any nerd out there, I have eclectic taste. Dabbling in some interests
-      while displaying a pedigree in others, pinpointing a proper title truly
-      grows harder by the day. A keen eye for presentation and brand identity
-      might suggest I'm a designer. A empathic ear and desire for networking may
-      suggest I'm a consultant. The yearning to use platforms at my disposal may
-      imply I'm a publisher.
-
-
-      \
-
-      lorem ipsum
+    body: ''
     items:
       - headline: Bio
         subhead: ''
         text: >
-          A proper writeup will likely come at a later date, but the gist is in
-          the following.
+          Like any nerd out there, I have eclectic taste. Dabbling in some
+          interests while displaying a pedigree in others, pinpointing a proper,
+          professional title truly grows harder by the day. A keen eye for
+          presentation and brand identity might suggest I'm a designer. A
+          empathic ear and desire for networking may suggest I'm a consultant.
+          The yearning to use platforms at my disposal may imply I'm a
+          publisher. Some who've heard my voice say I should be podcaster.
 
 
           \
 
-          I began mimicking commercial logos at a very young age (I have the
-          sketchbook to prove it!) and eventually gave up my childhood dream of
-          becoming a cartoonist to become a graphic artist. That title has
-          evolved over time both because of the industry and my own career path
-          that started in Indiana, developed in Washington, and culminated where
-          I am today in Minnesota. It was here I gave life to *Aqualith Media*
-          as it's sole-proprietor, founder, and Head Hydromancer.
+          Looking back, I began mimicking commercial logos at a very young age
+          (I have the sketchbook to prove it!) and eventually gave up my
+          childhood dream of becoming a cartoonist to become a graphic artist.
+          That title has evolved over time primarily because the world was
+          introduced to the Web (I have quite a fondess for the Web 1.0 days)
+          and my own career path which started in Indiana, developed in
+          Washington state, and culminated where I am today in Minnesota. It was
+          here I gave life to *Aqualith Media* as it's sole-proprietor, founder,
+          and Head Hydromancer.
 
 
           \
 
-          Husband to my better half, Kristina, and father of two incredible
-          daughters.
+          On a personal front, I'm Husband to my better half, Kristina, and
+          father of two incredible daughters.
+
+
+          \
+
+          What you'll find below are pertinent links that take you away from
+          this site (don't go far!) including alternate methods of engaging with
+          the content I'm producing here.
       - headline: Professionally connect
         text: >
           **Message me directly and securely**
@@ -481,16 +483,6 @@ blocks:
           **▓ ░ ░ ░**
     navigationLabel: ''
     _template: cards
-  - style:
-      fullWidth: true
-      minHeight: min-h-0
-      padding: pt-32 pb-32 undefined pl-32
-    background:
-      style: bg-cover
-      position: bg-center
-    markup: Portfolio - Link to Portfolio page or Behance
-    navigationLabel: ''
-    _template: embed
   - style:
       alignment: flex-row items-center gap-40
       padding: pt-40 pb-40 pr-0 pl-80
