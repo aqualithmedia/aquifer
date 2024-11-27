@@ -518,8 +518,10 @@ blocks:
       src: /uploads/background/under-current.jpg
       style: bg-cover
       position: bg-center
-    markup: >2
-            <form action="#" class="space-y-8">
+    markup: >
+      <p>Email</p>
+
+      <form action="https://fabform.io/f/2e-nxB-" class="space-y-8">
                 <div>
       <label>Your email address</label>
 
@@ -528,8 +530,7 @@ blocks:
       focus:border-primary-500 block w-1/4 p-2.5 dark:bg-gray-700
       dark:border-gray-600 dark:placeholder-gray-400 dark:text-white
       dark:focus:ring-primary-500 dark:focus:border-primary-500
-      dark:shadow-sm-light" placeholder="Gmail addresses make this form sad, but
-      it'll still work. Begrudgingly." required>
+      dark:shadow-sm-light" placeholder="Your email address" required>
                 </div>
                 <div>    <label>Subject</label>     
                     <input type="text" id="subject" class="block p-3 w-1/2 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light" placeholder="Descriptive yet succinct subject lines help your email get read!" required>
