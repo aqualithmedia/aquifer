@@ -56,28 +56,19 @@
         "headline": "",
         "subhead": "",
         "text": "",
-        "buttons": "button"
+        "buttons": ""
       },
       "background": {
-        "fillStyles": " opacity-100",
+        "fillStyles": " opacity-20",
         "wrapFillStyles": " opacity-100",
         "src": "/uploads/background/under-current.jpg",
         "style": "bg-cover",
-        "position": "bg-center",
-        "ornaments": [
-          {
-            "src": "/uploads/brand/aqualith-logo-tran-500.png",
-            "alignment": "center",
-            "width": "200",
-            "height": "200",
-            "xOffset": "-650"
-          }
-        ]
+        "position": "bg-top"
       },
       "label": "",
       "headline": "AQUALITH MEDIA",
       "subhead": "",
-      "body": "Home\n\nConsultancy\n\nPublishing\n\nPodcast\n\nJoin\n\nContact\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")** running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
+      "body": "Home\n\n* Attributes\n* Dossier\n* Projects\n\nConsultancy\n\n* Design Services\n* Trainings\n\nPublishing\n\n* RPG Setting\n\nMedia\n\n* Podcast\n* Blog\n* Social Web\n\nJoin the Consortium!\n\nContact\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")** running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
       "navigationLabel": "",
       "_template": "tailwindFeature"
     }
