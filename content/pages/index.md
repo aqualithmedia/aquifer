@@ -521,7 +521,7 @@ blocks:
     markup: >
       <p>Email</p>
 
-      <form action="https://fabform.io/f/2e-nxB-" class="space-y-8">
+      <form action="https://fabform.io/f/2e-nxB-" method="post">
                 <div>
       <label>Your email address</label>
 
