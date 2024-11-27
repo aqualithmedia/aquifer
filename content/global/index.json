@@ -45,8 +45,8 @@
   "blocks": [
     {
       "tailwind": {
-        "section": "test",
-        "wrap": "test",
+        "section": "",
+        "wrap": "",
         "imageWrap": "",
         "image": "",
         "contentWrap": "",
