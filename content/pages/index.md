@@ -196,7 +196,7 @@ blocks:
           **Message me directly and securely**
 
 
-          **[Email](# "Email!")**
+          **[Email](#contact)**
 
 
           **[Session](https://getsession.org "Get Session and say hi.")** (ID:
@@ -507,64 +507,30 @@ blocks:
         link: 'https://mewe.com/join/theconsortium'
         icon: chat
         buttonStyle: primary
+    navigationLabel: join
     _template: feature
   - style:
-      fullWidth: true
-      minHeight: min-h-120
-      padding: pt-36 pb-20 undefined pl-32
+      alignment: 'flex-col-reverse items-center '
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-1/2 min-h-0 text-center
+      buttonsLayout: 'flex-wrap gap-0 '
+      labelStyles: text-black undefined undefined
+      headlineStyles: 'text-white mg-headline-large '
+      subheadStyles: text-black undefined undefined
+      textStyles: text-white undefined undefined
     background:
-      fillStyles: ' opacity-100'
+      fillStyles: ' opacity-30'
       wrapFillStyles: ' opacity-100'
       src: /uploads/background/under-current.jpg
       style: bg-cover
-      position: bg-center
-    markup: >
-      <p>Email</p>
-
-      <form action="https://fabform.io/f/2e-nxB-" method="post">
-                <div>
-      <label>Your email address</label>
-
-      <input type="email" id="email" class="shadow-sm bg-gray-50 border
-      border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500
-      focus:border-primary-500 block w-1/4 p-2.5 dark:bg-gray-700
-      dark:border-gray-600 dark:placeholder-gray-400 dark:text-white
-      dark:focus:ring-primary-500 dark:focus:border-primary-500
-      dark:shadow-sm-light" placeholder="Your email address" required>
-                </div>
-                <div>    <label>Subject</label>     
-                    <input type="text" id="subject" class="block p-3 w-1/2 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light" placeholder="Descriptive yet succinct subject lines help your email get read!" required>
-                </div>
-                <div class="sm:col-span-2">
-      <label>Your message</label>
-                    <textarea id="message" rows="6" class="block p-2.5 w-3/4 text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" placeholder="Let me know how I can be of help, share a trolling comment, or just say hi..."></textarea>
-                </div>
-                <button type="submit" class="">Swim, email, swim!</button>
-            </form>
-
-      <p>Or, if you want to get in touch, please drop me an email at<!--
-      gQ5r(^^X5pUD!PTf6E --> consultw<!-- msh3SEE*FgSa&yZXk*x -->ithryan@pro<!--
-      asjoxp -->tonmail.<!-- b!u91=w&w@!gp$<D.J<cD?zG]2T?M)G+mRxc. -->com</p>
-    navigationLabel: ''
-    _template: embed
-  - background:
-      style: bg-cover
-      position: bg-center
-    markup: >
-      <form action="https://fabform.io/f/2e-nxB-" method="post">
-        <label for="fullName">Name</label>
-        <input name="fullName" type="text" required>
-        <label for="email">Email</label>
-        <input name="email" type="email" required>
-        <label for="message">Message</label>
-        <input name="message" type="message" required>
-        <button type="submit">Send</button>
-      </form>
-
-      <p>If you want to get in touch, please drop me an email at<!--
-      gQ5r(^^X5pUD!PTf6E --> consultw<!-- msh3SEE*FgSa&yZXk*x -->ithryan@pro<!--
-      asjoxp -->tonmail.<!-- b!u91=w&w@!gp$<D.J<cD?zG]2T?M)G+mRxc. -->com</p>
-    _template: embed
+      position: bg-top
+    headline: Contact
+    subhead: ''
+    body: >
+      If you want to get in touch, please drop me an email at
+      **consultwithryan\@protonmail.com**
+    _template: feature
 background:
   fillStyles: ' opacity-60'
   wrapFillStyles: ' opacity-100'
