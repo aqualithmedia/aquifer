@@ -42,7 +42,7 @@
       }
     ]
   },
-  "footerNav": "true",
+  "footerNav": "false",
   "blocks": [
     {
       "tailwind": {
@@ -56,18 +56,28 @@
         "headline": "",
         "subhead": "",
         "text": "",
-        "buttons": ""
+        "buttons": "button"
       },
       "background": {
-        "fillStyles": "from-accent1 to-primary bg-gradient-to-r opacity-100",
+        "fillStyles": " opacity-100",
         "wrapFillStyles": " opacity-100",
+        "src": "/uploads/background/under-current.jpg",
         "style": "bg-cover",
-        "position": "bg-center"
+        "position": "bg-center",
+        "ornaments": [
+          {
+            "src": "/uploads/brand/aqualith-logo-tran-500.png",
+            "alignment": "center",
+            "width": "200",
+            "height": "200",
+            "xOffset": "-650"
+          }
+        ]
       },
       "label": "",
-      "headline": "",
+      "headline": "AQUALITH MEDIA",
       "subhead": "",
-      "body": "## Aqualith Media\n\nHOME | SERVICES | DOSSIER | PORTFOLIO | CONTACT\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")** running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
+      "body": "Home\n\nConsultancy\n\nPublishing\n\nPodcast\n\nJoin\n\nContact\n\nBuilt using **[Microgen](https://microgen.site \"Microgen\")** running  on **[IPFS](https://ipfs.tech/ \"IPFS\")**.\n",
       "navigationLabel": "",
       "_template": "tailwindFeature"
     }
