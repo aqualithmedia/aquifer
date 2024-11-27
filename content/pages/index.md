@@ -518,7 +518,7 @@ blocks:
       src: /uploads/background/under-current.jpg
       style: bg-cover
       position: bg-center
-    markup: >2-
+    markup: >2
             <form action="#" class="space-y-8">
                 <div>
       <label>Your email address</label>
@@ -538,8 +538,12 @@ blocks:
       <label>Your message</label>
                     <textarea id="message" rows="6" class="block p-2.5 w-3/4 text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" placeholder="Let me know how I can be of help, share a trolling comment, or just say hi..."></textarea>
                 </div>
-                <button type="submit" class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-primary-700 sm:w-fit hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Swim, email, swim!</button>
+                <button type="submit" class="">Swim, email, swim!</button>
             </form>
+
+      <p>Or, if you want to get in touch, please drop me an email at<!--
+      gQ5r(^^X5pUD!PTf6E --> consultw<!-- msh3SEE*FgSa&yZXk*x -->ithryan@pro<!--
+      asjoxp -->tonmail.<!-- b!u91=w&w@!gp$<D.J<cD?zG]2T?M)G+mRxc. -->com</p>
     navigationLabel: ''
     _template: embed
   - background:
